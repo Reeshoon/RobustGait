@@ -92,7 +92,6 @@ class DeepGaitV2(BaseModel):
 
     def forward(self, inputs):
         ipts, labs, typs, vies, seqL = inputs
-        
         if len(ipts[0].size()) == 4:
             sils = ipts[0].unsqueeze(1)
         else:

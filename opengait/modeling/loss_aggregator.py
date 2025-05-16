@@ -62,6 +62,8 @@ class LossAggregator(nn.Module):
         for k, v in training_feats.items():
             if k in self.losses:
                 loss_func = self.losses[k]
+                # print(f"[DEBUG] loss_func = {loss_func.__class__.__name__}")
+                # print(f"[DEBUG] kwargs passed = {list(v.keys())}")
                 loss, info = loss_func(**v)
                 for name, value in info.items():
                     loss_info['scalar/%s/%s' % (k, name)] = value

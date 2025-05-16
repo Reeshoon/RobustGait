@@ -203,3 +203,7 @@ def get_ddp_module(module, find_unused_parameters=False, **kwargs):
 def params_count(net):
     n_parameters = sum(p.numel() for p in net.parameters())
     return 'Parameters Count: {:.5f}M'.format(n_parameters / 1e6)
+
+def trainable_params_count(net):
+    n_parameters = sum(p.numel() for p in net.parameters() if p.requires_grad)
+    return 'Trainable Parameters Count: {:.5f}M'.format(n_parameters / 1e6)

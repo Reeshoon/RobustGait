@@ -3,9 +3,11 @@ from time import strftime, localtime
 import numpy as np
 from utils import get_msg_mgr, mkdir
 
-from .metric import mean_iou, cuda_dist, compute_ACC_mAP, evaluate_rank, evaluate_many
+from .metric import mean_iou, cuda_dist, compute_ACC_mAP, evaluate_rank, evaluate_many, evaluate_mevid
 from .re_rank import re_ranking
 from sklearn.metrics import confusion_matrix, accuracy_score
+import pdb
+import pickle
 
 def de_diag(acc, each_angle=False):
     # Exclude identical-view cases
@@ -127,6 +129,7 @@ def single_view_gallery_evaluation(feature, label, seq_type, view, dataset, metr
                 result_dict[f'scalar/test_accuracy/{type_}@R{rank+1}'] = np.mean(sub_acc)
             out_str += f"{type_}@R{rank+1}: {np.mean(sub_acc):.2f}%\t"
         msg_mgr.log_info(out_str)
+        print(out_str)
     return result_dict
 
 
@@ -299,6 +302,7 @@ def evaluate_CCPG(data, dataset, metric='euc'):
     msg_mgr = get_msg_mgr()
 
     feature, label, seq_type, view = data['embeddings'], data['labels'], data['types'], data['views']
+    
 
     label = np.array(label)
     for i in range(len(view)):
@@ -457,3 +461,59 @@ def evaluate_scoliosis(data, dataset, metric='euc'):
     print(f"Accuracy: {accuracy * 100:.2f}%")
 
     return result_dict
+
+def evaluate_MEVID(data, dataset, metric='euc'):
+    msg_mgr = get_msg_mgr()
+    # Extract necessary components from the data
+    feature, label, seq_type, view = data['embeddings'], data['labels'], data['types'], data['views']
+    #view = [v.split('_')[0] for v in view]
+
+    # Load track and probe information for MEVID dataset
+    track_test_info_path = './datasets/MEVID/track_test_info.txt'
+    probe_IDX_path = './datasets/MEVID/query_IDX.txt'
+
+    # Extract probe and gallery sets indices
+    track_test = np.loadtxt(track_test_info_path).astype(int)
+    probe_IDX = np.loadtxt(probe_IDX_path).astype(int) 
+    gallery_IDX = [i for i in range(track_test.shape[0]) if i not in probe_IDX]  # Gallery set indices
+
+    # Split probe and gallery information into respective labels and views
+    label_np = np.array(label)
+    view_np = np.array(view)
+
+    # Split probe and gallery information into respective labels and views
+    probe_labels = label_np[probe_IDX]
+    gallery_labels = label_np[gallery_IDX]
+
+    probe_views = view_np[probe_IDX]
+    gallery_views = view_np[gallery_IDX]
+
+    # Extract embeddings for probe and gallery sets
+    probe_features = feature[probe_IDX, :]
+    gallery_features = feature[gallery_IDX, :]
+
+    dist = cuda_dist(probe_features, gallery_features, metric).cpu().numpy()
+
+    msg_mgr.log_info("Computing CMC and mAP using MEVID method")
+    all_cmc, mAP = evaluate_mevid(dist, probe_labels, gallery_labels, probe_views, gallery_views)
+
+    msg_mgr.log_info("Overall Results ----------")
+    msg_mgr.log_info('top1: {:.1%} top5: {:.1%} top10: {:.1%} top20: {:.1%} mAP: {:.1%}'.format(all_cmc[0],all_cmc[4],all_cmc[9],all_cmc[19],mAP))
+
+    msg_mgr.log_info("Computing CMC and mAP using OpenGait method")
+    cmc, all_AP, all_INP = evaluate_rank(dist, probe_labels, gallery_labels)
+
+    results = {}
+    mAP = np.mean(all_AP)
+    mINP = np.mean(all_INP)
+    for r in [1, 5, 10]:
+        results['scalar/test_accuracy/Rank-{}'.format(r)] = cmc[r - 1] * 100
+    results['scalar/test_accuracy/mAP'] = mAP * 100
+    results['scalar/test_accuracy/mINP'] = mINP * 100
+
+    for key, value in results.items():
+        msg_mgr.log_info(f"{key}: {value}")
+    
+    msg_mgr.log_info("------------------")
+
+    return 

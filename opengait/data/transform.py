@@ -1,10 +1,12 @@
 import numpy as np
 import random
+import torch
 import torchvision.transforms as T
 import cv2
 import math
 from data import transform as base_transform
 from utils import is_list, is_dict, get_valid_args
+from einops import rearrange, repeat
 
 
 class NoOperation():
@@ -68,7 +70,40 @@ class BaseRgbTransform():
         self.std = np.array(std).reshape((1, 3, 1, 1))
 
     def __call__(self, x):
-        return (x - self.mean) / self.std
+        x = rearrange(x, 'f h w c -> f c h w')
+        x = (x - self.mean) / self.std
+        x = rearrange(x, 'f c h w -> f h w c')
+        return x
+
+## **************** RGB Modality ****************
+class CudaBaseRgbTransform():
+    def __init__(self, mean=None, std=None, height=224, width=224):
+        if mean is None:
+            # mean = [0.485*255, 0.456*255, 0.406*255]
+            mean = [0.485, 0.456, 0.406]
+        if std is None:
+            # std = [0.229*255, 0.224*255, 0.225*255]
+            std = [0.229, 0.224, 0.225]
+        
+        self.preprocess = T.Compose(
+            [
+                T.Resize((height, width)),
+                T.Normalize(mean, std)
+            ]
+        )
+
+    def __call__(self, x):
+        f, _, _, _ = x.shape
+        
+        x = rearrange(x, "f h w c -> f c h w") # TODO: Fix Here
+        
+        #x = x / 255.0
+        x = torch.tensor(x, dtype=torch.float32) / 255.0
+        x = self.preprocess(x)
+        
+        x = rearrange(x, "f c h w -> f c h w", f=f) # TODO: Fix Here
+        
+        return x
 
 
 # **************** Data Agumentation ****************

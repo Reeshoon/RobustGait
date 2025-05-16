@@ -1,0 +1,8802 @@
+{
+    "075-nm-01-000": [
+        "shot_noise",
+        "sev3"
+    ],
+    "075-nm-01-018": [
+        "shot_noise",
+        "sev3"
+    ],
+    "075-nm-01-036": [
+        "freeze",
+        "sev2"
+    ],
+    "075-nm-01-054": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "075-nm-01-072": [
+        "shot_noise",
+        "sev2"
+    ],
+    "075-nm-01-090": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "075-nm-01-108": [
+        "freeze",
+        "sev5"
+    ],
+    "075-nm-01-126": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "075-nm-01-144": [
+        "sampling",
+        "sev3"
+    ],
+    "075-nm-01-162": [
+        "rain",
+        "sev5"
+    ],
+    "075-nm-01-180": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "075-nm-02-000": [
+        "rain",
+        "sev5"
+    ],
+    "075-nm-02-018": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "075-nm-02-036": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "075-nm-02-054": [
+        "zoom_in",
+        "sev5"
+    ],
+    "075-nm-02-072": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "075-nm-02-090": [
+        "shot_noise",
+        "sev4"
+    ],
+    "075-nm-02-108": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "075-nm-02-126": [
+        "fog",
+        "sev5"
+    ],
+    "075-nm-02-144": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "075-nm-02-162": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "075-nm-02-180": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "075-nm-03-000": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "075-nm-03-018": [
+        "snow",
+        "sev3"
+    ],
+    "075-nm-03-036": [
+        "sampling",
+        "sev5"
+    ],
+    "075-nm-03-054": [
+        "shot_noise",
+        "sev5"
+    ],
+    "075-nm-03-072": [
+        "sampling",
+        "sev3"
+    ],
+    "075-nm-03-090": [
+        "freeze",
+        "sev2"
+    ],
+    "075-nm-03-108": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "075-nm-03-126": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "075-nm-03-144": [
+        "rain",
+        "sev2"
+    ],
+    "075-nm-03-162": [
+        "freeze",
+        "sev5"
+    ],
+    "075-nm-03-180": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "075-nm-04-000": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "075-nm-04-018": [
+        "zoom_in",
+        "sev3"
+    ],
+    "075-nm-04-036": [
+        "low_light",
+        "sev3"
+    ],
+    "075-nm-04-054": [
+        "rain",
+        "sev1"
+    ],
+    "075-nm-04-072": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "075-nm-04-090": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "075-nm-04-108": [
+        "snow",
+        "sev2"
+    ],
+    "075-nm-04-126": [
+        "low_light",
+        "sev1"
+    ],
+    "075-nm-04-144": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "075-nm-04-162": [
+        "snow",
+        "sev1"
+    ],
+    "075-nm-04-180": [
+        "freeze",
+        "sev1"
+    ],
+    "076-nm-01-000": [
+        "freeze",
+        "sev1"
+    ],
+    "076-nm-01-018": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "076-nm-01-036": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "076-nm-01-054": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "076-nm-01-072": [
+        "fog",
+        "sev4"
+    ],
+    "076-nm-01-090": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "076-nm-01-108": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "076-nm-01-126": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "076-nm-01-144": [
+        "sampling",
+        "sev1"
+    ],
+    "076-nm-01-162": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "076-nm-01-180": [
+        "shot_noise",
+        "sev5"
+    ],
+    "076-nm-02-000": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "076-nm-02-018": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "076-nm-02-036": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "076-nm-02-054": [
+        "snow",
+        "sev3"
+    ],
+    "076-nm-02-072": [
+        "rain",
+        "sev1"
+    ],
+    "076-nm-02-090": [
+        "rain",
+        "sev5"
+    ],
+    "076-nm-02-108": [
+        "snow",
+        "sev2"
+    ],
+    "076-nm-02-126": [
+        "fog",
+        "sev2"
+    ],
+    "076-nm-02-144": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "076-nm-02-162": [
+        "rain",
+        "sev4"
+    ],
+    "076-nm-02-180": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "076-nm-03-000": [
+        "shot_noise",
+        "sev2"
+    ],
+    "076-nm-03-018": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "076-nm-03-036": [
+        "snow",
+        "sev5"
+    ],
+    "076-nm-03-054": [
+        "freeze",
+        "sev4"
+    ],
+    "076-nm-03-072": [
+        "sampling",
+        "sev4"
+    ],
+    "076-nm-03-090": [
+        "sampling",
+        "sev2"
+    ],
+    "076-nm-03-108": [
+        "freeze",
+        "sev4"
+    ],
+    "076-nm-03-126": [
+        "rain",
+        "sev4"
+    ],
+    "076-nm-03-144": [
+        "shot_noise",
+        "sev3"
+    ],
+    "076-nm-03-162": [
+        "fog",
+        "sev3"
+    ],
+    "076-nm-03-180": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "076-nm-04-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "076-nm-04-018": [
+        "snow",
+        "sev2"
+    ],
+    "076-nm-04-036": [
+        "freeze",
+        "sev2"
+    ],
+    "076-nm-04-054": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "076-nm-04-072": [
+        "fog",
+        "sev5"
+    ],
+    "076-nm-04-090": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "076-nm-04-108": [
+        "zoom_in",
+        "sev5"
+    ],
+    "076-nm-04-126": [
+        "shot_noise",
+        "sev5"
+    ],
+    "076-nm-04-144": [
+        "fog",
+        "sev4"
+    ],
+    "076-nm-04-162": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "076-nm-04-180": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "077-nm-01-000": [
+        "freeze",
+        "sev1"
+    ],
+    "077-nm-01-018": [
+        "shot_noise",
+        "sev4"
+    ],
+    "077-nm-01-036": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "077-nm-01-054": [
+        "sampling",
+        "sev4"
+    ],
+    "077-nm-01-072": [
+        "low_light",
+        "sev4"
+    ],
+    "077-nm-01-090": [
+        "rain",
+        "sev1"
+    ],
+    "077-nm-01-108": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "077-nm-01-126": [
+        "zoom_in",
+        "sev2"
+    ],
+    "077-nm-01-144": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "077-nm-01-162": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "077-nm-01-180": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "077-nm-02-000": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "077-nm-02-018": [
+        "freeze",
+        "sev4"
+    ],
+    "077-nm-02-036": [
+        "low_light",
+        "sev2"
+    ],
+    "077-nm-02-054": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "077-nm-02-072": [
+        "sampling",
+        "sev2"
+    ],
+    "077-nm-02-090": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "077-nm-02-108": [
+        "sampling",
+        "sev4"
+    ],
+    "077-nm-02-126": [
+        "zoom_in",
+        "sev5"
+    ],
+    "077-nm-02-144": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "077-nm-02-162": [
+        "fog",
+        "sev4"
+    ],
+    "077-nm-02-180": [
+        "fog",
+        "sev5"
+    ],
+    "077-nm-03-000": [
+        "low_light",
+        "sev5"
+    ],
+    "077-nm-03-018": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "077-nm-03-036": [
+        "snow",
+        "sev1"
+    ],
+    "077-nm-03-054": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "077-nm-03-072": [
+        "shot_noise",
+        "sev3"
+    ],
+    "077-nm-03-090": [
+        "snow",
+        "sev2"
+    ],
+    "077-nm-03-108": [
+        "zoom_in",
+        "sev4"
+    ],
+    "077-nm-03-126": [
+        "sampling",
+        "sev4"
+    ],
+    "077-nm-03-144": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "077-nm-03-162": [
+        "snow",
+        "sev3"
+    ],
+    "077-nm-03-180": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "077-nm-04-000": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "077-nm-04-018": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "077-nm-04-036": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "077-nm-04-054": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "077-nm-04-072": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "077-nm-04-090": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "077-nm-04-108": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "077-nm-04-126": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "077-nm-04-144": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "077-nm-04-162": [
+        "sampling",
+        "sev3"
+    ],
+    "077-nm-04-180": [
+        "rain",
+        "sev5"
+    ],
+    "078-nm-01-000": [
+        "sampling",
+        "sev4"
+    ],
+    "078-nm-01-018": [
+        "shot_noise",
+        "sev5"
+    ],
+    "078-nm-01-036": [
+        "freeze",
+        "sev3"
+    ],
+    "078-nm-01-054": [
+        "freeze",
+        "sev4"
+    ],
+    "078-nm-01-072": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "078-nm-01-090": [
+        "rain",
+        "sev2"
+    ],
+    "078-nm-01-108": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "078-nm-01-126": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "078-nm-01-144": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "078-nm-01-162": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "078-nm-01-180": [
+        "fog",
+        "sev4"
+    ],
+    "078-nm-02-000": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "078-nm-02-018": [
+        "fog",
+        "sev3"
+    ],
+    "078-nm-02-036": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "078-nm-02-054": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "078-nm-02-072": [
+        "snow",
+        "sev1"
+    ],
+    "078-nm-02-090": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "078-nm-02-108": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "078-nm-02-126": [
+        "zoom_in",
+        "sev2"
+    ],
+    "078-nm-02-144": [
+        "shot_noise",
+        "sev1"
+    ],
+    "078-nm-02-162": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "078-nm-02-180": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "078-nm-03-000": [
+        "freeze",
+        "sev5"
+    ],
+    "078-nm-03-018": [
+        "snow",
+        "sev3"
+    ],
+    "078-nm-03-036": [
+        "low_light",
+        "sev3"
+    ],
+    "078-nm-03-054": [
+        "sampling",
+        "sev5"
+    ],
+    "078-nm-03-072": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "078-nm-03-090": [
+        "fog",
+        "sev5"
+    ],
+    "078-nm-03-108": [
+        "sampling",
+        "sev3"
+    ],
+    "078-nm-03-126": [
+        "snow",
+        "sev4"
+    ],
+    "078-nm-03-144": [
+        "zoom_in",
+        "sev5"
+    ],
+    "078-nm-03-162": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "078-nm-03-180": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "078-nm-04-000": [
+        "sampling",
+        "sev5"
+    ],
+    "078-nm-04-018": [
+        "rain",
+        "sev3"
+    ],
+    "078-nm-04-036": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "078-nm-04-054": [
+        "snow",
+        "sev1"
+    ],
+    "078-nm-04-072": [
+        "low_light",
+        "sev3"
+    ],
+    "078-nm-04-090": [
+        "fog",
+        "sev1"
+    ],
+    "078-nm-04-108": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "078-nm-04-126": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "078-nm-04-144": [
+        "freeze",
+        "sev5"
+    ],
+    "078-nm-04-162": [
+        "shot_noise",
+        "sev2"
+    ],
+    "078-nm-04-180": [
+        "low_light",
+        "sev3"
+    ],
+    "079-nm-01-000": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "079-nm-01-018": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "079-nm-01-036": [
+        "sampling",
+        "sev4"
+    ],
+    "079-nm-01-054": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "079-nm-01-072": [
+        "freeze",
+        "sev4"
+    ],
+    "079-nm-01-090": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "079-nm-01-108": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "079-nm-01-126": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "079-nm-01-144": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "079-nm-01-162": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "079-nm-01-180": [
+        "rain",
+        "sev5"
+    ],
+    "079-nm-02-000": [
+        "freeze",
+        "sev1"
+    ],
+    "079-nm-02-018": [
+        "rain",
+        "sev5"
+    ],
+    "079-nm-02-036": [
+        "snow",
+        "sev2"
+    ],
+    "079-nm-02-054": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "079-nm-02-072": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "079-nm-02-090": [
+        "low_light",
+        "sev5"
+    ],
+    "079-nm-02-108": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "079-nm-02-126": [
+        "zoom_in",
+        "sev2"
+    ],
+    "079-nm-02-144": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "079-nm-02-162": [
+        "low_light",
+        "sev5"
+    ],
+    "079-nm-02-180": [
+        "rain",
+        "sev4"
+    ],
+    "079-nm-03-000": [
+        "shot_noise",
+        "sev5"
+    ],
+    "079-nm-03-018": [
+        "freeze",
+        "sev3"
+    ],
+    "079-nm-03-036": [
+        "zoom_in",
+        "sev5"
+    ],
+    "079-nm-03-054": [
+        "sampling",
+        "sev1"
+    ],
+    "079-nm-03-072": [
+        "sampling",
+        "sev3"
+    ],
+    "079-nm-03-090": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "079-nm-03-108": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "079-nm-03-126": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "079-nm-03-144": [
+        "low_light",
+        "sev5"
+    ],
+    "079-nm-03-162": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "079-nm-03-180": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "079-nm-04-000": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "079-nm-04-018": [
+        "snow",
+        "sev4"
+    ],
+    "079-nm-04-036": [
+        "fog",
+        "sev5"
+    ],
+    "079-nm-04-054": [
+        "snow",
+        "sev1"
+    ],
+    "079-nm-04-072": [
+        "shot_noise",
+        "sev2"
+    ],
+    "079-nm-04-090": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "079-nm-04-108": [
+        "sampling",
+        "sev1"
+    ],
+    "079-nm-04-126": [
+        "sampling",
+        "sev4"
+    ],
+    "079-nm-04-144": [
+        "snow",
+        "sev5"
+    ],
+    "079-nm-04-162": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "079-nm-04-180": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "080-nm-01-000": [
+        "freeze",
+        "sev4"
+    ],
+    "080-nm-01-018": [
+        "rain",
+        "sev4"
+    ],
+    "080-nm-01-036": [
+        "rain",
+        "sev4"
+    ],
+    "080-nm-01-054": [
+        "freeze",
+        "sev2"
+    ],
+    "080-nm-01-072": [
+        "snow",
+        "sev4"
+    ],
+    "080-nm-01-090": [
+        "fog",
+        "sev1"
+    ],
+    "080-nm-01-108": [
+        "zoom_in",
+        "sev3"
+    ],
+    "080-nm-01-126": [
+        "sampling",
+        "sev3"
+    ],
+    "080-nm-01-144": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "080-nm-01-162": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "080-nm-01-180": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "080-nm-02-000": [
+        "low_light",
+        "sev1"
+    ],
+    "080-nm-02-018": [
+        "snow",
+        "sev2"
+    ],
+    "080-nm-02-036": [
+        "zoom_in",
+        "sev2"
+    ],
+    "080-nm-02-054": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "080-nm-02-072": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "080-nm-02-090": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "080-nm-02-108": [
+        "shot_noise",
+        "sev4"
+    ],
+    "080-nm-02-126": [
+        "sampling",
+        "sev2"
+    ],
+    "080-nm-02-144": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "080-nm-02-162": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "080-nm-02-180": [
+        "sampling",
+        "sev5"
+    ],
+    "080-nm-03-000": [
+        "shot_noise",
+        "sev5"
+    ],
+    "080-nm-03-018": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "080-nm-03-036": [
+        "fog",
+        "sev4"
+    ],
+    "080-nm-03-054": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "080-nm-03-072": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "080-nm-03-090": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "080-nm-03-108": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "080-nm-03-126": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "080-nm-03-144": [
+        "low_light",
+        "sev4"
+    ],
+    "080-nm-03-162": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "080-nm-03-180": [
+        "sampling",
+        "sev4"
+    ],
+    "080-nm-04-000": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "080-nm-04-018": [
+        "rain",
+        "sev5"
+    ],
+    "080-nm-04-036": [
+        "snow",
+        "sev1"
+    ],
+    "080-nm-04-054": [
+        "fog",
+        "sev2"
+    ],
+    "080-nm-04-072": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "080-nm-04-090": [
+        "low_light",
+        "sev5"
+    ],
+    "080-nm-04-108": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "080-nm-04-126": [
+        "fog",
+        "sev3"
+    ],
+    "080-nm-04-144": [
+        "zoom_in",
+        "sev2"
+    ],
+    "080-nm-04-162": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "080-nm-04-180": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "081-nm-01-000": [
+        "sampling",
+        "sev3"
+    ],
+    "081-nm-01-018": [
+        "rain",
+        "sev2"
+    ],
+    "081-nm-01-036": [
+        "sampling",
+        "sev5"
+    ],
+    "081-nm-01-054": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "081-nm-01-072": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "081-nm-01-090": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "081-nm-01-108": [
+        "sampling",
+        "sev2"
+    ],
+    "081-nm-01-126": [
+        "shot_noise",
+        "sev1"
+    ],
+    "081-nm-01-144": [
+        "rain",
+        "sev3"
+    ],
+    "081-nm-01-162": [
+        "freeze",
+        "sev2"
+    ],
+    "081-nm-01-180": [
+        "zoom_in",
+        "sev1"
+    ],
+    "081-nm-02-000": [
+        "freeze",
+        "sev5"
+    ],
+    "081-nm-02-018": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "081-nm-02-036": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "081-nm-02-054": [
+        "freeze",
+        "sev1"
+    ],
+    "081-nm-02-072": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "081-nm-02-090": [
+        "low_light",
+        "sev1"
+    ],
+    "081-nm-02-108": [
+        "rain",
+        "sev4"
+    ],
+    "081-nm-02-126": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "081-nm-02-144": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "081-nm-02-162": [
+        "zoom_in",
+        "sev4"
+    ],
+    "081-nm-02-180": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "081-nm-03-000": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "081-nm-03-018": [
+        "shot_noise",
+        "sev4"
+    ],
+    "081-nm-03-036": [
+        "zoom_in",
+        "sev3"
+    ],
+    "081-nm-03-054": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "081-nm-03-072": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "081-nm-03-090": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "081-nm-03-108": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "081-nm-03-126": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "081-nm-03-144": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "081-nm-03-162": [
+        "snow",
+        "sev2"
+    ],
+    "081-nm-03-180": [
+        "low_light",
+        "sev4"
+    ],
+    "081-nm-04-000": [
+        "low_light",
+        "sev4"
+    ],
+    "081-nm-04-018": [
+        "freeze",
+        "sev4"
+    ],
+    "081-nm-04-036": [
+        "shot_noise",
+        "sev5"
+    ],
+    "081-nm-04-054": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "081-nm-04-072": [
+        "fog",
+        "sev5"
+    ],
+    "081-nm-04-090": [
+        "fog",
+        "sev3"
+    ],
+    "081-nm-04-108": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "081-nm-04-126": [
+        "rain",
+        "sev5"
+    ],
+    "081-nm-04-144": [
+        "fog",
+        "sev2"
+    ],
+    "081-nm-04-162": [
+        "snow",
+        "sev1"
+    ],
+    "081-nm-04-180": [
+        "snow",
+        "sev1"
+    ],
+    "082-nm-01-000": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "082-nm-01-018": [
+        "low_light",
+        "sev1"
+    ],
+    "082-nm-01-036": [
+        "shot_noise",
+        "sev5"
+    ],
+    "082-nm-01-054": [
+        "snow",
+        "sev3"
+    ],
+    "082-nm-01-072": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "082-nm-01-090": [
+        "rain",
+        "sev1"
+    ],
+    "082-nm-01-108": [
+        "freeze",
+        "sev4"
+    ],
+    "082-nm-01-126": [
+        "low_light",
+        "sev2"
+    ],
+    "082-nm-01-144": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "082-nm-01-162": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "082-nm-01-180": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "082-nm-02-000": [
+        "freeze",
+        "sev5"
+    ],
+    "082-nm-02-018": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "082-nm-02-036": [
+        "low_light",
+        "sev4"
+    ],
+    "082-nm-02-054": [
+        "freeze",
+        "sev1"
+    ],
+    "082-nm-02-072": [
+        "snow",
+        "sev3"
+    ],
+    "082-nm-02-090": [
+        "shot_noise",
+        "sev5"
+    ],
+    "082-nm-02-108": [
+        "sampling",
+        "sev4"
+    ],
+    "082-nm-02-126": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "082-nm-02-144": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "082-nm-02-162": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "082-nm-02-180": [
+        "freeze",
+        "sev2"
+    ],
+    "082-nm-03-000": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "082-nm-03-018": [
+        "freeze",
+        "sev2"
+    ],
+    "082-nm-03-036": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "082-nm-03-054": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "082-nm-03-072": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "082-nm-03-090": [
+        "zoom_in",
+        "sev4"
+    ],
+    "082-nm-03-108": [
+        "rain",
+        "sev5"
+    ],
+    "082-nm-03-126": [
+        "freeze",
+        "sev4"
+    ],
+    "082-nm-03-144": [
+        "shot_noise",
+        "sev4"
+    ],
+    "082-nm-03-162": [
+        "low_light",
+        "sev4"
+    ],
+    "082-nm-03-180": [
+        "snow",
+        "sev2"
+    ],
+    "082-nm-04-000": [
+        "rain",
+        "sev1"
+    ],
+    "082-nm-04-018": [
+        "freeze",
+        "sev2"
+    ],
+    "082-nm-04-036": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "082-nm-04-054": [
+        "rain",
+        "sev5"
+    ],
+    "082-nm-04-072": [
+        "freeze",
+        "sev1"
+    ],
+    "082-nm-04-090": [
+        "rain",
+        "sev4"
+    ],
+    "082-nm-04-108": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "082-nm-04-126": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "082-nm-04-144": [
+        "shot_noise",
+        "sev2"
+    ],
+    "082-nm-04-162": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "082-nm-04-180": [
+        "sampling",
+        "sev1"
+    ],
+    "083-nm-01-000": [
+        "freeze",
+        "sev4"
+    ],
+    "083-nm-01-018": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "083-nm-01-036": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "083-nm-01-054": [
+        "fog",
+        "sev1"
+    ],
+    "083-nm-01-072": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "083-nm-01-090": [
+        "sampling",
+        "sev2"
+    ],
+    "083-nm-01-108": [
+        "snow",
+        "sev3"
+    ],
+    "083-nm-01-126": [
+        "freeze",
+        "sev4"
+    ],
+    "083-nm-01-144": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "083-nm-01-162": [
+        "zoom_in",
+        "sev1"
+    ],
+    "083-nm-01-180": [
+        "rain",
+        "sev1"
+    ],
+    "083-nm-02-000": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "083-nm-02-018": [
+        "fog",
+        "sev4"
+    ],
+    "083-nm-02-036": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "083-nm-02-054": [
+        "sampling",
+        "sev4"
+    ],
+    "083-nm-02-072": [
+        "sampling",
+        "sev3"
+    ],
+    "083-nm-02-090": [
+        "freeze",
+        "sev1"
+    ],
+    "083-nm-02-108": [
+        "zoom_in",
+        "sev2"
+    ],
+    "083-nm-02-126": [
+        "freeze",
+        "sev3"
+    ],
+    "083-nm-02-144": [
+        "low_light",
+        "sev4"
+    ],
+    "083-nm-02-162": [
+        "shot_noise",
+        "sev3"
+    ],
+    "083-nm-02-180": [
+        "freeze",
+        "sev1"
+    ],
+    "083-nm-03-000": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "083-nm-03-018": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "083-nm-03-036": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "083-nm-03-054": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "083-nm-03-072": [
+        "rain",
+        "sev2"
+    ],
+    "083-nm-03-090": [
+        "sampling",
+        "sev3"
+    ],
+    "083-nm-03-108": [
+        "freeze",
+        "sev5"
+    ],
+    "083-nm-03-126": [
+        "sampling",
+        "sev3"
+    ],
+    "083-nm-03-144": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "083-nm-03-162": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "083-nm-03-180": [
+        "low_light",
+        "sev4"
+    ],
+    "083-nm-04-000": [
+        "sampling",
+        "sev2"
+    ],
+    "083-nm-04-018": [
+        "fog",
+        "sev5"
+    ],
+    "083-nm-04-036": [
+        "zoom_in",
+        "sev2"
+    ],
+    "083-nm-04-054": [
+        "fog",
+        "sev1"
+    ],
+    "083-nm-04-072": [
+        "low_light",
+        "sev4"
+    ],
+    "083-nm-04-090": [
+        "low_light",
+        "sev3"
+    ],
+    "083-nm-04-108": [
+        "freeze",
+        "sev5"
+    ],
+    "083-nm-04-126": [
+        "low_light",
+        "sev4"
+    ],
+    "083-nm-04-144": [
+        "freeze",
+        "sev1"
+    ],
+    "083-nm-04-162": [
+        "fog",
+        "sev5"
+    ],
+    "083-nm-04-180": [
+        "rain",
+        "sev1"
+    ],
+    "084-nm-01-000": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "084-nm-01-018": [
+        "rain",
+        "sev4"
+    ],
+    "084-nm-01-036": [
+        "zoom_in",
+        "sev5"
+    ],
+    "084-nm-01-054": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "084-nm-01-072": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "084-nm-01-090": [
+        "rain",
+        "sev5"
+    ],
+    "084-nm-01-108": [
+        "snow",
+        "sev3"
+    ],
+    "084-nm-01-126": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "084-nm-01-144": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "084-nm-01-162": [
+        "snow",
+        "sev5"
+    ],
+    "084-nm-01-180": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "084-nm-02-000": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "084-nm-02-018": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "084-nm-02-036": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "084-nm-02-054": [
+        "fog",
+        "sev4"
+    ],
+    "084-nm-02-072": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "084-nm-02-090": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "084-nm-02-108": [
+        "fog",
+        "sev5"
+    ],
+    "084-nm-02-126": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "084-nm-02-144": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "084-nm-02-162": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "084-nm-02-180": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "084-nm-03-000": [
+        "sampling",
+        "sev1"
+    ],
+    "084-nm-03-018": [
+        "fog",
+        "sev1"
+    ],
+    "084-nm-03-036": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "084-nm-03-054": [
+        "sampling",
+        "sev3"
+    ],
+    "084-nm-03-072": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "084-nm-03-090": [
+        "fog",
+        "sev5"
+    ],
+    "084-nm-03-108": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "084-nm-03-126": [
+        "freeze",
+        "sev3"
+    ],
+    "084-nm-03-144": [
+        "shot_noise",
+        "sev2"
+    ],
+    "084-nm-03-162": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "084-nm-03-180": [
+        "snow",
+        "sev2"
+    ],
+    "084-nm-04-000": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "084-nm-04-018": [
+        "sampling",
+        "sev2"
+    ],
+    "084-nm-04-036": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "084-nm-04-054": [
+        "zoom_in",
+        "sev3"
+    ],
+    "084-nm-04-072": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "084-nm-04-090": [
+        "sampling",
+        "sev5"
+    ],
+    "084-nm-04-108": [
+        "shot_noise",
+        "sev5"
+    ],
+    "084-nm-04-126": [
+        "zoom_in",
+        "sev3"
+    ],
+    "084-nm-04-144": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "084-nm-04-162": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "084-nm-04-180": [
+        "fog",
+        "sev2"
+    ],
+    "085-nm-01-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "085-nm-01-018": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "085-nm-01-036": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "085-nm-01-054": [
+        "shot_noise",
+        "sev4"
+    ],
+    "085-nm-01-072": [
+        "fog",
+        "sev1"
+    ],
+    "085-nm-01-090": [
+        "low_light",
+        "sev5"
+    ],
+    "085-nm-01-108": [
+        "rain",
+        "sev4"
+    ],
+    "085-nm-01-126": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "085-nm-01-144": [
+        "rain",
+        "sev5"
+    ],
+    "085-nm-01-162": [
+        "snow",
+        "sev3"
+    ],
+    "085-nm-01-180": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "085-nm-02-000": [
+        "rain",
+        "sev1"
+    ],
+    "085-nm-02-018": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "085-nm-02-036": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "085-nm-02-054": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "085-nm-02-072": [
+        "rain",
+        "sev4"
+    ],
+    "085-nm-02-090": [
+        "snow",
+        "sev2"
+    ],
+    "085-nm-02-108": [
+        "fog",
+        "sev3"
+    ],
+    "085-nm-02-126": [
+        "zoom_in",
+        "sev2"
+    ],
+    "085-nm-02-144": [
+        "shot_noise",
+        "sev5"
+    ],
+    "085-nm-02-162": [
+        "zoom_in",
+        "sev4"
+    ],
+    "085-nm-02-180": [
+        "low_light",
+        "sev3"
+    ],
+    "085-nm-03-000": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "085-nm-03-018": [
+        "fog",
+        "sev5"
+    ],
+    "085-nm-03-036": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "085-nm-03-054": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "085-nm-03-072": [
+        "freeze",
+        "sev3"
+    ],
+    "085-nm-03-090": [
+        "snow",
+        "sev5"
+    ],
+    "085-nm-03-108": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "085-nm-03-126": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "085-nm-03-144": [
+        "freeze",
+        "sev4"
+    ],
+    "085-nm-03-162": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "085-nm-03-180": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "085-nm-04-000": [
+        "sampling",
+        "sev2"
+    ],
+    "085-nm-04-018": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "085-nm-04-036": [
+        "fog",
+        "sev3"
+    ],
+    "085-nm-04-054": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "085-nm-04-072": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "085-nm-04-090": [
+        "shot_noise",
+        "sev3"
+    ],
+    "085-nm-04-108": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "085-nm-04-126": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "085-nm-04-144": [
+        "sampling",
+        "sev5"
+    ],
+    "085-nm-04-162": [
+        "shot_noise",
+        "sev3"
+    ],
+    "085-nm-04-180": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "086-nm-01-000": [
+        "snow",
+        "sev3"
+    ],
+    "086-nm-01-018": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "086-nm-01-036": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "086-nm-01-054": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "086-nm-01-072": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "086-nm-01-090": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "086-nm-01-108": [
+        "freeze",
+        "sev5"
+    ],
+    "086-nm-01-126": [
+        "fog",
+        "sev4"
+    ],
+    "086-nm-01-144": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "086-nm-01-162": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "086-nm-01-180": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "086-nm-02-000": [
+        "rain",
+        "sev3"
+    ],
+    "086-nm-02-018": [
+        "zoom_in",
+        "sev2"
+    ],
+    "086-nm-02-036": [
+        "sampling",
+        "sev2"
+    ],
+    "086-nm-02-054": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "086-nm-02-072": [
+        "shot_noise",
+        "sev5"
+    ],
+    "086-nm-02-090": [
+        "fog",
+        "sev4"
+    ],
+    "086-nm-02-108": [
+        "fog",
+        "sev5"
+    ],
+    "086-nm-02-126": [
+        "freeze",
+        "sev2"
+    ],
+    "086-nm-02-144": [
+        "zoom_in",
+        "sev3"
+    ],
+    "086-nm-02-162": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "086-nm-02-180": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "086-nm-03-000": [
+        "rain",
+        "sev2"
+    ],
+    "086-nm-03-018": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "086-nm-03-036": [
+        "snow",
+        "sev4"
+    ],
+    "086-nm-03-054": [
+        "low_light",
+        "sev4"
+    ],
+    "086-nm-03-072": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "086-nm-03-090": [
+        "shot_noise",
+        "sev1"
+    ],
+    "086-nm-03-108": [
+        "snow",
+        "sev3"
+    ],
+    "086-nm-03-126": [
+        "low_light",
+        "sev5"
+    ],
+    "086-nm-03-144": [
+        "fog",
+        "sev1"
+    ],
+    "086-nm-03-162": [
+        "zoom_in",
+        "sev1"
+    ],
+    "086-nm-03-180": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "086-nm-04-000": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "086-nm-04-018": [
+        "freeze",
+        "sev5"
+    ],
+    "086-nm-04-036": [
+        "fog",
+        "sev1"
+    ],
+    "086-nm-04-054": [
+        "freeze",
+        "sev4"
+    ],
+    "086-nm-04-072": [
+        "rain",
+        "sev5"
+    ],
+    "086-nm-04-090": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "086-nm-04-108": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "086-nm-04-126": [
+        "fog",
+        "sev5"
+    ],
+    "086-nm-04-144": [
+        "low_light",
+        "sev3"
+    ],
+    "086-nm-04-162": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "086-nm-04-180": [
+        "freeze",
+        "sev1"
+    ],
+    "087-nm-01-000": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "087-nm-01-018": [
+        "snow",
+        "sev1"
+    ],
+    "087-nm-01-036": [
+        "snow",
+        "sev5"
+    ],
+    "087-nm-01-054": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "087-nm-01-072": [
+        "snow",
+        "sev1"
+    ],
+    "087-nm-01-090": [
+        "zoom_in",
+        "sev2"
+    ],
+    "087-nm-01-108": [
+        "freeze",
+        "sev3"
+    ],
+    "087-nm-01-126": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "087-nm-01-144": [
+        "fog",
+        "sev5"
+    ],
+    "087-nm-01-162": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "087-nm-01-180": [
+        "shot_noise",
+        "sev4"
+    ],
+    "087-nm-02-000": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "087-nm-02-018": [
+        "sampling",
+        "sev5"
+    ],
+    "087-nm-02-036": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "087-nm-02-054": [
+        "shot_noise",
+        "sev4"
+    ],
+    "087-nm-02-072": [
+        "low_light",
+        "sev3"
+    ],
+    "087-nm-02-090": [
+        "freeze",
+        "sev2"
+    ],
+    "087-nm-02-108": [
+        "zoom_in",
+        "sev1"
+    ],
+    "087-nm-02-126": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "087-nm-02-144": [
+        "sampling",
+        "sev2"
+    ],
+    "087-nm-02-162": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "087-nm-02-180": [
+        "snow",
+        "sev2"
+    ],
+    "087-nm-03-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "087-nm-03-018": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "087-nm-03-036": [
+        "sampling",
+        "sev1"
+    ],
+    "087-nm-03-054": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "087-nm-03-072": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "087-nm-03-090": [
+        "rain",
+        "sev3"
+    ],
+    "087-nm-03-108": [
+        "freeze",
+        "sev4"
+    ],
+    "087-nm-03-126": [
+        "low_light",
+        "sev5"
+    ],
+    "087-nm-03-144": [
+        "sampling",
+        "sev5"
+    ],
+    "087-nm-03-162": [
+        "zoom_in",
+        "sev2"
+    ],
+    "087-nm-03-180": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "087-nm-04-000": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "087-nm-04-018": [
+        "sampling",
+        "sev2"
+    ],
+    "087-nm-04-036": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "087-nm-04-054": [
+        "snow",
+        "sev5"
+    ],
+    "087-nm-04-072": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "087-nm-04-090": [
+        "shot_noise",
+        "sev1"
+    ],
+    "087-nm-04-108": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "087-nm-04-126": [
+        "fog",
+        "sev3"
+    ],
+    "087-nm-04-144": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "087-nm-04-162": [
+        "snow",
+        "sev3"
+    ],
+    "087-nm-04-180": [
+        "sampling",
+        "sev1"
+    ],
+    "088-nm-01-000": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "088-nm-01-018": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "088-nm-01-036": [
+        "shot_noise",
+        "sev1"
+    ],
+    "088-nm-01-054": [
+        "shot_noise",
+        "sev3"
+    ],
+    "088-nm-01-072": [
+        "fog",
+        "sev4"
+    ],
+    "088-nm-01-090": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "088-nm-01-108": [
+        "rain",
+        "sev4"
+    ],
+    "088-nm-01-126": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "088-nm-01-144": [
+        "sampling",
+        "sev1"
+    ],
+    "088-nm-01-162": [
+        "shot_noise",
+        "sev4"
+    ],
+    "088-nm-01-180": [
+        "freeze",
+        "sev2"
+    ],
+    "088-nm-02-000": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "088-nm-02-018": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "088-nm-02-036": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "088-nm-02-054": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "088-nm-02-072": [
+        "snow",
+        "sev3"
+    ],
+    "088-nm-02-090": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "088-nm-02-108": [
+        "shot_noise",
+        "sev4"
+    ],
+    "088-nm-02-126": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "088-nm-02-144": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "088-nm-02-162": [
+        "zoom_in",
+        "sev2"
+    ],
+    "088-nm-02-180": [
+        "shot_noise",
+        "sev4"
+    ],
+    "088-nm-03-000": [
+        "sampling",
+        "sev1"
+    ],
+    "088-nm-03-018": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "088-nm-03-036": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "088-nm-03-054": [
+        "snow",
+        "sev1"
+    ],
+    "088-nm-03-072": [
+        "shot_noise",
+        "sev5"
+    ],
+    "088-nm-03-090": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "088-nm-03-108": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "088-nm-03-126": [
+        "fog",
+        "sev5"
+    ],
+    "088-nm-03-144": [
+        "freeze",
+        "sev2"
+    ],
+    "088-nm-03-162": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "088-nm-03-180": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "088-nm-04-000": [
+        "low_light",
+        "sev1"
+    ],
+    "088-nm-04-018": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "088-nm-04-036": [
+        "low_light",
+        "sev2"
+    ],
+    "088-nm-04-054": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "088-nm-04-072": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "088-nm-04-090": [
+        "shot_noise",
+        "sev5"
+    ],
+    "088-nm-04-108": [
+        "snow",
+        "sev5"
+    ],
+    "088-nm-04-126": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "088-nm-04-144": [
+        "sampling",
+        "sev4"
+    ],
+    "088-nm-04-162": [
+        "sampling",
+        "sev3"
+    ],
+    "088-nm-04-180": [
+        "low_light",
+        "sev5"
+    ],
+    "089-nm-01-000": [
+        "rain",
+        "sev2"
+    ],
+    "089-nm-01-018": [
+        "sampling",
+        "sev2"
+    ],
+    "089-nm-01-036": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "089-nm-01-054": [
+        "fog",
+        "sev1"
+    ],
+    "089-nm-01-072": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "089-nm-01-090": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "089-nm-01-108": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "089-nm-01-126": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "089-nm-01-144": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "089-nm-01-162": [
+        "fog",
+        "sev4"
+    ],
+    "089-nm-01-180": [
+        "shot_noise",
+        "sev4"
+    ],
+    "089-nm-02-000": [
+        "fog",
+        "sev1"
+    ],
+    "089-nm-02-018": [
+        "freeze",
+        "sev5"
+    ],
+    "089-nm-02-036": [
+        "fog",
+        "sev3"
+    ],
+    "089-nm-02-054": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "089-nm-02-072": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "089-nm-02-090": [
+        "shot_noise",
+        "sev2"
+    ],
+    "089-nm-02-108": [
+        "rain",
+        "sev3"
+    ],
+    "089-nm-02-126": [
+        "sampling",
+        "sev5"
+    ],
+    "089-nm-02-144": [
+        "sampling",
+        "sev4"
+    ],
+    "089-nm-02-162": [
+        "sampling",
+        "sev2"
+    ],
+    "089-nm-02-180": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "089-nm-03-000": [
+        "shot_noise",
+        "sev1"
+    ],
+    "089-nm-03-018": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "089-nm-03-036": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "089-nm-03-054": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "089-nm-03-072": [
+        "freeze",
+        "sev3"
+    ],
+    "089-nm-03-090": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "089-nm-03-108": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "089-nm-03-126": [
+        "zoom_in",
+        "sev2"
+    ],
+    "089-nm-03-144": [
+        "low_light",
+        "sev1"
+    ],
+    "089-nm-03-162": [
+        "sampling",
+        "sev1"
+    ],
+    "089-nm-03-180": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "089-nm-04-000": [
+        "rain",
+        "sev2"
+    ],
+    "089-nm-04-018": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "089-nm-04-036": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "089-nm-04-054": [
+        "freeze",
+        "sev2"
+    ],
+    "089-nm-04-072": [
+        "fog",
+        "sev1"
+    ],
+    "089-nm-04-090": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "089-nm-04-108": [
+        "zoom_in",
+        "sev1"
+    ],
+    "089-nm-04-126": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "089-nm-04-144": [
+        "snow",
+        "sev2"
+    ],
+    "089-nm-04-162": [
+        "rain",
+        "sev5"
+    ],
+    "089-nm-04-180": [
+        "rain",
+        "sev2"
+    ],
+    "090-nm-01-000": [
+        "freeze",
+        "sev3"
+    ],
+    "090-nm-01-018": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "090-nm-01-036": [
+        "fog",
+        "sev1"
+    ],
+    "090-nm-01-054": [
+        "shot_noise",
+        "sev2"
+    ],
+    "090-nm-01-072": [
+        "rain",
+        "sev5"
+    ],
+    "090-nm-01-090": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "090-nm-01-108": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "090-nm-01-126": [
+        "low_light",
+        "sev5"
+    ],
+    "090-nm-01-144": [
+        "rain",
+        "sev4"
+    ],
+    "090-nm-01-162": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "090-nm-01-180": [
+        "snow",
+        "sev3"
+    ],
+    "090-nm-02-000": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "090-nm-02-018": [
+        "fog",
+        "sev5"
+    ],
+    "090-nm-02-036": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "090-nm-02-054": [
+        "sampling",
+        "sev2"
+    ],
+    "090-nm-02-072": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "090-nm-02-090": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "090-nm-02-108": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "090-nm-02-126": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "090-nm-02-144": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "090-nm-02-162": [
+        "fog",
+        "sev1"
+    ],
+    "090-nm-02-180": [
+        "zoom_in",
+        "sev4"
+    ],
+    "090-nm-03-000": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "090-nm-03-018": [
+        "freeze",
+        "sev4"
+    ],
+    "090-nm-03-036": [
+        "snow",
+        "sev1"
+    ],
+    "090-nm-03-054": [
+        "zoom_in",
+        "sev3"
+    ],
+    "090-nm-03-072": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "090-nm-03-090": [
+        "fog",
+        "sev5"
+    ],
+    "090-nm-03-108": [
+        "low_light",
+        "sev1"
+    ],
+    "090-nm-03-126": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "090-nm-03-144": [
+        "zoom_in",
+        "sev3"
+    ],
+    "090-nm-03-162": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "090-nm-03-180": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "090-nm-04-000": [
+        "sampling",
+        "sev3"
+    ],
+    "090-nm-04-018": [
+        "low_light",
+        "sev2"
+    ],
+    "090-nm-04-036": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "090-nm-04-054": [
+        "zoom_in",
+        "sev2"
+    ],
+    "090-nm-04-072": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "090-nm-04-090": [
+        "rain",
+        "sev2"
+    ],
+    "090-nm-04-108": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "090-nm-04-126": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "090-nm-04-144": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "090-nm-04-162": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "090-nm-04-180": [
+        "zoom_in",
+        "sev2"
+    ],
+    "091-nm-01-000": [
+        "fog",
+        "sev4"
+    ],
+    "091-nm-01-018": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "091-nm-01-036": [
+        "fog",
+        "sev2"
+    ],
+    "091-nm-01-054": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "091-nm-01-072": [
+        "low_light",
+        "sev2"
+    ],
+    "091-nm-01-090": [
+        "sampling",
+        "sev1"
+    ],
+    "091-nm-01-108": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "091-nm-01-126": [
+        "freeze",
+        "sev1"
+    ],
+    "091-nm-01-144": [
+        "fog",
+        "sev2"
+    ],
+    "091-nm-01-162": [
+        "rain",
+        "sev2"
+    ],
+    "091-nm-01-180": [
+        "zoom_in",
+        "sev2"
+    ],
+    "091-nm-02-000": [
+        "freeze",
+        "sev2"
+    ],
+    "091-nm-02-018": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "091-nm-02-036": [
+        "fog",
+        "sev4"
+    ],
+    "091-nm-02-054": [
+        "fog",
+        "sev5"
+    ],
+    "091-nm-02-072": [
+        "rain",
+        "sev3"
+    ],
+    "091-nm-02-090": [
+        "rain",
+        "sev3"
+    ],
+    "091-nm-02-108": [
+        "sampling",
+        "sev1"
+    ],
+    "091-nm-02-126": [
+        "snow",
+        "sev4"
+    ],
+    "091-nm-02-144": [
+        "zoom_in",
+        "sev1"
+    ],
+    "091-nm-02-162": [
+        "sampling",
+        "sev1"
+    ],
+    "091-nm-02-180": [
+        "zoom_in",
+        "sev1"
+    ],
+    "091-nm-03-000": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "091-nm-03-018": [
+        "snow",
+        "sev4"
+    ],
+    "091-nm-03-036": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "091-nm-03-054": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "091-nm-03-072": [
+        "shot_noise",
+        "sev5"
+    ],
+    "091-nm-03-090": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "091-nm-03-108": [
+        "snow",
+        "sev2"
+    ],
+    "091-nm-03-126": [
+        "zoom_in",
+        "sev3"
+    ],
+    "091-nm-03-144": [
+        "low_light",
+        "sev5"
+    ],
+    "091-nm-03-162": [
+        "zoom_in",
+        "sev5"
+    ],
+    "091-nm-03-180": [
+        "snow",
+        "sev4"
+    ],
+    "091-nm-04-000": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "091-nm-04-018": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "091-nm-04-036": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "091-nm-04-054": [
+        "zoom_in",
+        "sev1"
+    ],
+    "091-nm-04-072": [
+        "sampling",
+        "sev4"
+    ],
+    "091-nm-04-090": [
+        "sampling",
+        "sev4"
+    ],
+    "091-nm-04-108": [
+        "low_light",
+        "sev5"
+    ],
+    "091-nm-04-126": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "091-nm-04-144": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "091-nm-04-162": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "091-nm-04-180": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "092-nm-01-000": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "092-nm-01-018": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "092-nm-01-036": [
+        "snow",
+        "sev2"
+    ],
+    "092-nm-01-054": [
+        "snow",
+        "sev4"
+    ],
+    "092-nm-01-072": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "092-nm-01-090": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "092-nm-01-108": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "092-nm-01-126": [
+        "low_light",
+        "sev1"
+    ],
+    "092-nm-01-144": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "092-nm-01-162": [
+        "low_light",
+        "sev2"
+    ],
+    "092-nm-01-180": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "092-nm-02-000": [
+        "snow",
+        "sev5"
+    ],
+    "092-nm-02-018": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "092-nm-02-036": [
+        "shot_noise",
+        "sev3"
+    ],
+    "092-nm-02-054": [
+        "zoom_in",
+        "sev1"
+    ],
+    "092-nm-02-072": [
+        "zoom_in",
+        "sev5"
+    ],
+    "092-nm-02-090": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "092-nm-02-108": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "092-nm-02-126": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "092-nm-02-144": [
+        "sampling",
+        "sev3"
+    ],
+    "092-nm-02-162": [
+        "shot_noise",
+        "sev5"
+    ],
+    "092-nm-02-180": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "092-nm-03-000": [
+        "fog",
+        "sev1"
+    ],
+    "092-nm-03-018": [
+        "low_light",
+        "sev4"
+    ],
+    "092-nm-03-036": [
+        "sampling",
+        "sev3"
+    ],
+    "092-nm-03-054": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "092-nm-03-072": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "092-nm-03-090": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "092-nm-03-108": [
+        "snow",
+        "sev4"
+    ],
+    "092-nm-03-126": [
+        "freeze",
+        "sev2"
+    ],
+    "092-nm-03-144": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "092-nm-03-162": [
+        "sampling",
+        "sev2"
+    ],
+    "092-nm-03-180": [
+        "low_light",
+        "sev4"
+    ],
+    "092-nm-04-000": [
+        "shot_noise",
+        "sev5"
+    ],
+    "092-nm-04-018": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "092-nm-04-036": [
+        "rain",
+        "sev3"
+    ],
+    "092-nm-04-054": [
+        "low_light",
+        "sev3"
+    ],
+    "092-nm-04-072": [
+        "fog",
+        "sev1"
+    ],
+    "092-nm-04-090": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "092-nm-04-108": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "092-nm-04-126": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "092-nm-04-144": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "092-nm-04-162": [
+        "freeze",
+        "sev2"
+    ],
+    "092-nm-04-180": [
+        "freeze",
+        "sev3"
+    ],
+    "093-nm-01-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "093-nm-01-018": [
+        "rain",
+        "sev3"
+    ],
+    "093-nm-01-036": [
+        "freeze",
+        "sev4"
+    ],
+    "093-nm-01-054": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "093-nm-01-072": [
+        "low_light",
+        "sev2"
+    ],
+    "093-nm-01-090": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "093-nm-01-108": [
+        "sampling",
+        "sev2"
+    ],
+    "093-nm-01-126": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "093-nm-01-144": [
+        "freeze",
+        "sev2"
+    ],
+    "093-nm-01-162": [
+        "fog",
+        "sev4"
+    ],
+    "093-nm-01-180": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "093-nm-02-000": [
+        "low_light",
+        "sev5"
+    ],
+    "093-nm-02-018": [
+        "fog",
+        "sev2"
+    ],
+    "093-nm-02-036": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "093-nm-02-054": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "093-nm-02-072": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "093-nm-02-090": [
+        "sampling",
+        "sev3"
+    ],
+    "093-nm-02-108": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "093-nm-02-126": [
+        "sampling",
+        "sev1"
+    ],
+    "093-nm-02-144": [
+        "snow",
+        "sev5"
+    ],
+    "093-nm-02-162": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "093-nm-02-180": [
+        "snow",
+        "sev5"
+    ],
+    "093-nm-03-000": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "093-nm-03-018": [
+        "fog",
+        "sev4"
+    ],
+    "093-nm-03-036": [
+        "snow",
+        "sev4"
+    ],
+    "093-nm-03-054": [
+        "sampling",
+        "sev3"
+    ],
+    "093-nm-03-072": [
+        "low_light",
+        "sev3"
+    ],
+    "093-nm-03-090": [
+        "freeze",
+        "sev5"
+    ],
+    "093-nm-03-108": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "093-nm-03-126": [
+        "freeze",
+        "sev5"
+    ],
+    "093-nm-03-144": [
+        "snow",
+        "sev2"
+    ],
+    "093-nm-03-162": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "093-nm-03-180": [
+        "snow",
+        "sev2"
+    ],
+    "093-nm-04-000": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "093-nm-04-018": [
+        "rain",
+        "sev2"
+    ],
+    "093-nm-04-036": [
+        "fog",
+        "sev5"
+    ],
+    "093-nm-04-054": [
+        "snow",
+        "sev3"
+    ],
+    "093-nm-04-072": [
+        "freeze",
+        "sev2"
+    ],
+    "093-nm-04-090": [
+        "shot_noise",
+        "sev4"
+    ],
+    "093-nm-04-108": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "093-nm-04-126": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "093-nm-04-144": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "093-nm-04-162": [
+        "snow",
+        "sev3"
+    ],
+    "093-nm-04-180": [
+        "snow",
+        "sev4"
+    ],
+    "094-nm-01-000": [
+        "fog",
+        "sev4"
+    ],
+    "094-nm-01-018": [
+        "fog",
+        "sev2"
+    ],
+    "094-nm-01-036": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "094-nm-01-054": [
+        "zoom_in",
+        "sev5"
+    ],
+    "094-nm-01-072": [
+        "freeze",
+        "sev5"
+    ],
+    "094-nm-01-090": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "094-nm-01-108": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "094-nm-01-126": [
+        "snow",
+        "sev4"
+    ],
+    "094-nm-01-144": [
+        "zoom_in",
+        "sev5"
+    ],
+    "094-nm-01-162": [
+        "shot_noise",
+        "sev4"
+    ],
+    "094-nm-01-180": [
+        "rain",
+        "sev5"
+    ],
+    "094-nm-02-000": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "094-nm-02-018": [
+        "sampling",
+        "sev3"
+    ],
+    "094-nm-02-036": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "094-nm-02-054": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "094-nm-02-072": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "094-nm-02-090": [
+        "fog",
+        "sev2"
+    ],
+    "094-nm-02-108": [
+        "sampling",
+        "sev5"
+    ],
+    "094-nm-02-126": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "094-nm-02-144": [
+        "freeze",
+        "sev5"
+    ],
+    "094-nm-02-162": [
+        "sampling",
+        "sev3"
+    ],
+    "094-nm-02-180": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "094-nm-03-000": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "094-nm-03-018": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "094-nm-03-036": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "094-nm-03-054": [
+        "low_light",
+        "sev3"
+    ],
+    "094-nm-03-072": [
+        "snow",
+        "sev1"
+    ],
+    "094-nm-03-090": [
+        "fog",
+        "sev1"
+    ],
+    "094-nm-03-108": [
+        "sampling",
+        "sev4"
+    ],
+    "094-nm-03-126": [
+        "fog",
+        "sev5"
+    ],
+    "094-nm-03-144": [
+        "zoom_in",
+        "sev3"
+    ],
+    "094-nm-03-162": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "094-nm-03-180": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "094-nm-04-000": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "094-nm-04-018": [
+        "rain",
+        "sev5"
+    ],
+    "094-nm-04-036": [
+        "freeze",
+        "sev2"
+    ],
+    "094-nm-04-054": [
+        "low_light",
+        "sev1"
+    ],
+    "094-nm-04-072": [
+        "zoom_in",
+        "sev2"
+    ],
+    "094-nm-04-090": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "094-nm-04-108": [
+        "low_light",
+        "sev5"
+    ],
+    "094-nm-04-126": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "094-nm-04-144": [
+        "freeze",
+        "sev1"
+    ],
+    "094-nm-04-162": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "094-nm-04-180": [
+        "freeze",
+        "sev5"
+    ],
+    "095-nm-01-000": [
+        "freeze",
+        "sev4"
+    ],
+    "095-nm-01-018": [
+        "sampling",
+        "sev1"
+    ],
+    "095-nm-01-036": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "095-nm-01-054": [
+        "low_light",
+        "sev2"
+    ],
+    "095-nm-01-072": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "095-nm-01-090": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "095-nm-01-108": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "095-nm-01-126": [
+        "shot_noise",
+        "sev4"
+    ],
+    "095-nm-01-144": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "095-nm-01-162": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "095-nm-01-180": [
+        "low_light",
+        "sev1"
+    ],
+    "095-nm-02-000": [
+        "snow",
+        "sev3"
+    ],
+    "095-nm-02-018": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "095-nm-02-036": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "095-nm-02-054": [
+        "fog",
+        "sev3"
+    ],
+    "095-nm-02-072": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "095-nm-02-090": [
+        "freeze",
+        "sev2"
+    ],
+    "095-nm-02-108": [
+        "rain",
+        "sev5"
+    ],
+    "095-nm-02-126": [
+        "zoom_in",
+        "sev4"
+    ],
+    "095-nm-02-144": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "095-nm-02-162": [
+        "low_light",
+        "sev1"
+    ],
+    "095-nm-02-180": [
+        "shot_noise",
+        "sev2"
+    ],
+    "095-nm-03-000": [
+        "low_light",
+        "sev4"
+    ],
+    "095-nm-03-018": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "095-nm-03-036": [
+        "shot_noise",
+        "sev1"
+    ],
+    "095-nm-03-054": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "095-nm-03-072": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "095-nm-03-090": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "095-nm-03-108": [
+        "shot_noise",
+        "sev1"
+    ],
+    "095-nm-03-126": [
+        "low_light",
+        "sev3"
+    ],
+    "095-nm-03-144": [
+        "rain",
+        "sev1"
+    ],
+    "095-nm-03-162": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "095-nm-03-180": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "095-nm-04-000": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "095-nm-04-018": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "095-nm-04-036": [
+        "zoom_in",
+        "sev4"
+    ],
+    "095-nm-04-054": [
+        "low_light",
+        "sev2"
+    ],
+    "095-nm-04-072": [
+        "sampling",
+        "sev1"
+    ],
+    "095-nm-04-090": [
+        "rain",
+        "sev4"
+    ],
+    "095-nm-04-108": [
+        "rain",
+        "sev5"
+    ],
+    "095-nm-04-126": [
+        "rain",
+        "sev5"
+    ],
+    "095-nm-04-144": [
+        "fog",
+        "sev2"
+    ],
+    "095-nm-04-162": [
+        "sampling",
+        "sev5"
+    ],
+    "095-nm-04-180": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "096-nm-01-000": [
+        "low_light",
+        "sev1"
+    ],
+    "096-nm-01-018": [
+        "freeze",
+        "sev4"
+    ],
+    "096-nm-01-036": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "096-nm-01-054": [
+        "rain",
+        "sev2"
+    ],
+    "096-nm-01-072": [
+        "sampling",
+        "sev4"
+    ],
+    "096-nm-01-090": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "096-nm-01-108": [
+        "rain",
+        "sev5"
+    ],
+    "096-nm-01-126": [
+        "sampling",
+        "sev1"
+    ],
+    "096-nm-01-144": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "096-nm-01-162": [
+        "shot_noise",
+        "sev5"
+    ],
+    "096-nm-01-180": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "096-nm-02-000": [
+        "sampling",
+        "sev2"
+    ],
+    "096-nm-02-018": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "096-nm-02-036": [
+        "shot_noise",
+        "sev1"
+    ],
+    "096-nm-02-054": [
+        "sampling",
+        "sev1"
+    ],
+    "096-nm-02-072": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "096-nm-02-090": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "096-nm-02-108": [
+        "rain",
+        "sev4"
+    ],
+    "096-nm-02-126": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "096-nm-02-144": [
+        "sampling",
+        "sev2"
+    ],
+    "096-nm-02-162": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "096-nm-02-180": [
+        "sampling",
+        "sev4"
+    ],
+    "096-nm-03-000": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "096-nm-03-018": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "096-nm-03-036": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "096-nm-03-054": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "096-nm-03-072": [
+        "snow",
+        "sev5"
+    ],
+    "096-nm-03-090": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "096-nm-03-108": [
+        "sampling",
+        "sev1"
+    ],
+    "096-nm-03-126": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "096-nm-03-144": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "096-nm-03-162": [
+        "rain",
+        "sev4"
+    ],
+    "096-nm-03-180": [
+        "zoom_in",
+        "sev3"
+    ],
+    "096-nm-04-000": [
+        "freeze",
+        "sev5"
+    ],
+    "096-nm-04-018": [
+        "fog",
+        "sev1"
+    ],
+    "096-nm-04-036": [
+        "freeze",
+        "sev4"
+    ],
+    "096-nm-04-054": [
+        "fog",
+        "sev5"
+    ],
+    "096-nm-04-072": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "096-nm-04-090": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "096-nm-04-108": [
+        "shot_noise",
+        "sev4"
+    ],
+    "096-nm-04-126": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "096-nm-04-144": [
+        "shot_noise",
+        "sev2"
+    ],
+    "096-nm-04-162": [
+        "freeze",
+        "sev5"
+    ],
+    "096-nm-04-180": [
+        "sampling",
+        "sev3"
+    ],
+    "097-nm-01-000": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "097-nm-01-018": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "097-nm-01-036": [
+        "freeze",
+        "sev5"
+    ],
+    "097-nm-01-054": [
+        "shot_noise",
+        "sev3"
+    ],
+    "097-nm-01-072": [
+        "low_light",
+        "sev4"
+    ],
+    "097-nm-01-090": [
+        "freeze",
+        "sev4"
+    ],
+    "097-nm-01-108": [
+        "shot_noise",
+        "sev5"
+    ],
+    "097-nm-01-126": [
+        "zoom_in",
+        "sev5"
+    ],
+    "097-nm-01-144": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "097-nm-01-162": [
+        "freeze",
+        "sev3"
+    ],
+    "097-nm-01-180": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "097-nm-02-000": [
+        "zoom_in",
+        "sev5"
+    ],
+    "097-nm-02-018": [
+        "low_light",
+        "sev4"
+    ],
+    "097-nm-02-036": [
+        "rain",
+        "sev5"
+    ],
+    "097-nm-02-054": [
+        "rain",
+        "sev2"
+    ],
+    "097-nm-02-072": [
+        "rain",
+        "sev1"
+    ],
+    "097-nm-02-090": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "097-nm-02-108": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "097-nm-02-126": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "097-nm-02-144": [
+        "rain",
+        "sev4"
+    ],
+    "097-nm-02-162": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "097-nm-02-180": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "097-nm-03-000": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "097-nm-03-018": [
+        "rain",
+        "sev4"
+    ],
+    "097-nm-03-036": [
+        "freeze",
+        "sev2"
+    ],
+    "097-nm-03-054": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "097-nm-03-072": [
+        "freeze",
+        "sev3"
+    ],
+    "097-nm-03-090": [
+        "low_light",
+        "sev1"
+    ],
+    "097-nm-03-108": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "097-nm-03-126": [
+        "snow",
+        "sev4"
+    ],
+    "097-nm-03-144": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "097-nm-03-162": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "097-nm-03-180": [
+        "rain",
+        "sev3"
+    ],
+    "097-nm-04-000": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "097-nm-04-018": [
+        "freeze",
+        "sev3"
+    ],
+    "097-nm-04-036": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "097-nm-04-054": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "097-nm-04-072": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "097-nm-04-090": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "097-nm-04-108": [
+        "low_light",
+        "sev4"
+    ],
+    "097-nm-04-126": [
+        "sampling",
+        "sev2"
+    ],
+    "097-nm-04-144": [
+        "rain",
+        "sev5"
+    ],
+    "097-nm-04-162": [
+        "freeze",
+        "sev3"
+    ],
+    "097-nm-04-180": [
+        "zoom_in",
+        "sev3"
+    ],
+    "098-nm-01-000": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "098-nm-01-018": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "098-nm-01-036": [
+        "fog",
+        "sev1"
+    ],
+    "098-nm-01-054": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "098-nm-01-072": [
+        "low_light",
+        "sev3"
+    ],
+    "098-nm-01-090": [
+        "zoom_in",
+        "sev5"
+    ],
+    "098-nm-01-108": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "098-nm-01-126": [
+        "zoom_in",
+        "sev4"
+    ],
+    "098-nm-01-144": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "098-nm-01-162": [
+        "freeze",
+        "sev1"
+    ],
+    "098-nm-01-180": [
+        "fog",
+        "sev2"
+    ],
+    "098-nm-02-000": [
+        "shot_noise",
+        "sev4"
+    ],
+    "098-nm-02-018": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "098-nm-02-036": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "098-nm-02-054": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "098-nm-02-072": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "098-nm-02-090": [
+        "shot_noise",
+        "sev2"
+    ],
+    "098-nm-02-108": [
+        "freeze",
+        "sev5"
+    ],
+    "098-nm-02-126": [
+        "snow",
+        "sev1"
+    ],
+    "098-nm-02-144": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "098-nm-02-162": [
+        "freeze",
+        "sev4"
+    ],
+    "098-nm-02-180": [
+        "freeze",
+        "sev5"
+    ],
+    "098-nm-03-000": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "098-nm-03-018": [
+        "shot_noise",
+        "sev5"
+    ],
+    "098-nm-03-036": [
+        "fog",
+        "sev4"
+    ],
+    "098-nm-03-054": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "098-nm-03-072": [
+        "snow",
+        "sev4"
+    ],
+    "098-nm-03-090": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "098-nm-03-108": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "098-nm-03-126": [
+        "shot_noise",
+        "sev5"
+    ],
+    "098-nm-03-144": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "098-nm-03-162": [
+        "fog",
+        "sev5"
+    ],
+    "098-nm-03-180": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "098-nm-04-000": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "098-nm-04-018": [
+        "low_light",
+        "sev3"
+    ],
+    "098-nm-04-036": [
+        "freeze",
+        "sev3"
+    ],
+    "098-nm-04-054": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "098-nm-04-072": [
+        "freeze",
+        "sev2"
+    ],
+    "098-nm-04-090": [
+        "low_light",
+        "sev4"
+    ],
+    "098-nm-04-108": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "098-nm-04-126": [
+        "shot_noise",
+        "sev5"
+    ],
+    "098-nm-04-144": [
+        "low_light",
+        "sev4"
+    ],
+    "098-nm-04-162": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "098-nm-04-180": [
+        "low_light",
+        "sev1"
+    ],
+    "099-nm-01-000": [
+        "rain",
+        "sev2"
+    ],
+    "099-nm-01-018": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "099-nm-01-036": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "099-nm-01-054": [
+        "shot_noise",
+        "sev2"
+    ],
+    "099-nm-01-072": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "099-nm-01-090": [
+        "shot_noise",
+        "sev2"
+    ],
+    "099-nm-01-108": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "099-nm-01-126": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "099-nm-01-144": [
+        "fog",
+        "sev2"
+    ],
+    "099-nm-01-162": [
+        "zoom_in",
+        "sev5"
+    ],
+    "099-nm-01-180": [
+        "shot_noise",
+        "sev4"
+    ],
+    "099-nm-02-000": [
+        "rain",
+        "sev2"
+    ],
+    "099-nm-02-018": [
+        "low_light",
+        "sev3"
+    ],
+    "099-nm-02-036": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "099-nm-02-054": [
+        "fog",
+        "sev5"
+    ],
+    "099-nm-02-072": [
+        "snow",
+        "sev5"
+    ],
+    "099-nm-02-090": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "099-nm-02-108": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "099-nm-02-126": [
+        "shot_noise",
+        "sev1"
+    ],
+    "099-nm-02-144": [
+        "shot_noise",
+        "sev1"
+    ],
+    "099-nm-02-162": [
+        "low_light",
+        "sev2"
+    ],
+    "099-nm-02-180": [
+        "snow",
+        "sev5"
+    ],
+    "099-nm-03-000": [
+        "snow",
+        "sev2"
+    ],
+    "099-nm-03-018": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "099-nm-03-036": [
+        "fog",
+        "sev1"
+    ],
+    "099-nm-03-054": [
+        "shot_noise",
+        "sev1"
+    ],
+    "099-nm-03-072": [
+        "freeze",
+        "sev2"
+    ],
+    "099-nm-03-090": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "099-nm-03-108": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "099-nm-03-126": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "099-nm-03-144": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "099-nm-03-162": [
+        "zoom_in",
+        "sev3"
+    ],
+    "099-nm-03-180": [
+        "rain",
+        "sev4"
+    ],
+    "099-nm-04-000": [
+        "shot_noise",
+        "sev3"
+    ],
+    "099-nm-04-018": [
+        "sampling",
+        "sev4"
+    ],
+    "099-nm-04-036": [
+        "rain",
+        "sev1"
+    ],
+    "099-nm-04-054": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "099-nm-04-072": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "099-nm-04-090": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "099-nm-04-108": [
+        "rain",
+        "sev4"
+    ],
+    "099-nm-04-126": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "099-nm-04-144": [
+        "zoom_in",
+        "sev1"
+    ],
+    "099-nm-04-162": [
+        "snow",
+        "sev1"
+    ],
+    "099-nm-04-180": [
+        "sampling",
+        "sev2"
+    ],
+    "100-nm-01-000": [
+        "shot_noise",
+        "sev3"
+    ],
+    "100-nm-01-018": [
+        "fog",
+        "sev1"
+    ],
+    "100-nm-01-036": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "100-nm-01-054": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "100-nm-01-072": [
+        "sampling",
+        "sev1"
+    ],
+    "100-nm-01-090": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "100-nm-01-108": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "100-nm-01-126": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "100-nm-01-144": [
+        "rain",
+        "sev2"
+    ],
+    "100-nm-01-162": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "100-nm-01-180": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "100-nm-02-000": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "100-nm-02-018": [
+        "low_light",
+        "sev5"
+    ],
+    "100-nm-02-036": [
+        "sampling",
+        "sev1"
+    ],
+    "100-nm-02-054": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "100-nm-02-072": [
+        "fog",
+        "sev2"
+    ],
+    "100-nm-02-090": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "100-nm-02-108": [
+        "shot_noise",
+        "sev5"
+    ],
+    "100-nm-02-126": [
+        "freeze",
+        "sev1"
+    ],
+    "100-nm-02-144": [
+        "rain",
+        "sev3"
+    ],
+    "100-nm-02-162": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "100-nm-02-180": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "100-nm-03-000": [
+        "snow",
+        "sev2"
+    ],
+    "100-nm-03-018": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "100-nm-03-036": [
+        "zoom_in",
+        "sev5"
+    ],
+    "100-nm-03-054": [
+        "zoom_in",
+        "sev4"
+    ],
+    "100-nm-03-072": [
+        "fog",
+        "sev2"
+    ],
+    "100-nm-03-090": [
+        "rain",
+        "sev4"
+    ],
+    "100-nm-03-108": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "100-nm-03-126": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "100-nm-03-144": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "100-nm-03-162": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "100-nm-03-180": [
+        "fog",
+        "sev2"
+    ],
+    "100-nm-04-000": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "100-nm-04-018": [
+        "snow",
+        "sev2"
+    ],
+    "100-nm-04-036": [
+        "snow",
+        "sev2"
+    ],
+    "100-nm-04-054": [
+        "low_light",
+        "sev3"
+    ],
+    "100-nm-04-072": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "100-nm-04-090": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "100-nm-04-108": [
+        "shot_noise",
+        "sev2"
+    ],
+    "100-nm-04-126": [
+        "fog",
+        "sev3"
+    ],
+    "100-nm-04-144": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "100-nm-04-162": [
+        "low_light",
+        "sev3"
+    ],
+    "100-nm-04-180": [
+        "rain",
+        "sev5"
+    ],
+    "101-nm-01-000": [
+        "low_light",
+        "sev2"
+    ],
+    "101-nm-01-018": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "101-nm-01-036": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "101-nm-01-054": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "101-nm-01-072": [
+        "low_light",
+        "sev4"
+    ],
+    "101-nm-01-090": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "101-nm-01-108": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "101-nm-01-126": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "101-nm-01-144": [
+        "fog",
+        "sev5"
+    ],
+    "101-nm-01-162": [
+        "snow",
+        "sev5"
+    ],
+    "101-nm-01-180": [
+        "fog",
+        "sev2"
+    ],
+    "101-nm-02-000": [
+        "shot_noise",
+        "sev3"
+    ],
+    "101-nm-02-018": [
+        "zoom_in",
+        "sev4"
+    ],
+    "101-nm-02-036": [
+        "shot_noise",
+        "sev1"
+    ],
+    "101-nm-02-054": [
+        "low_light",
+        "sev4"
+    ],
+    "101-nm-02-072": [
+        "snow",
+        "sev2"
+    ],
+    "101-nm-02-090": [
+        "rain",
+        "sev4"
+    ],
+    "101-nm-02-108": [
+        "zoom_in",
+        "sev1"
+    ],
+    "101-nm-02-126": [
+        "sampling",
+        "sev4"
+    ],
+    "101-nm-02-144": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "101-nm-02-162": [
+        "fog",
+        "sev3"
+    ],
+    "101-nm-02-180": [
+        "freeze",
+        "sev5"
+    ],
+    "101-nm-03-000": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "101-nm-03-018": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "101-nm-03-036": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "101-nm-03-054": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "101-nm-03-072": [
+        "sampling",
+        "sev4"
+    ],
+    "101-nm-03-090": [
+        "sampling",
+        "sev4"
+    ],
+    "101-nm-03-108": [
+        "rain",
+        "sev2"
+    ],
+    "101-nm-03-126": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "101-nm-03-144": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "101-nm-03-162": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "101-nm-03-180": [
+        "rain",
+        "sev4"
+    ],
+    "101-nm-04-000": [
+        "snow",
+        "sev1"
+    ],
+    "101-nm-04-018": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "101-nm-04-036": [
+        "sampling",
+        "sev1"
+    ],
+    "101-nm-04-054": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "101-nm-04-072": [
+        "low_light",
+        "sev3"
+    ],
+    "101-nm-04-090": [
+        "low_light",
+        "sev1"
+    ],
+    "101-nm-04-108": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "101-nm-04-126": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "101-nm-04-144": [
+        "freeze",
+        "sev4"
+    ],
+    "101-nm-04-162": [
+        "shot_noise",
+        "sev5"
+    ],
+    "101-nm-04-180": [
+        "zoom_in",
+        "sev4"
+    ],
+    "102-nm-01-000": [
+        "freeze",
+        "sev1"
+    ],
+    "102-nm-01-018": [
+        "sampling",
+        "sev3"
+    ],
+    "102-nm-01-036": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "102-nm-01-054": [
+        "shot_noise",
+        "sev4"
+    ],
+    "102-nm-01-072": [
+        "rain",
+        "sev4"
+    ],
+    "102-nm-01-090": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "102-nm-01-108": [
+        "low_light",
+        "sev1"
+    ],
+    "102-nm-01-126": [
+        "rain",
+        "sev2"
+    ],
+    "102-nm-01-144": [
+        "fog",
+        "sev3"
+    ],
+    "102-nm-01-162": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "102-nm-01-180": [
+        "shot_noise",
+        "sev2"
+    ],
+    "102-nm-02-000": [
+        "freeze",
+        "sev2"
+    ],
+    "102-nm-02-018": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "102-nm-02-036": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "102-nm-02-054": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "102-nm-02-072": [
+        "rain",
+        "sev2"
+    ],
+    "102-nm-02-090": [
+        "rain",
+        "sev2"
+    ],
+    "102-nm-02-108": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "102-nm-02-126": [
+        "low_light",
+        "sev2"
+    ],
+    "102-nm-02-144": [
+        "fog",
+        "sev3"
+    ],
+    "102-nm-02-162": [
+        "zoom_in",
+        "sev2"
+    ],
+    "102-nm-02-180": [
+        "freeze",
+        "sev3"
+    ],
+    "102-nm-03-000": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "102-nm-03-018": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "102-nm-03-036": [
+        "sampling",
+        "sev2"
+    ],
+    "102-nm-03-054": [
+        "snow",
+        "sev4"
+    ],
+    "102-nm-03-072": [
+        "sampling",
+        "sev1"
+    ],
+    "102-nm-03-090": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "102-nm-03-108": [
+        "snow",
+        "sev2"
+    ],
+    "102-nm-03-126": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "102-nm-03-144": [
+        "snow",
+        "sev3"
+    ],
+    "102-nm-03-162": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "102-nm-03-180": [
+        "fog",
+        "sev5"
+    ],
+    "102-nm-04-000": [
+        "snow",
+        "sev1"
+    ],
+    "102-nm-04-018": [
+        "sampling",
+        "sev1"
+    ],
+    "102-nm-04-036": [
+        "freeze",
+        "sev3"
+    ],
+    "102-nm-04-054": [
+        "shot_noise",
+        "sev4"
+    ],
+    "102-nm-04-072": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "102-nm-04-090": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "102-nm-04-108": [
+        "zoom_in",
+        "sev1"
+    ],
+    "102-nm-04-126": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "102-nm-04-144": [
+        "zoom_in",
+        "sev2"
+    ],
+    "102-nm-04-162": [
+        "shot_noise",
+        "sev3"
+    ],
+    "102-nm-04-180": [
+        "shot_noise",
+        "sev5"
+    ],
+    "103-nm-01-000": [
+        "sampling",
+        "sev4"
+    ],
+    "103-nm-01-018": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "103-nm-01-036": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "103-nm-01-054": [
+        "shot_noise",
+        "sev2"
+    ],
+    "103-nm-01-072": [
+        "sampling",
+        "sev1"
+    ],
+    "103-nm-01-090": [
+        "freeze",
+        "sev5"
+    ],
+    "103-nm-01-108": [
+        "low_light",
+        "sev1"
+    ],
+    "103-nm-01-126": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "103-nm-01-144": [
+        "low_light",
+        "sev4"
+    ],
+    "103-nm-01-162": [
+        "low_light",
+        "sev4"
+    ],
+    "103-nm-01-180": [
+        "freeze",
+        "sev3"
+    ],
+    "103-nm-02-000": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "103-nm-02-018": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "103-nm-02-036": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "103-nm-02-054": [
+        "snow",
+        "sev2"
+    ],
+    "103-nm-02-072": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "103-nm-02-090": [
+        "low_light",
+        "sev4"
+    ],
+    "103-nm-02-108": [
+        "snow",
+        "sev5"
+    ],
+    "103-nm-02-126": [
+        "zoom_in",
+        "sev4"
+    ],
+    "103-nm-02-144": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "103-nm-02-162": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "103-nm-02-180": [
+        "fog",
+        "sev5"
+    ],
+    "103-nm-03-000": [
+        "snow",
+        "sev3"
+    ],
+    "103-nm-03-018": [
+        "sampling",
+        "sev1"
+    ],
+    "103-nm-03-036": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "103-nm-03-054": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "103-nm-03-072": [
+        "snow",
+        "sev3"
+    ],
+    "103-nm-03-090": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "103-nm-03-108": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "103-nm-03-126": [
+        "snow",
+        "sev2"
+    ],
+    "103-nm-03-144": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "103-nm-03-162": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "103-nm-03-180": [
+        "rain",
+        "sev2"
+    ],
+    "103-nm-04-000": [
+        "zoom_in",
+        "sev4"
+    ],
+    "103-nm-04-018": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "103-nm-04-036": [
+        "fog",
+        "sev1"
+    ],
+    "103-nm-04-054": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "103-nm-04-072": [
+        "low_light",
+        "sev3"
+    ],
+    "103-nm-04-090": [
+        "rain",
+        "sev5"
+    ],
+    "103-nm-04-108": [
+        "zoom_in",
+        "sev3"
+    ],
+    "103-nm-04-126": [
+        "snow",
+        "sev1"
+    ],
+    "103-nm-04-144": [
+        "shot_noise",
+        "sev5"
+    ],
+    "103-nm-04-162": [
+        "low_light",
+        "sev4"
+    ],
+    "103-nm-04-180": [
+        "fog",
+        "sev2"
+    ],
+    "104-nm-01-000": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "104-nm-01-018": [
+        "shot_noise",
+        "sev5"
+    ],
+    "104-nm-01-036": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "104-nm-01-054": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "104-nm-01-072": [
+        "shot_noise",
+        "sev1"
+    ],
+    "104-nm-01-090": [
+        "rain",
+        "sev2"
+    ],
+    "104-nm-01-108": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "104-nm-01-126": [
+        "zoom_in",
+        "sev2"
+    ],
+    "104-nm-01-144": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "104-nm-01-162": [
+        "shot_noise",
+        "sev2"
+    ],
+    "104-nm-01-180": [
+        "sampling",
+        "sev1"
+    ],
+    "104-nm-02-000": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "104-nm-02-018": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "104-nm-02-036": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "104-nm-02-054": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "104-nm-02-072": [
+        "sampling",
+        "sev1"
+    ],
+    "104-nm-02-090": [
+        "rain",
+        "sev1"
+    ],
+    "104-nm-02-108": [
+        "sampling",
+        "sev3"
+    ],
+    "104-nm-02-126": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "104-nm-02-144": [
+        "snow",
+        "sev4"
+    ],
+    "104-nm-02-162": [
+        "snow",
+        "sev1"
+    ],
+    "104-nm-02-180": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "104-nm-03-000": [
+        "snow",
+        "sev1"
+    ],
+    "104-nm-03-018": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "104-nm-03-036": [
+        "fog",
+        "sev1"
+    ],
+    "104-nm-03-054": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "104-nm-03-072": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "104-nm-03-090": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "104-nm-03-108": [
+        "sampling",
+        "sev1"
+    ],
+    "104-nm-03-126": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "104-nm-03-144": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "104-nm-03-162": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "104-nm-03-180": [
+        "freeze",
+        "sev5"
+    ],
+    "104-nm-04-000": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "104-nm-04-018": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "104-nm-04-036": [
+        "rain",
+        "sev1"
+    ],
+    "104-nm-04-054": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "104-nm-04-072": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "104-nm-04-090": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "104-nm-04-108": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "104-nm-04-126": [
+        "zoom_in",
+        "sev2"
+    ],
+    "104-nm-04-144": [
+        "zoom_in",
+        "sev1"
+    ],
+    "104-nm-04-162": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "104-nm-04-180": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "105-nm-01-000": [
+        "rain",
+        "sev1"
+    ],
+    "105-nm-01-018": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "105-nm-01-036": [
+        "sampling",
+        "sev2"
+    ],
+    "105-nm-01-054": [
+        "low_light",
+        "sev5"
+    ],
+    "105-nm-01-072": [
+        "rain",
+        "sev2"
+    ],
+    "105-nm-01-090": [
+        "sampling",
+        "sev3"
+    ],
+    "105-nm-01-108": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "105-nm-01-126": [
+        "fog",
+        "sev4"
+    ],
+    "105-nm-01-144": [
+        "snow",
+        "sev2"
+    ],
+    "105-nm-01-162": [
+        "low_light",
+        "sev4"
+    ],
+    "105-nm-01-180": [
+        "fog",
+        "sev3"
+    ],
+    "105-nm-02-000": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "105-nm-02-018": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "105-nm-02-036": [
+        "rain",
+        "sev1"
+    ],
+    "105-nm-02-054": [
+        "rain",
+        "sev4"
+    ],
+    "105-nm-02-072": [
+        "snow",
+        "sev5"
+    ],
+    "105-nm-02-090": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "105-nm-02-108": [
+        "snow",
+        "sev2"
+    ],
+    "105-nm-02-126": [
+        "shot_noise",
+        "sev1"
+    ],
+    "105-nm-02-144": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "105-nm-02-162": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "105-nm-02-180": [
+        "rain",
+        "sev5"
+    ],
+    "105-nm-03-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "105-nm-03-018": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "105-nm-03-036": [
+        "sampling",
+        "sev3"
+    ],
+    "105-nm-03-054": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "105-nm-03-072": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "105-nm-03-090": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "105-nm-03-108": [
+        "freeze",
+        "sev3"
+    ],
+    "105-nm-03-126": [
+        "freeze",
+        "sev5"
+    ],
+    "105-nm-03-144": [
+        "snow",
+        "sev1"
+    ],
+    "105-nm-03-162": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "105-nm-03-180": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "105-nm-04-000": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "105-nm-04-018": [
+        "snow",
+        "sev2"
+    ],
+    "105-nm-04-036": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "105-nm-04-054": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "105-nm-04-072": [
+        "fog",
+        "sev2"
+    ],
+    "105-nm-04-090": [
+        "rain",
+        "sev3"
+    ],
+    "105-nm-04-108": [
+        "shot_noise",
+        "sev3"
+    ],
+    "105-nm-04-126": [
+        "zoom_in",
+        "sev5"
+    ],
+    "105-nm-04-144": [
+        "snow",
+        "sev5"
+    ],
+    "105-nm-04-162": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "105-nm-04-180": [
+        "snow",
+        "sev5"
+    ],
+    "106-nm-01-000": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "106-nm-01-018": [
+        "freeze",
+        "sev5"
+    ],
+    "106-nm-01-036": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "106-nm-01-054": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "106-nm-01-072": [
+        "low_light",
+        "sev2"
+    ],
+    "106-nm-01-090": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "106-nm-01-108": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "106-nm-01-126": [
+        "snow",
+        "sev5"
+    ],
+    "106-nm-01-144": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "106-nm-01-162": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "106-nm-01-180": [
+        "freeze",
+        "sev5"
+    ],
+    "106-nm-02-000": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "106-nm-02-018": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "106-nm-02-036": [
+        "fog",
+        "sev2"
+    ],
+    "106-nm-02-054": [
+        "zoom_in",
+        "sev4"
+    ],
+    "106-nm-02-072": [
+        "low_light",
+        "sev2"
+    ],
+    "106-nm-02-090": [
+        "sampling",
+        "sev4"
+    ],
+    "106-nm-02-108": [
+        "snow",
+        "sev4"
+    ],
+    "106-nm-02-126": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "106-nm-02-144": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "106-nm-02-162": [
+        "rain",
+        "sev1"
+    ],
+    "106-nm-02-180": [
+        "fog",
+        "sev1"
+    ],
+    "106-nm-03-000": [
+        "rain",
+        "sev1"
+    ],
+    "106-nm-03-018": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "106-nm-03-036": [
+        "zoom_in",
+        "sev3"
+    ],
+    "106-nm-03-054": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "106-nm-03-072": [
+        "low_light",
+        "sev1"
+    ],
+    "106-nm-03-090": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "106-nm-03-108": [
+        "freeze",
+        "sev4"
+    ],
+    "106-nm-03-126": [
+        "rain",
+        "sev2"
+    ],
+    "106-nm-03-144": [
+        "freeze",
+        "sev4"
+    ],
+    "106-nm-03-162": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "106-nm-03-180": [
+        "rain",
+        "sev2"
+    ],
+    "106-nm-04-000": [
+        "zoom_in",
+        "sev4"
+    ],
+    "106-nm-04-018": [
+        "sampling",
+        "sev4"
+    ],
+    "106-nm-04-036": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "106-nm-04-054": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "106-nm-04-072": [
+        "zoom_in",
+        "sev5"
+    ],
+    "106-nm-04-090": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "106-nm-04-108": [
+        "freeze",
+        "sev3"
+    ],
+    "106-nm-04-126": [
+        "rain",
+        "sev4"
+    ],
+    "106-nm-04-144": [
+        "rain",
+        "sev1"
+    ],
+    "106-nm-04-162": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "106-nm-04-180": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "107-nm-01-000": [
+        "rain",
+        "sev1"
+    ],
+    "107-nm-01-018": [
+        "rain",
+        "sev3"
+    ],
+    "107-nm-01-036": [
+        "zoom_in",
+        "sev3"
+    ],
+    "107-nm-01-054": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "107-nm-01-072": [
+        "rain",
+        "sev4"
+    ],
+    "107-nm-01-090": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "107-nm-01-108": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "107-nm-01-126": [
+        "sampling",
+        "sev4"
+    ],
+    "107-nm-01-144": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "107-nm-01-162": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "107-nm-01-180": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "107-nm-02-000": [
+        "freeze",
+        "sev1"
+    ],
+    "107-nm-02-018": [
+        "rain",
+        "sev5"
+    ],
+    "107-nm-02-036": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "107-nm-02-054": [
+        "low_light",
+        "sev1"
+    ],
+    "107-nm-02-072": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "107-nm-02-090": [
+        "fog",
+        "sev5"
+    ],
+    "107-nm-02-108": [
+        "rain",
+        "sev4"
+    ],
+    "107-nm-02-126": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "107-nm-02-144": [
+        "fog",
+        "sev5"
+    ],
+    "107-nm-02-162": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "107-nm-02-180": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "107-nm-03-000": [
+        "rain",
+        "sev3"
+    ],
+    "107-nm-03-018": [
+        "snow",
+        "sev4"
+    ],
+    "107-nm-03-036": [
+        "freeze",
+        "sev2"
+    ],
+    "107-nm-03-054": [
+        "sampling",
+        "sev1"
+    ],
+    "107-nm-03-072": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "107-nm-03-090": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "107-nm-03-108": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "107-nm-03-126": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "107-nm-03-144": [
+        "zoom_in",
+        "sev3"
+    ],
+    "107-nm-03-162": [
+        "freeze",
+        "sev1"
+    ],
+    "107-nm-03-180": [
+        "low_light",
+        "sev3"
+    ],
+    "107-nm-04-000": [
+        "rain",
+        "sev5"
+    ],
+    "107-nm-04-018": [
+        "zoom_in",
+        "sev4"
+    ],
+    "107-nm-04-036": [
+        "freeze",
+        "sev4"
+    ],
+    "107-nm-04-054": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "107-nm-04-072": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "107-nm-04-090": [
+        "sampling",
+        "sev5"
+    ],
+    "107-nm-04-108": [
+        "fog",
+        "sev2"
+    ],
+    "107-nm-04-126": [
+        "low_light",
+        "sev1"
+    ],
+    "107-nm-04-144": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "107-nm-04-162": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "107-nm-04-180": [
+        "zoom_in",
+        "sev2"
+    ],
+    "108-nm-01-000": [
+        "shot_noise",
+        "sev3"
+    ],
+    "108-nm-01-018": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "108-nm-01-036": [
+        "low_light",
+        "sev4"
+    ],
+    "108-nm-01-054": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "108-nm-01-072": [
+        "sampling",
+        "sev2"
+    ],
+    "108-nm-01-090": [
+        "shot_noise",
+        "sev3"
+    ],
+    "108-nm-01-108": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "108-nm-01-126": [
+        "snow",
+        "sev1"
+    ],
+    "108-nm-01-144": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "108-nm-01-162": [
+        "rain",
+        "sev4"
+    ],
+    "108-nm-01-180": [
+        "snow",
+        "sev1"
+    ],
+    "108-nm-02-000": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "108-nm-02-018": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "108-nm-02-036": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "108-nm-02-054": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "108-nm-02-072": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "108-nm-02-090": [
+        "rain",
+        "sev2"
+    ],
+    "108-nm-02-108": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "108-nm-02-126": [
+        "snow",
+        "sev1"
+    ],
+    "108-nm-02-144": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "108-nm-02-162": [
+        "rain",
+        "sev4"
+    ],
+    "108-nm-02-180": [
+        "sampling",
+        "sev5"
+    ],
+    "108-nm-03-000": [
+        "snow",
+        "sev5"
+    ],
+    "108-nm-03-018": [
+        "rain",
+        "sev1"
+    ],
+    "108-nm-03-036": [
+        "snow",
+        "sev3"
+    ],
+    "108-nm-03-054": [
+        "snow",
+        "sev5"
+    ],
+    "108-nm-03-072": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "108-nm-03-090": [
+        "freeze",
+        "sev4"
+    ],
+    "108-nm-03-108": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "108-nm-03-126": [
+        "zoom_in",
+        "sev2"
+    ],
+    "108-nm-03-144": [
+        "low_light",
+        "sev1"
+    ],
+    "108-nm-03-162": [
+        "zoom_in",
+        "sev3"
+    ],
+    "108-nm-03-180": [
+        "sampling",
+        "sev3"
+    ],
+    "108-nm-04-000": [
+        "fog",
+        "sev2"
+    ],
+    "108-nm-04-018": [
+        "low_light",
+        "sev1"
+    ],
+    "108-nm-04-036": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "108-nm-04-054": [
+        "sampling",
+        "sev5"
+    ],
+    "108-nm-04-072": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "108-nm-04-090": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "108-nm-04-108": [
+        "low_light",
+        "sev1"
+    ],
+    "108-nm-04-126": [
+        "shot_noise",
+        "sev2"
+    ],
+    "108-nm-04-144": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "108-nm-04-162": [
+        "snow",
+        "sev3"
+    ],
+    "108-nm-04-180": [
+        "freeze",
+        "sev2"
+    ],
+    "109-nm-01-000": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "109-nm-01-018": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "109-nm-01-036": [
+        "fog",
+        "sev5"
+    ],
+    "109-nm-01-054": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "109-nm-01-072": [
+        "low_light",
+        "sev4"
+    ],
+    "109-nm-01-090": [
+        "shot_noise",
+        "sev4"
+    ],
+    "109-nm-01-108": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "109-nm-01-126": [
+        "sampling",
+        "sev4"
+    ],
+    "109-nm-01-144": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "109-nm-01-162": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "109-nm-01-180": [
+        "freeze",
+        "sev4"
+    ],
+    "109-nm-02-000": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "109-nm-02-018": [
+        "freeze",
+        "sev2"
+    ],
+    "109-nm-02-036": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "109-nm-02-054": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "109-nm-02-072": [
+        "snow",
+        "sev3"
+    ],
+    "109-nm-02-090": [
+        "zoom_in",
+        "sev4"
+    ],
+    "109-nm-02-108": [
+        "zoom_in",
+        "sev3"
+    ],
+    "109-nm-02-126": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "109-nm-02-144": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "109-nm-02-162": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "109-nm-02-180": [
+        "freeze",
+        "sev1"
+    ],
+    "109-nm-03-000": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "109-nm-03-018": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "109-nm-03-036": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "109-nm-03-054": [
+        "low_light",
+        "sev5"
+    ],
+    "109-nm-03-072": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "109-nm-03-090": [
+        "fog",
+        "sev1"
+    ],
+    "109-nm-03-108": [
+        "sampling",
+        "sev1"
+    ],
+    "109-nm-03-126": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "109-nm-03-144": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "109-nm-03-162": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "109-nm-03-180": [
+        "fog",
+        "sev2"
+    ],
+    "109-nm-04-000": [
+        "rain",
+        "sev4"
+    ],
+    "109-nm-04-018": [
+        "sampling",
+        "sev5"
+    ],
+    "109-nm-04-036": [
+        "low_light",
+        "sev5"
+    ],
+    "109-nm-04-054": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "109-nm-04-072": [
+        "zoom_in",
+        "sev3"
+    ],
+    "109-nm-04-090": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "109-nm-04-108": [
+        "low_light",
+        "sev2"
+    ],
+    "109-nm-04-126": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "109-nm-04-144": [
+        "low_light",
+        "sev4"
+    ],
+    "109-nm-04-162": [
+        "freeze",
+        "sev4"
+    ],
+    "109-nm-04-180": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "110-nm-01-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "110-nm-01-018": [
+        "rain",
+        "sev1"
+    ],
+    "110-nm-01-036": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "110-nm-01-054": [
+        "rain",
+        "sev3"
+    ],
+    "110-nm-01-072": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "110-nm-01-090": [
+        "shot_noise",
+        "sev2"
+    ],
+    "110-nm-01-108": [
+        "zoom_in",
+        "sev1"
+    ],
+    "110-nm-01-126": [
+        "snow",
+        "sev4"
+    ],
+    "110-nm-01-144": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "110-nm-01-162": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "110-nm-01-180": [
+        "snow",
+        "sev4"
+    ],
+    "110-nm-02-000": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "110-nm-02-018": [
+        "rain",
+        "sev1"
+    ],
+    "110-nm-02-036": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "110-nm-02-054": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "110-nm-02-072": [
+        "zoom_in",
+        "sev1"
+    ],
+    "110-nm-02-090": [
+        "sampling",
+        "sev5"
+    ],
+    "110-nm-02-108": [
+        "snow",
+        "sev2"
+    ],
+    "110-nm-02-126": [
+        "snow",
+        "sev4"
+    ],
+    "110-nm-02-144": [
+        "fog",
+        "sev5"
+    ],
+    "110-nm-02-162": [
+        "sampling",
+        "sev3"
+    ],
+    "110-nm-02-180": [
+        "sampling",
+        "sev2"
+    ],
+    "110-nm-03-000": [
+        "shot_noise",
+        "sev1"
+    ],
+    "110-nm-03-018": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "110-nm-03-036": [
+        "snow",
+        "sev1"
+    ],
+    "110-nm-03-054": [
+        "low_light",
+        "sev2"
+    ],
+    "110-nm-03-072": [
+        "snow",
+        "sev5"
+    ],
+    "110-nm-03-090": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "110-nm-03-108": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "110-nm-03-126": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "110-nm-03-144": [
+        "snow",
+        "sev3"
+    ],
+    "110-nm-03-162": [
+        "rain",
+        "sev1"
+    ],
+    "110-nm-03-180": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "110-nm-04-000": [
+        "low_light",
+        "sev5"
+    ],
+    "110-nm-04-018": [
+        "rain",
+        "sev3"
+    ],
+    "110-nm-04-036": [
+        "zoom_in",
+        "sev1"
+    ],
+    "110-nm-04-054": [
+        "sampling",
+        "sev1"
+    ],
+    "110-nm-04-072": [
+        "sampling",
+        "sev4"
+    ],
+    "110-nm-04-090": [
+        "zoom_in",
+        "sev2"
+    ],
+    "110-nm-04-108": [
+        "shot_noise",
+        "sev4"
+    ],
+    "110-nm-04-126": [
+        "freeze",
+        "sev5"
+    ],
+    "110-nm-04-144": [
+        "low_light",
+        "sev2"
+    ],
+    "110-nm-04-162": [
+        "snow",
+        "sev4"
+    ],
+    "110-nm-04-180": [
+        "rain",
+        "sev2"
+    ],
+    "111-nm-01-000": [
+        "freeze",
+        "sev3"
+    ],
+    "111-nm-01-018": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "111-nm-01-036": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "111-nm-01-054": [
+        "low_light",
+        "sev2"
+    ],
+    "111-nm-01-072": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "111-nm-01-090": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "111-nm-01-108": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "111-nm-01-126": [
+        "freeze",
+        "sev2"
+    ],
+    "111-nm-01-144": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "111-nm-01-162": [
+        "freeze",
+        "sev1"
+    ],
+    "111-nm-01-180": [
+        "zoom_in",
+        "sev2"
+    ],
+    "111-nm-02-000": [
+        "fog",
+        "sev2"
+    ],
+    "111-nm-02-018": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "111-nm-02-036": [
+        "sampling",
+        "sev4"
+    ],
+    "111-nm-02-054": [
+        "snow",
+        "sev4"
+    ],
+    "111-nm-02-072": [
+        "sampling",
+        "sev3"
+    ],
+    "111-nm-02-090": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "111-nm-02-108": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "111-nm-02-126": [
+        "sampling",
+        "sev4"
+    ],
+    "111-nm-02-144": [
+        "sampling",
+        "sev3"
+    ],
+    "111-nm-02-162": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "111-nm-02-180": [
+        "fog",
+        "sev5"
+    ],
+    "111-nm-03-000": [
+        "sampling",
+        "sev3"
+    ],
+    "111-nm-03-018": [
+        "shot_noise",
+        "sev3"
+    ],
+    "111-nm-03-036": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "111-nm-03-054": [
+        "shot_noise",
+        "sev2"
+    ],
+    "111-nm-03-072": [
+        "zoom_in",
+        "sev2"
+    ],
+    "111-nm-03-090": [
+        "freeze",
+        "sev5"
+    ],
+    "111-nm-03-108": [
+        "zoom_in",
+        "sev3"
+    ],
+    "111-nm-03-126": [
+        "low_light",
+        "sev2"
+    ],
+    "111-nm-03-144": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "111-nm-03-162": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "111-nm-03-180": [
+        "low_light",
+        "sev2"
+    ],
+    "111-nm-04-000": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "111-nm-04-018": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "111-nm-04-036": [
+        "shot_noise",
+        "sev3"
+    ],
+    "111-nm-04-054": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "111-nm-04-072": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "111-nm-04-090": [
+        "low_light",
+        "sev5"
+    ],
+    "111-nm-04-108": [
+        "rain",
+        "sev3"
+    ],
+    "111-nm-04-126": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "111-nm-04-144": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "111-nm-04-162": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "111-nm-04-180": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "112-nm-01-000": [
+        "sampling",
+        "sev3"
+    ],
+    "112-nm-01-018": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "112-nm-01-036": [
+        "rain",
+        "sev3"
+    ],
+    "112-nm-01-054": [
+        "sampling",
+        "sev4"
+    ],
+    "112-nm-01-072": [
+        "rain",
+        "sev3"
+    ],
+    "112-nm-01-090": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "112-nm-01-108": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "112-nm-01-126": [
+        "rain",
+        "sev4"
+    ],
+    "112-nm-01-144": [
+        "low_light",
+        "sev4"
+    ],
+    "112-nm-01-162": [
+        "sampling",
+        "sev4"
+    ],
+    "112-nm-01-180": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "112-nm-02-000": [
+        "freeze",
+        "sev5"
+    ],
+    "112-nm-02-018": [
+        "snow",
+        "sev1"
+    ],
+    "112-nm-02-036": [
+        "freeze",
+        "sev2"
+    ],
+    "112-nm-02-054": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "112-nm-02-072": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "112-nm-02-090": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "112-nm-02-108": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "112-nm-02-126": [
+        "sampling",
+        "sev5"
+    ],
+    "112-nm-02-144": [
+        "low_light",
+        "sev4"
+    ],
+    "112-nm-02-162": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "112-nm-02-180": [
+        "fog",
+        "sev2"
+    ],
+    "112-nm-03-000": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "112-nm-03-018": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "112-nm-03-036": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "112-nm-03-054": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "112-nm-03-072": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "112-nm-03-090": [
+        "zoom_in",
+        "sev2"
+    ],
+    "112-nm-03-108": [
+        "low_light",
+        "sev1"
+    ],
+    "112-nm-03-126": [
+        "snow",
+        "sev3"
+    ],
+    "112-nm-03-144": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "112-nm-03-162": [
+        "rain",
+        "sev5"
+    ],
+    "112-nm-03-180": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "112-nm-04-000": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "112-nm-04-018": [
+        "zoom_in",
+        "sev1"
+    ],
+    "112-nm-04-036": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "112-nm-04-054": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "112-nm-04-072": [
+        "low_light",
+        "sev5"
+    ],
+    "112-nm-04-090": [
+        "low_light",
+        "sev5"
+    ],
+    "112-nm-04-108": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "112-nm-04-126": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "112-nm-04-144": [
+        "zoom_in",
+        "sev5"
+    ],
+    "112-nm-04-162": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "112-nm-04-180": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "113-nm-01-000": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "113-nm-01-018": [
+        "shot_noise",
+        "sev3"
+    ],
+    "113-nm-01-036": [
+        "sampling",
+        "sev4"
+    ],
+    "113-nm-01-054": [
+        "zoom_in",
+        "sev1"
+    ],
+    "113-nm-01-072": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "113-nm-01-090": [
+        "rain",
+        "sev3"
+    ],
+    "113-nm-01-108": [
+        "snow",
+        "sev2"
+    ],
+    "113-nm-01-126": [
+        "freeze",
+        "sev4"
+    ],
+    "113-nm-01-144": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "113-nm-01-162": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "113-nm-01-180": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "113-nm-02-000": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "113-nm-02-018": [
+        "zoom_in",
+        "sev4"
+    ],
+    "113-nm-02-036": [
+        "snow",
+        "sev5"
+    ],
+    "113-nm-02-054": [
+        "low_light",
+        "sev2"
+    ],
+    "113-nm-02-072": [
+        "snow",
+        "sev4"
+    ],
+    "113-nm-02-090": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "113-nm-02-108": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "113-nm-02-126": [
+        "rain",
+        "sev4"
+    ],
+    "113-nm-02-144": [
+        "zoom_in",
+        "sev1"
+    ],
+    "113-nm-02-162": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "113-nm-02-180": [
+        "shot_noise",
+        "sev4"
+    ],
+    "113-nm-03-000": [
+        "snow",
+        "sev5"
+    ],
+    "113-nm-03-018": [
+        "snow",
+        "sev4"
+    ],
+    "113-nm-03-036": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "113-nm-03-054": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "113-nm-03-072": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "113-nm-03-090": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "113-nm-03-108": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "113-nm-03-126": [
+        "rain",
+        "sev5"
+    ],
+    "113-nm-03-144": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "113-nm-03-162": [
+        "freeze",
+        "sev1"
+    ],
+    "113-nm-03-180": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "113-nm-04-000": [
+        "snow",
+        "sev2"
+    ],
+    "113-nm-04-018": [
+        "low_light",
+        "sev2"
+    ],
+    "113-nm-04-036": [
+        "zoom_in",
+        "sev4"
+    ],
+    "113-nm-04-054": [
+        "rain",
+        "sev3"
+    ],
+    "113-nm-04-072": [
+        "snow",
+        "sev3"
+    ],
+    "113-nm-04-090": [
+        "rain",
+        "sev2"
+    ],
+    "113-nm-04-108": [
+        "fog",
+        "sev2"
+    ],
+    "113-nm-04-126": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "113-nm-04-144": [
+        "freeze",
+        "sev1"
+    ],
+    "113-nm-04-162": [
+        "shot_noise",
+        "sev1"
+    ],
+    "113-nm-04-180": [
+        "low_light",
+        "sev3"
+    ],
+    "114-nm-01-000": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "114-nm-01-018": [
+        "sampling",
+        "sev3"
+    ],
+    "114-nm-01-036": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "114-nm-01-054": [
+        "freeze",
+        "sev5"
+    ],
+    "114-nm-01-072": [
+        "fog",
+        "sev4"
+    ],
+    "114-nm-01-090": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "114-nm-01-108": [
+        "sampling",
+        "sev4"
+    ],
+    "114-nm-01-126": [
+        "fog",
+        "sev1"
+    ],
+    "114-nm-01-144": [
+        "sampling",
+        "sev3"
+    ],
+    "114-nm-01-162": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "114-nm-01-180": [
+        "snow",
+        "sev2"
+    ],
+    "114-nm-02-000": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "114-nm-02-018": [
+        "shot_noise",
+        "sev4"
+    ],
+    "114-nm-02-036": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "114-nm-02-054": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "114-nm-02-072": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "114-nm-02-090": [
+        "shot_noise",
+        "sev5"
+    ],
+    "114-nm-02-108": [
+        "sampling",
+        "sev5"
+    ],
+    "114-nm-02-126": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "114-nm-02-144": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "114-nm-02-162": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "114-nm-02-180": [
+        "rain",
+        "sev4"
+    ],
+    "114-nm-03-000": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "114-nm-03-018": [
+        "rain",
+        "sev1"
+    ],
+    "114-nm-03-036": [
+        "snow",
+        "sev5"
+    ],
+    "114-nm-03-054": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "114-nm-03-072": [
+        "snow",
+        "sev1"
+    ],
+    "114-nm-03-090": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "114-nm-03-108": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "114-nm-03-126": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "114-nm-03-144": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "114-nm-03-162": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "114-nm-03-180": [
+        "rain",
+        "sev4"
+    ],
+    "114-nm-04-000": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "114-nm-04-018": [
+        "snow",
+        "sev3"
+    ],
+    "114-nm-04-036": [
+        "shot_noise",
+        "sev1"
+    ],
+    "114-nm-04-054": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "114-nm-04-072": [
+        "low_light",
+        "sev1"
+    ],
+    "114-nm-04-090": [
+        "rain",
+        "sev5"
+    ],
+    "114-nm-04-108": [
+        "sampling",
+        "sev3"
+    ],
+    "114-nm-04-126": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "114-nm-04-144": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "114-nm-04-162": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "114-nm-04-180": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "115-nm-01-000": [
+        "snow",
+        "sev4"
+    ],
+    "115-nm-01-018": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "115-nm-01-036": [
+        "freeze",
+        "sev5"
+    ],
+    "115-nm-01-054": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "115-nm-01-072": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "115-nm-01-090": [
+        "freeze",
+        "sev4"
+    ],
+    "115-nm-01-108": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "115-nm-01-126": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "115-nm-01-144": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "115-nm-01-162": [
+        "shot_noise",
+        "sev5"
+    ],
+    "115-nm-01-180": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "115-nm-02-000": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "115-nm-02-018": [
+        "sampling",
+        "sev2"
+    ],
+    "115-nm-02-036": [
+        "low_light",
+        "sev4"
+    ],
+    "115-nm-02-054": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "115-nm-02-072": [
+        "sampling",
+        "sev2"
+    ],
+    "115-nm-02-090": [
+        "sampling",
+        "sev1"
+    ],
+    "115-nm-02-108": [
+        "sampling",
+        "sev4"
+    ],
+    "115-nm-02-126": [
+        "sampling",
+        "sev4"
+    ],
+    "115-nm-02-144": [
+        "shot_noise",
+        "sev2"
+    ],
+    "115-nm-02-162": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "115-nm-02-180": [
+        "rain",
+        "sev3"
+    ],
+    "115-nm-03-000": [
+        "freeze",
+        "sev2"
+    ],
+    "115-nm-03-018": [
+        "zoom_in",
+        "sev5"
+    ],
+    "115-nm-03-036": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "115-nm-03-054": [
+        "snow",
+        "sev1"
+    ],
+    "115-nm-03-072": [
+        "snow",
+        "sev2"
+    ],
+    "115-nm-03-090": [
+        "low_light",
+        "sev3"
+    ],
+    "115-nm-03-108": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "115-nm-03-126": [
+        "fog",
+        "sev2"
+    ],
+    "115-nm-03-144": [
+        "fog",
+        "sev5"
+    ],
+    "115-nm-03-162": [
+        "fog",
+        "sev3"
+    ],
+    "115-nm-03-180": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "115-nm-04-000": [
+        "fog",
+        "sev2"
+    ],
+    "115-nm-04-018": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "115-nm-04-036": [
+        "shot_noise",
+        "sev2"
+    ],
+    "115-nm-04-054": [
+        "zoom_in",
+        "sev2"
+    ],
+    "115-nm-04-072": [
+        "rain",
+        "sev2"
+    ],
+    "115-nm-04-090": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "115-nm-04-108": [
+        "shot_noise",
+        "sev2"
+    ],
+    "115-nm-04-126": [
+        "snow",
+        "sev3"
+    ],
+    "115-nm-04-144": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "115-nm-04-162": [
+        "rain",
+        "sev4"
+    ],
+    "115-nm-04-180": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "116-nm-01-000": [
+        "fog",
+        "sev2"
+    ],
+    "116-nm-01-018": [
+        "sampling",
+        "sev3"
+    ],
+    "116-nm-01-036": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "116-nm-01-054": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "116-nm-01-072": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "116-nm-01-090": [
+        "snow",
+        "sev3"
+    ],
+    "116-nm-01-108": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "116-nm-01-126": [
+        "freeze",
+        "sev2"
+    ],
+    "116-nm-01-144": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "116-nm-01-162": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "116-nm-01-180": [
+        "freeze",
+        "sev4"
+    ],
+    "116-nm-02-000": [
+        "shot_noise",
+        "sev4"
+    ],
+    "116-nm-02-018": [
+        "shot_noise",
+        "sev4"
+    ],
+    "116-nm-02-036": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "116-nm-02-054": [
+        "zoom_in",
+        "sev4"
+    ],
+    "116-nm-02-072": [
+        "zoom_in",
+        "sev2"
+    ],
+    "116-nm-02-090": [
+        "shot_noise",
+        "sev4"
+    ],
+    "116-nm-02-108": [
+        "shot_noise",
+        "sev2"
+    ],
+    "116-nm-02-126": [
+        "low_light",
+        "sev4"
+    ],
+    "116-nm-02-144": [
+        "low_light",
+        "sev1"
+    ],
+    "116-nm-02-162": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "116-nm-02-180": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "116-nm-03-000": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "116-nm-03-018": [
+        "fog",
+        "sev3"
+    ],
+    "116-nm-03-036": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "116-nm-03-054": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "116-nm-03-072": [
+        "snow",
+        "sev4"
+    ],
+    "116-nm-03-090": [
+        "zoom_in",
+        "sev5"
+    ],
+    "116-nm-03-108": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "116-nm-03-126": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "116-nm-03-144": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "116-nm-03-162": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "116-nm-03-180": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "116-nm-04-000": [
+        "shot_noise",
+        "sev3"
+    ],
+    "116-nm-04-018": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "116-nm-04-036": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "116-nm-04-054": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "116-nm-04-072": [
+        "fog",
+        "sev3"
+    ],
+    "116-nm-04-090": [
+        "fog",
+        "sev4"
+    ],
+    "116-nm-04-108": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "116-nm-04-126": [
+        "rain",
+        "sev1"
+    ],
+    "116-nm-04-144": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "116-nm-04-162": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "116-nm-04-180": [
+        "freeze",
+        "sev1"
+    ],
+    "117-nm-01-000": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "117-nm-01-018": [
+        "fog",
+        "sev3"
+    ],
+    "117-nm-01-036": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "117-nm-01-054": [
+        "low_light",
+        "sev1"
+    ],
+    "117-nm-01-072": [
+        "rain",
+        "sev3"
+    ],
+    "117-nm-01-090": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "117-nm-01-108": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "117-nm-01-126": [
+        "low_light",
+        "sev3"
+    ],
+    "117-nm-01-144": [
+        "shot_noise",
+        "sev2"
+    ],
+    "117-nm-01-162": [
+        "low_light",
+        "sev5"
+    ],
+    "117-nm-01-180": [
+        "zoom_in",
+        "sev1"
+    ],
+    "117-nm-02-000": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "117-nm-02-018": [
+        "rain",
+        "sev4"
+    ],
+    "117-nm-02-036": [
+        "snow",
+        "sev1"
+    ],
+    "117-nm-02-054": [
+        "shot_noise",
+        "sev4"
+    ],
+    "117-nm-02-072": [
+        "zoom_in",
+        "sev5"
+    ],
+    "117-nm-02-090": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "117-nm-02-108": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "117-nm-02-126": [
+        "zoom_in",
+        "sev1"
+    ],
+    "117-nm-02-144": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "117-nm-02-162": [
+        "freeze",
+        "sev2"
+    ],
+    "117-nm-02-180": [
+        "low_light",
+        "sev5"
+    ],
+    "117-nm-03-000": [
+        "snow",
+        "sev2"
+    ],
+    "117-nm-03-018": [
+        "fog",
+        "sev4"
+    ],
+    "117-nm-03-036": [
+        "shot_noise",
+        "sev2"
+    ],
+    "117-nm-03-054": [
+        "snow",
+        "sev1"
+    ],
+    "117-nm-03-072": [
+        "rain",
+        "sev2"
+    ],
+    "117-nm-03-090": [
+        "fog",
+        "sev3"
+    ],
+    "117-nm-03-108": [
+        "shot_noise",
+        "sev1"
+    ],
+    "117-nm-03-126": [
+        "rain",
+        "sev5"
+    ],
+    "117-nm-03-144": [
+        "fog",
+        "sev3"
+    ],
+    "117-nm-03-162": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "117-nm-03-180": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "117-nm-04-000": [
+        "low_light",
+        "sev4"
+    ],
+    "117-nm-04-018": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "117-nm-04-036": [
+        "zoom_in",
+        "sev2"
+    ],
+    "117-nm-04-054": [
+        "low_light",
+        "sev2"
+    ],
+    "117-nm-04-072": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "117-nm-04-090": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "117-nm-04-108": [
+        "rain",
+        "sev4"
+    ],
+    "117-nm-04-126": [
+        "freeze",
+        "sev1"
+    ],
+    "117-nm-04-144": [
+        "snow",
+        "sev1"
+    ],
+    "117-nm-04-162": [
+        "low_light",
+        "sev2"
+    ],
+    "117-nm-04-180": [
+        "zoom_in",
+        "sev5"
+    ],
+    "118-nm-01-000": [
+        "rain",
+        "sev5"
+    ],
+    "118-nm-01-018": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "118-nm-01-036": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "118-nm-01-054": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "118-nm-01-072": [
+        "fog",
+        "sev3"
+    ],
+    "118-nm-01-090": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "118-nm-01-108": [
+        "sampling",
+        "sev2"
+    ],
+    "118-nm-01-126": [
+        "shot_noise",
+        "sev3"
+    ],
+    "118-nm-01-144": [
+        "zoom_in",
+        "sev2"
+    ],
+    "118-nm-01-162": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "118-nm-01-180": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "118-nm-02-000": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "118-nm-02-018": [
+        "shot_noise",
+        "sev1"
+    ],
+    "118-nm-02-036": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "118-nm-02-054": [
+        "rain",
+        "sev5"
+    ],
+    "118-nm-02-072": [
+        "freeze",
+        "sev2"
+    ],
+    "118-nm-02-090": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "118-nm-02-108": [
+        "fog",
+        "sev4"
+    ],
+    "118-nm-02-126": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "118-nm-02-144": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "118-nm-02-162": [
+        "fog",
+        "sev2"
+    ],
+    "118-nm-02-180": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "118-nm-03-000": [
+        "sampling",
+        "sev3"
+    ],
+    "118-nm-03-018": [
+        "sampling",
+        "sev4"
+    ],
+    "118-nm-03-036": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "118-nm-03-054": [
+        "low_light",
+        "sev1"
+    ],
+    "118-nm-03-072": [
+        "low_light",
+        "sev2"
+    ],
+    "118-nm-03-090": [
+        "low_light",
+        "sev4"
+    ],
+    "118-nm-03-108": [
+        "sampling",
+        "sev2"
+    ],
+    "118-nm-03-126": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "118-nm-03-144": [
+        "fog",
+        "sev5"
+    ],
+    "118-nm-03-162": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "118-nm-03-180": [
+        "freeze",
+        "sev4"
+    ],
+    "118-nm-04-000": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "118-nm-04-018": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "118-nm-04-036": [
+        "rain",
+        "sev2"
+    ],
+    "118-nm-04-054": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "118-nm-04-072": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "118-nm-04-090": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "118-nm-04-108": [
+        "freeze",
+        "sev2"
+    ],
+    "118-nm-04-126": [
+        "zoom_blur",
+        "sev4"
+    ],
+    "118-nm-04-144": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "118-nm-04-162": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "118-nm-04-180": [
+        "shot_noise",
+        "sev3"
+    ],
+    "119-nm-01-000": [
+        "freeze",
+        "sev3"
+    ],
+    "119-nm-01-018": [
+        "zoom_in",
+        "sev4"
+    ],
+    "119-nm-01-036": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "119-nm-01-054": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "119-nm-01-072": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "119-nm-01-090": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "119-nm-01-108": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "119-nm-01-126": [
+        "rain",
+        "sev3"
+    ],
+    "119-nm-01-144": [
+        "shot_noise",
+        "sev2"
+    ],
+    "119-nm-01-162": [
+        "fog",
+        "sev4"
+    ],
+    "119-nm-01-180": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "119-nm-02-000": [
+        "fog",
+        "sev4"
+    ],
+    "119-nm-02-018": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "119-nm-02-036": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "119-nm-02-054": [
+        "zoom_in",
+        "sev4"
+    ],
+    "119-nm-02-072": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "119-nm-02-090": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "119-nm-02-108": [
+        "low_light",
+        "sev5"
+    ],
+    "119-nm-02-126": [
+        "sampling",
+        "sev2"
+    ],
+    "119-nm-02-144": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "119-nm-02-162": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "119-nm-02-180": [
+        "rain",
+        "sev5"
+    ],
+    "119-nm-03-000": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "119-nm-03-018": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "119-nm-03-036": [
+        "sampling",
+        "sev5"
+    ],
+    "119-nm-03-054": [
+        "snow",
+        "sev2"
+    ],
+    "119-nm-03-072": [
+        "zoom_in",
+        "sev2"
+    ],
+    "119-nm-03-090": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "119-nm-03-108": [
+        "zoom_in",
+        "sev4"
+    ],
+    "119-nm-03-126": [
+        "freeze",
+        "sev3"
+    ],
+    "119-nm-03-144": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "119-nm-03-162": [
+        "freeze",
+        "sev1"
+    ],
+    "119-nm-03-180": [
+        "zoom_in",
+        "sev1"
+    ],
+    "119-nm-04-000": [
+        "freeze",
+        "sev5"
+    ],
+    "119-nm-04-018": [
+        "fog",
+        "sev5"
+    ],
+    "119-nm-04-036": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "119-nm-04-054": [
+        "zoom_in",
+        "sev5"
+    ],
+    "119-nm-04-072": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "119-nm-04-090": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "119-nm-04-108": [
+        "sampling",
+        "sev4"
+    ],
+    "119-nm-04-126": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "119-nm-04-144": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "119-nm-04-162": [
+        "rain",
+        "sev5"
+    ],
+    "119-nm-04-180": [
+        "fog",
+        "sev3"
+    ],
+    "120-nm-01-000": [
+        "shot_noise",
+        "sev2"
+    ],
+    "120-nm-01-018": [
+        "rain",
+        "sev5"
+    ],
+    "120-nm-01-036": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "120-nm-01-054": [
+        "zoom_blur",
+        "sev2"
+    ],
+    "120-nm-01-072": [
+        "sampling",
+        "sev2"
+    ],
+    "120-nm-01-090": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "120-nm-01-108": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "120-nm-01-126": [
+        "rain",
+        "sev5"
+    ],
+    "120-nm-01-144": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "120-nm-01-162": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "120-nm-01-180": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "120-nm-02-000": [
+        "zoom_in",
+        "sev2"
+    ],
+    "120-nm-02-018": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "120-nm-02-036": [
+        "low_light",
+        "sev2"
+    ],
+    "120-nm-02-054": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "120-nm-02-072": [
+        "zoom_in",
+        "sev2"
+    ],
+    "120-nm-02-090": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "120-nm-02-108": [
+        "sampling",
+        "sev5"
+    ],
+    "120-nm-02-126": [
+        "fog",
+        "sev1"
+    ],
+    "120-nm-02-144": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "120-nm-02-162": [
+        "rain",
+        "sev2"
+    ],
+    "120-nm-02-180": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "120-nm-03-000": [
+        "sampling",
+        "sev3"
+    ],
+    "120-nm-03-018": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "120-nm-03-036": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "120-nm-03-054": [
+        "freeze",
+        "sev1"
+    ],
+    "120-nm-03-072": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "120-nm-03-090": [
+        "snow",
+        "sev2"
+    ],
+    "120-nm-03-108": [
+        "sampling",
+        "sev2"
+    ],
+    "120-nm-03-126": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "120-nm-03-144": [
+        "shot_noise",
+        "sev2"
+    ],
+    "120-nm-03-162": [
+        "sampling",
+        "sev5"
+    ],
+    "120-nm-03-180": [
+        "shot_noise",
+        "sev1"
+    ],
+    "120-nm-04-000": [
+        "rain",
+        "sev3"
+    ],
+    "120-nm-04-018": [
+        "sampling",
+        "sev4"
+    ],
+    "120-nm-04-036": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "120-nm-04-054": [
+        "fog",
+        "sev2"
+    ],
+    "120-nm-04-072": [
+        "rain",
+        "sev2"
+    ],
+    "120-nm-04-090": [
+        "freeze",
+        "sev4"
+    ],
+    "120-nm-04-108": [
+        "snow",
+        "sev2"
+    ],
+    "120-nm-04-126": [
+        "freeze",
+        "sev2"
+    ],
+    "120-nm-04-144": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "120-nm-04-162": [
+        "shot_noise",
+        "sev3"
+    ],
+    "120-nm-04-180": [
+        "fog",
+        "sev5"
+    ],
+    "121-nm-01-000": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "121-nm-01-018": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "121-nm-01-036": [
+        "sampling",
+        "sev4"
+    ],
+    "121-nm-01-054": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "121-nm-01-072": [
+        "sampling",
+        "sev1"
+    ],
+    "121-nm-01-090": [
+        "snow",
+        "sev4"
+    ],
+    "121-nm-01-108": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "121-nm-01-126": [
+        "zoom_in",
+        "sev4"
+    ],
+    "121-nm-01-144": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "121-nm-01-162": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "121-nm-01-180": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "121-nm-02-000": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "121-nm-02-018": [
+        "shot_noise",
+        "sev1"
+    ],
+    "121-nm-02-036": [
+        "low_light",
+        "sev5"
+    ],
+    "121-nm-02-054": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "121-nm-02-072": [
+        "snow",
+        "sev3"
+    ],
+    "121-nm-02-090": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "121-nm-02-108": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "121-nm-02-126": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "121-nm-02-144": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "121-nm-02-162": [
+        "shot_noise",
+        "sev4"
+    ],
+    "121-nm-02-180": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "121-nm-03-000": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "121-nm-03-018": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "121-nm-03-036": [
+        "freeze",
+        "sev1"
+    ],
+    "121-nm-03-054": [
+        "sampling",
+        "sev2"
+    ],
+    "121-nm-03-072": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "121-nm-03-090": [
+        "low_light",
+        "sev5"
+    ],
+    "121-nm-03-108": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "121-nm-03-126": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "121-nm-03-144": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "121-nm-03-162": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "121-nm-03-180": [
+        "rain",
+        "sev3"
+    ],
+    "121-nm-04-000": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "121-nm-04-018": [
+        "speckle_noise",
+        "sev2"
+    ],
+    "121-nm-04-036": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "121-nm-04-054": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "121-nm-04-072": [
+        "sampling",
+        "sev2"
+    ],
+    "121-nm-04-090": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "121-nm-04-108": [
+        "zoom_in",
+        "sev2"
+    ],
+    "121-nm-04-126": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "121-nm-04-144": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "121-nm-04-162": [
+        "low_light",
+        "sev2"
+    ],
+    "121-nm-04-180": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "122-nm-01-000": [
+        "zoom_in",
+        "sev2"
+    ],
+    "122-nm-01-018": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "122-nm-01-036": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "122-nm-01-054": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "122-nm-01-072": [
+        "fog",
+        "sev3"
+    ],
+    "122-nm-01-090": [
+        "sampling",
+        "sev5"
+    ],
+    "122-nm-01-108": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "122-nm-01-126": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "122-nm-01-144": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "122-nm-01-162": [
+        "speckle_noise",
+        "sev3"
+    ],
+    "122-nm-01-180": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "122-nm-02-000": [
+        "low_light",
+        "sev1"
+    ],
+    "122-nm-02-018": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "122-nm-02-036": [
+        "rain",
+        "sev2"
+    ],
+    "122-nm-02-054": [
+        "rain",
+        "sev4"
+    ],
+    "122-nm-02-072": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "122-nm-02-090": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "122-nm-02-108": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "122-nm-02-126": [
+        "freeze",
+        "sev5"
+    ],
+    "122-nm-02-144": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "122-nm-02-162": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "122-nm-02-180": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "122-nm-03-000": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "122-nm-03-018": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "122-nm-03-036": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "122-nm-03-054": [
+        "fog",
+        "sev2"
+    ],
+    "122-nm-03-072": [
+        "fog",
+        "sev3"
+    ],
+    "122-nm-03-090": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "122-nm-03-108": [
+        "fog",
+        "sev5"
+    ],
+    "122-nm-03-126": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "122-nm-03-144": [
+        "sampling",
+        "sev5"
+    ],
+    "122-nm-03-162": [
+        "sampling",
+        "sev5"
+    ],
+    "122-nm-03-180": [
+        "zoom_in",
+        "sev4"
+    ],
+    "122-nm-04-000": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "122-nm-04-018": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "122-nm-04-036": [
+        "snow",
+        "sev1"
+    ],
+    "122-nm-04-054": [
+        "sampling",
+        "sev3"
+    ],
+    "122-nm-04-072": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "122-nm-04-090": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "122-nm-04-108": [
+        "snow",
+        "sev3"
+    ],
+    "122-nm-04-126": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "122-nm-04-144": [
+        "zoom_in",
+        "sev4"
+    ],
+    "122-nm-04-162": [
+        "impulse_noise",
+        "sev4"
+    ],
+    "122-nm-04-180": [
+        "sampling",
+        "sev3"
+    ],
+    "123-nm-01-000": [
+        "rain",
+        "sev2"
+    ],
+    "123-nm-01-018": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "123-nm-01-036": [
+        "fog",
+        "sev3"
+    ],
+    "123-nm-01-054": [
+        "low_light",
+        "sev3"
+    ],
+    "123-nm-01-072": [
+        "sampling",
+        "sev5"
+    ],
+    "123-nm-01-090": [
+        "defocus_blur",
+        "sev4"
+    ],
+    "123-nm-01-108": [
+        "rain",
+        "sev4"
+    ],
+    "123-nm-01-126": [
+        "freeze",
+        "sev1"
+    ],
+    "123-nm-01-144": [
+        "sampling",
+        "sev5"
+    ],
+    "123-nm-01-162": [
+        "rain",
+        "sev5"
+    ],
+    "123-nm-01-180": [
+        "zoom_in",
+        "sev1"
+    ],
+    "123-nm-02-000": [
+        "low_light",
+        "sev3"
+    ],
+    "123-nm-02-018": [
+        "sampling",
+        "sev5"
+    ],
+    "123-nm-02-036": [
+        "freeze",
+        "sev3"
+    ],
+    "123-nm-02-054": [
+        "rain",
+        "sev4"
+    ],
+    "123-nm-02-072": [
+        "freeze",
+        "sev4"
+    ],
+    "123-nm-02-090": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "123-nm-02-108": [
+        "speckle_noise",
+        "sev1"
+    ],
+    "123-nm-02-126": [
+        "sampling",
+        "sev3"
+    ],
+    "123-nm-02-144": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "123-nm-02-162": [
+        "low_light",
+        "sev1"
+    ],
+    "123-nm-02-180": [
+        "defocus_blur",
+        "sev1"
+    ],
+    "123-nm-03-000": [
+        "snow",
+        "sev2"
+    ],
+    "123-nm-03-018": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "123-nm-03-036": [
+        "rain",
+        "sev2"
+    ],
+    "123-nm-03-054": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "123-nm-03-072": [
+        "shot_noise",
+        "sev5"
+    ],
+    "123-nm-03-090": [
+        "fog",
+        "sev4"
+    ],
+    "123-nm-03-108": [
+        "shot_noise",
+        "sev4"
+    ],
+    "123-nm-03-126": [
+        "low_light",
+        "sev3"
+    ],
+    "123-nm-03-144": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "123-nm-03-162": [
+        "freeze",
+        "sev4"
+    ],
+    "123-nm-03-180": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "123-nm-04-000": [
+        "rain",
+        "sev4"
+    ],
+    "123-nm-04-018": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "123-nm-04-036": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "123-nm-04-054": [
+        "snow",
+        "sev5"
+    ],
+    "123-nm-04-072": [
+        "freeze",
+        "sev3"
+    ],
+    "123-nm-04-090": [
+        "sampling",
+        "sev4"
+    ],
+    "123-nm-04-108": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "123-nm-04-126": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "123-nm-04-144": [
+        "sampling",
+        "sev1"
+    ],
+    "123-nm-04-162": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "123-nm-04-180": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "124-nm-01-000": [
+        "speckle_noise",
+        "sev4"
+    ],
+    "124-nm-01-018": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "124-nm-01-036": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "124-nm-01-054": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "124-nm-01-072": [
+        "gaussian_noise",
+        "sev2"
+    ],
+    "124-nm-01-090": [
+        "defocus_blur",
+        "sev2"
+    ],
+    "124-nm-01-108": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "124-nm-01-126": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "124-nm-01-144": [
+        "sampling",
+        "sev1"
+    ],
+    "124-nm-01-162": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "124-nm-01-180": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "124-nm-02-000": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "124-nm-02-018": [
+        "defocus_blur",
+        "sev5"
+    ],
+    "124-nm-02-036": [
+        "zoom_blur",
+        "sev5"
+    ],
+    "124-nm-02-054": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "124-nm-02-072": [
+        "zoom_in",
+        "sev4"
+    ],
+    "124-nm-02-090": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "124-nm-02-108": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "124-nm-02-126": [
+        "shot_noise",
+        "sev5"
+    ],
+    "124-nm-02-144": [
+        "fog",
+        "sev4"
+    ],
+    "124-nm-02-162": [
+        "impulse_noise2",
+        "sev4"
+    ],
+    "124-nm-02-180": [
+        "zoom_blur",
+        "sev1"
+    ],
+    "124-nm-03-000": [
+        "rain",
+        "sev2"
+    ],
+    "124-nm-03-018": [
+        "zoom_in",
+        "sev4"
+    ],
+    "124-nm-03-036": [
+        "shot_noise",
+        "sev1"
+    ],
+    "124-nm-03-054": [
+        "sampling",
+        "sev1"
+    ],
+    "124-nm-03-072": [
+        "snow",
+        "sev2"
+    ],
+    "124-nm-03-090": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "124-nm-03-108": [
+        "speckle_noise",
+        "sev5"
+    ],
+    "124-nm-03-126": [
+        "zoom_in",
+        "sev4"
+    ],
+    "124-nm-03-144": [
+        "snow",
+        "sev5"
+    ],
+    "124-nm-03-162": [
+        "gaussian_noise",
+        "sev4"
+    ],
+    "124-nm-03-180": [
+        "fog",
+        "sev4"
+    ],
+    "124-nm-04-000": [
+        "impulse_noise",
+        "sev2"
+    ],
+    "124-nm-04-018": [
+        "freeze",
+        "sev4"
+    ],
+    "124-nm-04-036": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "124-nm-04-054": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "124-nm-04-072": [
+        "snow",
+        "sev1"
+    ],
+    "124-nm-04-090": [
+        "rain",
+        "sev1"
+    ],
+    "124-nm-04-108": [
+        "zoom_blur",
+        "sev3"
+    ],
+    "124-nm-04-126": [
+        "rain",
+        "sev5"
+    ],
+    "124-nm-04-144": [
+        "impulse_noise2",
+        "sev2"
+    ],
+    "124-nm-04-162": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "124-nm-04-180": [
+        "rain",
+        "sev3"
+    ]
+}

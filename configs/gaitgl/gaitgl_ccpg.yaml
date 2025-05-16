@@ -1,13 +1,14 @@
 # Note  : *** the batch_size should be equal to the gpus number at the test phase!!! ***
 data_cfg:
-  dataset_name: CASIA-B
-  dataset_root: your_path
+  dataset_name: CCPG
+  dataset_root: 
   dataset_type: 
   aug_ratio: 1.0
-  dataset_partition: ./datasets/CASIA-B/CASIA-B.json
+  dataset_partition: ./datasets/CCPG/CCPG.json
   num_workers: 1
+  data_in_use: [True, False, False, False]
   remove_no_gallery: false
-  test_dataset_name: CASIA-B
+  test_dataset_name: CCPG
 
 evaluator_cfg:
   enable_float16: false 
@@ -18,6 +19,8 @@ evaluator_cfg:
     batch_size: 1
     sample_type: all_ordered
     type: InferenceSampler
+  eval_func: evaluate_CCPG
+  metric: euc
   transform:
     - type: BaseSilCuttingTransform
 
@@ -36,7 +39,7 @@ loss_cfg:
 model_cfg:
   model: GaitGL
   channels: [32, 64, 128]
-  class_num: 74
+  class_num: 100
 
 optimizer_cfg:
   lr: 1.0e-4

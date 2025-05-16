@@ -16,7 +16,7 @@ class BinaryCrossEntropyLoss(BaseLoss):
         # predts = torch.sigmoid(logits.float())
         labels = labels.float()
         logits = logits.float()
-
+    
         loss = - (labels * torch.log(logits + self.eps) +
                   (1 - labels) * torch.log(1. - logits + self.eps))
 

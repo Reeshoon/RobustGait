@@ -96,4 +96,3 @@ trainer_cfg:
           prob: 0.2
         - type: RandomRotate
           prob: 0.2
-

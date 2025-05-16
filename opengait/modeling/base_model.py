@@ -18,14 +18,15 @@ import torch.utils.data as tordata
 
 from tqdm import tqdm
 from torch.cuda.amp import autocast
-from torch.cuda.amp import GradScaler
+# from torch.cuda.amp import GradScaler
+from torch.amp import GradScaler
 from abc import ABCMeta
 from abc import abstractmethod
 
 from . import backbones
 from .loss_aggregator import LossAggregator
 from data.transform import get_transform
-from data.collate_fn import CollateFn
+from data.collate_fn import CollateFn, MultiCollateFn
 from data.dataset import DataSet
 import data.sampler as Samplers
 from utils import Odict, mkdir, ddp_all_gather
@@ -128,7 +129,6 @@ class BaseModel(MetaModel, nn.Module):
         training:
             Whether the model is in training mode.
         """
-
         super(BaseModel, self).__init__()
         self.msg_mgr = get_msg_mgr()
         self.cfgs = cfgs
@@ -138,7 +138,7 @@ class BaseModel(MetaModel, nn.Module):
             raise Exception("Initialize a model without -Engine-Cfgs-")
 
         if training and self.engine_cfg['enable_float16']:
-            self.Scaler = GradScaler()
+            self.Scaler = GradScaler(device='cuda')
         self.save_path = osp.join('output/', cfgs['data_cfg']['dataset_name'],
                                   cfgs['model_cfg']['model'], self.engine_cfg['save_name'])
 
@@ -160,8 +160,12 @@ class BaseModel(MetaModel, nn.Module):
         torch.cuda.set_device(self.device)
         self.to(device=torch.device(
             "cuda", self.device))
+        
+        if "dataset_type" in cfgs["data_cfg"] and cfgs["data_cfg"]["dataset_type"] == "MultiModal":
+            self.setup_encoders(cfgs['model_cfg'])
 
         if training:
+            self.msg_mgr.log_info(cfgs['loss_cfg'])
             self.loss_aggregator = LossAggregator(cfgs['loss_cfg'])
             self.optimizer = self.get_optimizer(self.cfgs['optimizer_cfg'])
             self.scheduler = self.get_scheduler(cfgs['scheduler_cfg'])
@@ -204,18 +208,30 @@ class BaseModel(MetaModel, nn.Module):
 
     def get_loader(self, data_cfg, train=True):
         sampler_cfg = self.cfgs['trainer_cfg']['sampler'] if train else self.cfgs['evaluator_cfg']['sampler']
+
+        # if "dataset_type" in data_cfg and data_cfg["dataset_type"] == "MultiModal":
+        #     dataset = DataSetKL(data_cfg, train)
+        # else:
+        #     dataset = DataSet(data_cfg, train)
         dataset = DataSet(data_cfg, train)
+        
 
         Sampler = get_attr_from([Samplers], sampler_cfg['type'])
         vaild_args = get_valid_args(Sampler, sampler_cfg, free_keys=[
             'sample_type', 'type'])
         sampler = Sampler(dataset, **vaild_args)
-
-        loader = tordata.DataLoader(
-            dataset=dataset,
-            batch_sampler=sampler,
-            collate_fn=CollateFn(dataset.label_set, sampler_cfg),
-            num_workers=data_cfg['num_workers'])
+        if "dataset_type" in data_cfg and data_cfg["dataset_type"] == "MultiModal" :
+            loader = tordata.DataLoader(
+                dataset=dataset,
+                batch_sampler=sampler,
+                collate_fn=MultiCollateFn(dataset.label_set, sampler_cfg),
+                num_workers=data_cfg['num_workers'])
+        else:
+            loader = tordata.DataLoader(
+                dataset=dataset,
+                batch_sampler=sampler,
+                collate_fn=CollateFn(dataset.label_set, sampler_cfg),
+                num_workers=data_cfg['num_workers'])
         return loader
 
     def get_optimizer(self, optimizer_cfg):
@@ -257,8 +273,33 @@ class BaseModel(MetaModel, nn.Module):
             self.msg_mgr.log_info("-------- Restored Params List --------")
             self.msg_mgr.log_info(sorted(set(model_state_dict.keys()).intersection(
                 set(self.state_dict().keys()))))
+            
+        # changed by sirsh: this is done to properly set the weights, skipping the fc layer
+        # adjusted_wts = {}
+        
+        # changed_wts = []
+        
+        # avail_wts = self.state_dict().keys()
+        # # print(f"avail_wts: {avail_wts}")
+        
+        # for name,params in model_state_dict.items():
+        #     #print(f"layer name: {name} layer shape: {self.state_dict()[name].shape} params: {params.shape}")
+        #     if name.startswith("Head1"):
+        #         continue
+        #     if name not in avail_wts or self.state_dict()[name].shape != params.shape:
+        #         continue
+        #     else:
+        #         # print("changing wt")
+        #         changed_wts.append(name)
+        #         adjusted_wts[name] = params
 
+        # self.msg_mgr.log_info("-------- Restored Weights List --------")
+        # self.msg_mgr.log_info(sorted(changed_wts))
+        
+        # # changed by sirsh: model_state_dict = adjusted_wts
+        # self.load_state_dict(adjusted_wts, strict=load_ckpt_strict)    
         self.load_state_dict(model_state_dict, strict=load_ckpt_strict)
+        # self.load_state_dict(model_state_dict, strict=load_ckpt_strict)
         if self.training:
             if not self.engine_cfg["optimizer_reset"] and 'optimizer' in checkpoint:
                 self.optimizer.load_state_dict(checkpoint['optimizer'])
@@ -301,12 +342,15 @@ class BaseModel(MetaModel, nn.Module):
         Returns:
             tuple: training data including inputs, labels, and some meta data.
         """
+
         seqs_batch, labs_batch, typs_batch, vies_batch, seqL_batch = inputs
         seq_trfs = self.trainer_trfs if self.training else self.evaluator_trfs
+
         if len(seqs_batch) != len(seq_trfs):
             raise ValueError(
                 "The number of types of input data and transform should be same. But got {} and {}".format(len(seqs_batch), len(seq_trfs)))
         requires_grad = bool(self.training)
+
         seqs = [np2var(np.asarray([trf(fra) for fra in seq]), requires_grad=requires_grad).float()
                 for trf, seq in zip(seq_trfs, seqs_batch)]
 
@@ -346,6 +390,7 @@ class BaseModel(MetaModel, nn.Module):
             self.Scaler.step(self.optimizer)
             scale = self.Scaler.get_scale()
             self.Scaler.update()
+            
             # Warning caused by optimizer skip when NaN
             # https://discuss.pytorch.org/t/optimizer-step-before-lr-scheduler-step-error-using-gradscaler/92930/5
             if scale != self.Scaler.get_scale():
@@ -402,6 +447,8 @@ class BaseModel(MetaModel, nn.Module):
     @ staticmethod
     def run_train(model):
         """Accept the instance object(model) here, and then run the train loop."""
+        print(f"Train loader size {len(model.train_loader)}")
+            
         for inputs in model.train_loader:
             ipts = model.inputs_pretreament(inputs)
             with autocast(enabled=model.engine_cfg['enable_float16']):
@@ -410,6 +457,7 @@ class BaseModel(MetaModel, nn.Module):
                 del retval
             loss_sum, loss_info = model.loss_aggregator(training_feat)
             ok = model.train_step(loss_sum)
+
             if not ok:
                 continue
 
@@ -432,6 +480,11 @@ class BaseModel(MetaModel, nn.Module):
                     if result_dict:
                         model.msg_mgr.write_to_tensorboard(result_dict)
                     model.msg_mgr.reset_time()
+
+            # if model.iteration % 500 == 0:
+            #     model.train_loader = model.get_loader(
+            #             model.cfgs['data_cfg'], train=True)
+                
             if model.iteration >= model.engine_cfg['total_iter']:
                 break
 
@@ -453,7 +506,7 @@ class BaseModel(MetaModel, nn.Module):
 
             info_dict.update({
                 'labels': label_list, 'types': types_list, 'views': views_list})
-
+            
             if 'eval_func' in evaluator_cfg.keys():
                 eval_func = evaluator_cfg["eval_func"]
             else:

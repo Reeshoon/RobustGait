@@ -310,8 +310,7 @@ class MultiCollateFn(CollateFn):
                     [fras1_batch[i][k] for i in range(batch_size)], 0)
                 fras1_batch = [[my_cat(k)] for k in range(feature_num)]  # [f, g]
 
-                batch[-1] = np.concatenate([batch[-1], np.asarray(seqL_batch)], axis=0)
-
+                # batch[-1] = np.asarray(seqL_batch)
             
             self.sampler = temp
                 
