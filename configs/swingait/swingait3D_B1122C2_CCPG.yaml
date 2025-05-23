@@ -1,6 +1,6 @@
 data_cfg:
   dataset_name: CCPG
-  dataset_root: #/home/c3-0/datasets/CCPG/CCPG-end2end-pkl
+  dataset_root: 
   dataset_partition: ./datasets/CCPG/CCPG.json
   dataset_type: 
   aug_ratio:
