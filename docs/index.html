@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RobustGait: Robustness Analysis for Appearance-Based Gait Recognition</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #fafafa;
+            color: #222;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 38px;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+
+        .authors {
+            font-size: 18px;
+            color: #3366cc;
+            margin-bottom: 8px;
+        }
+
+        .affiliation {
+            font-size: 15px;
+            color: #555;
+            margin-bottom: 4px;
+        }
+
+        .conference {
+            font-size: 18px;
+            font-weight: 600;
+            color: #b30000;
+            margin-bottom: 25px;
+        }
+
+        /* Button row */
+        .button-row {
+            margin: 20px 0 35px 0;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 18px;
+            margin: 6px;
+            background: #333;
+            color: white;
+            border-radius: 25px;
+            font-size: 15px;
+            text-decoration: none;
+            transition: 0.2s;
+        }
+
+        .button:hover {
+            background: #555;
+        }
+
+        /* Hero figure */
+        .hero-img {
+            width: 90%;
+            max-width: 900px;
+            border-radius: 8px;
+            margin: 30px auto;
+            display: block;
+        }
+
+        h2 {
+            font-size: 26px;
+            margin-top: 50px;
+            font-weight: 600;
+        }
+
+        p {
+            max-width: 850px;
+            margin: 0 auto 20px auto;
+            font-size: 17px;
+        }
+
+        .footer {
+            margin-top: 50px;
+            font-size: 14px;
+            color: #777;
+            padding-bottom: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Title -->
+    <h1>RobustGait: Robustness Analysis for Appearance-Based Gait Recognition</h1>
+
+    <!-- Authors -->
+    <div class="authors">
+        Reeshoon Sayera<sup>1</sup>,
+        A. Kumar<sup>1</sup>,
+        S. Mitra<sup>1</sup>,
+        P. Kamtam<sup>1</sup>
+    </div>
+
+    <!-- Affiliations -->
+    <div class="affiliation">1 University of Central Florida</div>
+
+    <!-- Conference -->
+    <div class="conference">WACV 2026</div>
+
+    <!-- Buttons -->
+    <div class="button-row">
+        <a class="button" href="#" target="_blank">📄 Paper</a>
+        <a class="button" href="#" target="_blank">📝 arXiv</a>
+        <a class="button" href="https://github.com/Reeshoon/RobustGait" target="_blank">💻 Code</a>
+        <a class="button" href="#" target="_blank">📑 Slides</a>
+        <a class="button" href="#" target="_blank">🖼️ Poster</a>
+    </div>
+
+    <!-- Main Figure (replace with your overview image) -->
+    <img src="images/overview.png" class="hero-img" alt="Overview Figure">
+
+    <!-- Abstract -->
+    <h2>Abstract</h2>
+    <p>
+        Appearance-based gait recognition has shown impressive performance on controlled datasets. 
+        However, robustness against real-world corruptions and silhouette errors remains significantly 
+        underexplored. We introduce <b>RobustGait</b>, a comprehensive robustness benchmark evaluating 
+        six popular gait recognition architectures under 15 corruption types across five severity levels. 
+        Additionally, we analyze the impact of human-parsing and segmentation quality on downstream 
+        gait recognition. Our results reveal that models are highly susceptible to digital and temporal 
+        corruptions, with performance drops up to 65% under severe noise.
+        <br><br>
+        <b>Code and project page:</b> https://github.com/Reeshoon/RobustGait
+    </p>
+
+    <!-- Method -->
+    <h2>Method Overview</h2>
+    <img src="images/method.png" class="hero-img" alt="Method">
+
+    <p>
+        RobustGait consists of (1) high-quality silhouette parsing, (2) controlled corruption simulation,
+        and (3) evaluation of state-of-the-art gait recognition models across multiple datasets.
+    </p>
+
+    <!-- Results Section -->
+    <h2>Sample Results</h2>
+    <img src="images/results.png" class="hero-img" alt="Results">
+
+    <p>
+        Rank-1 accuracy decreases consistently as noise severity increases across CASIA-B, CCPG, and 
+        SUSTech1K. Silhouette IoU strongly correlates with downstream recognition performance.
+    </p>
+
+    <!-- Citation -->
+    <h2>Citation</h2>
+    <p>
+        If you find this project helpful, please cite:
+    </p>
+
+<pre style="background:#eee; padding:20px; text-align:left; max-width:800px; margin:0 auto; border-radius:8px;">
+@inproceedings{sayera2026robustgait,
+  title={RobustGait: Robustness Analysis for Appearance-Based Gait Recognition},
+  author={Sayera, Reeshoon and Kumar, A and Mitra, S and Kamtam, P},
+  booktitle={WACV},
+  year={2026}
+}
+</pre>
+
+    <div class="footer">
+        © 2025 RobustGait Authors — MIT License
+    </div>
+
+</div>
+
+</body>
+</html>
