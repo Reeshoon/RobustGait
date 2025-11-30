@@ -1,0 +1,6722 @@
+{
+    "0001-00-nm-000": [
+        "freeze",
+        "sev5"
+    ],
+    "0001-00-nm-000-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0001-00-nm-045": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0001-00-nm-090": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0001-00-nm-090-near": [
+        "rain",
+        "sev1"
+    ],
+    "0001-00-nm-135": [
+        "rain",
+        "sev3"
+    ],
+    "0001-00-nm-180": [
+        "rain",
+        "sev1"
+    ],
+    "0001-00-nm-180-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0001-00-nm-225": [
+        "rain",
+        "sev5"
+    ],
+    "0001-00-nm-270": [
+        "occlusion",
+        "sev5"
+    ],
+    "0001-00-nm-270-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0001-00-nm-315": [
+        "freeze",
+        "sev3"
+    ],
+    "0003-00-nm-000": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0003-00-nm-000-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0003-00-nm-045": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0003-00-nm-090": [
+        "occlusion",
+        "sev5"
+    ],
+    "0003-00-nm-090-near": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0003-00-nm-135": [
+        "rain",
+        "sev5"
+    ],
+    "0003-00-nm-180": [
+        "freeze",
+        "sev5"
+    ],
+    "0003-00-nm-180-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0003-00-nm-225": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0003-00-nm-270": [
+        "rain",
+        "sev3"
+    ],
+    "0003-00-nm-270-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0003-00-nm-315": [
+        "freeze",
+        "sev5"
+    ],
+    "0004-00-nm-000": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0004-00-nm-000-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0004-00-nm-045": [
+        "occlusion",
+        "sev1"
+    ],
+    "0004-00-nm-090": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0004-00-nm-090-near": [
+        "rain",
+        "sev3"
+    ],
+    "0004-00-nm-135": [
+        "occlusion",
+        "sev1"
+    ],
+    "0004-00-nm-180": [
+        "freeze",
+        "sev5"
+    ],
+    "0004-00-nm-180-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0004-00-nm-225": [
+        "rain",
+        "sev1"
+    ],
+    "0004-00-nm-270": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0004-00-nm-270-far": [
+        "rain",
+        "sev1"
+    ],
+    "0004-00-nm-315": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0006-00-nm-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0006-00-nm-000-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0006-00-nm-045": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0006-00-nm-090": [
+        "freeze",
+        "sev1"
+    ],
+    "0006-00-nm-090-near": [
+        "freeze",
+        "sev1"
+    ],
+    "0006-00-nm-135": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0006-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0006-00-nm-180-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0006-00-nm-225": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0006-00-nm-270": [
+        "rain",
+        "sev1"
+    ],
+    "0006-00-nm-270-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0006-00-nm-315": [
+        "occlusion",
+        "sev5"
+    ],
+    "0007-00-nm-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0007-00-nm-000-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0007-00-nm-045": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0007-00-nm-090": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0007-00-nm-090-near": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0007-00-nm-135": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0007-00-nm-180": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0007-00-nm-180-far": [
+        "rain",
+        "sev3"
+    ],
+    "0007-00-nm-225": [
+        "occlusion",
+        "sev5"
+    ],
+    "0007-00-nm-270": [
+        "occlusion",
+        "sev5"
+    ],
+    "0007-00-nm-270-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0007-00-nm-315": [
+        "fog",
+        "sev1"
+    ],
+    "0008-00-nm-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0008-00-nm-000-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0008-00-nm-045": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0008-00-nm-090": [
+        "freeze",
+        "sev3"
+    ],
+    "0008-00-nm-090-near": [
+        "freeze",
+        "sev5"
+    ],
+    "0008-00-nm-135": [
+        "fog",
+        "sev1"
+    ],
+    "0008-00-nm-180": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0008-00-nm-180-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0008-00-nm-225": [
+        "rain",
+        "sev1"
+    ],
+    "0008-00-nm-270": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0008-00-nm-270-far": [
+        "freeze",
+        "sev3"
+    ],
+    "0008-00-nm-315": [
+        "occlusion",
+        "sev5"
+    ],
+    "0009-00-nm-000": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0009-00-nm-000-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0009-00-nm-045": [
+        "freeze",
+        "sev1"
+    ],
+    "0009-00-nm-090": [
+        "occlusion",
+        "sev5"
+    ],
+    "0009-00-nm-090-near": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0009-00-nm-135": [
+        "freeze",
+        "sev3"
+    ],
+    "0009-00-nm-180": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0009-00-nm-180-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0009-00-nm-225": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0009-00-nm-270": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0009-00-nm-270-far": [
+        "fog",
+        "sev1"
+    ],
+    "0009-00-nm-315": [
+        "occlusion",
+        "sev5"
+    ],
+    "0010-00-nm-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0010-00-nm-000-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0010-00-nm-045": [
+        "rain",
+        "sev3"
+    ],
+    "0010-00-nm-090": [
+        "fog",
+        "sev1"
+    ],
+    "0010-00-nm-090-near": [
+        "freeze",
+        "sev5"
+    ],
+    "0010-00-nm-135": [
+        "rain",
+        "sev5"
+    ],
+    "0010-00-nm-180": [
+        "freeze",
+        "sev3"
+    ],
+    "0010-00-nm-180-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0010-00-nm-225": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0010-00-nm-270": [
+        "fog",
+        "sev1"
+    ],
+    "0010-00-nm-270-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0010-00-nm-315": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0011-00-nm-000": [
+        "freeze",
+        "sev1"
+    ],
+    "0011-00-nm-000-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0011-00-nm-045": [
+        "rain",
+        "sev1"
+    ],
+    "0011-00-nm-090": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0011-00-nm-090-near": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0011-00-nm-135": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0011-00-nm-180": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0011-00-nm-180-far": [
+        "rain",
+        "sev1"
+    ],
+    "0011-00-nm-225": [
+        "freeze",
+        "sev5"
+    ],
+    "0011-00-nm-270": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0011-00-nm-270-far": [
+        "rain",
+        "sev1"
+    ],
+    "0011-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0012-00-nm-000": [
+        "rain",
+        "sev5"
+    ],
+    "0012-00-nm-000-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0012-00-nm-045": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0012-00-nm-090": [
+        "rain",
+        "sev3"
+    ],
+    "0012-00-nm-090-near": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0012-00-nm-135": [
+        "fog",
+        "sev1"
+    ],
+    "0012-00-nm-180": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0012-00-nm-180-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0012-00-nm-225": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0012-00-nm-270": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0012-00-nm-270-far": [
+        "rain",
+        "sev1"
+    ],
+    "0012-00-nm-315": [
+        "freeze",
+        "sev3"
+    ],
+    "0013-00-nm-000": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0013-00-nm-000-far": [
+        "rain",
+        "sev5"
+    ],
+    "0013-00-nm-045": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0013-00-nm-090": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0013-00-nm-090-near": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0013-00-nm-135": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0013-00-nm-180": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0013-00-nm-180-far": [
+        "fog",
+        "sev1"
+    ],
+    "0013-00-nm-225": [
+        "freeze",
+        "sev3"
+    ],
+    "0013-00-nm-270": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0013-00-nm-270-far": [
+        "rain",
+        "sev5"
+    ],
+    "0013-00-nm-315": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0014-00-nm-000": [
+        "fog",
+        "sev1"
+    ],
+    "0014-00-nm-000-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0014-00-nm-045": [
+        "occlusion",
+        "sev5"
+    ],
+    "0014-00-nm-090": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0014-00-nm-090-near": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0014-00-nm-135": [
+        "freeze",
+        "sev1"
+    ],
+    "0014-00-nm-180": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0014-00-nm-180-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0014-00-nm-225": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0014-00-nm-270": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0014-00-nm-270-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0014-00-nm-315": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0015-00-nm-000": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0015-00-nm-000-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0015-00-nm-045": [
+        "occlusion",
+        "sev1"
+    ],
+    "0015-00-nm-090": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0015-00-nm-090-near": [
+        "rain",
+        "sev3"
+    ],
+    "0015-00-nm-135": [
+        "rain",
+        "sev5"
+    ],
+    "0015-00-nm-180": [
+        "freeze",
+        "sev3"
+    ],
+    "0015-00-nm-180-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0015-00-nm-225": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0015-00-nm-270": [
+        "freeze",
+        "sev1"
+    ],
+    "0015-00-nm-270-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0015-00-nm-315": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0016-00-nm-000": [
+        "freeze",
+        "sev3"
+    ],
+    "0016-00-nm-000-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0016-00-nm-045": [
+        "occlusion",
+        "sev5"
+    ],
+    "0016-00-nm-090": [
+        "occlusion",
+        "sev5"
+    ],
+    "0016-00-nm-090-near": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0016-00-nm-135": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0016-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0016-00-nm-180-far": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0016-00-nm-225": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0016-00-nm-270": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0016-00-nm-270-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0016-00-nm-315": [
+        "fog",
+        "sev1"
+    ],
+    "0017-00-nm-000": [
+        "fog",
+        "sev1"
+    ],
+    "0017-00-nm-000-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0017-00-nm-045": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0017-00-nm-090": [
+        "rain",
+        "sev1"
+    ],
+    "0017-00-nm-090-near": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0017-00-nm-135": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0017-00-nm-180": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0017-00-nm-180-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0017-00-nm-225": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0017-00-nm-270": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0017-00-nm-270-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0017-00-nm-315": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0019-00-nm-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0019-00-nm-000-far": [
+        "rain",
+        "sev5"
+    ],
+    "0019-00-nm-045": [
+        "rain",
+        "sev1"
+    ],
+    "0019-00-nm-090": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0019-00-nm-090-near": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0019-00-nm-135": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0019-00-nm-180": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0019-00-nm-180-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0019-00-nm-225": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0019-00-nm-270": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0019-00-nm-270-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0019-00-nm-315": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0020-00-nm-000": [
+        "freeze",
+        "sev5"
+    ],
+    "0020-00-nm-000-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0020-00-nm-045": [
+        "rain",
+        "sev3"
+    ],
+    "0020-00-nm-090": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0020-00-nm-090-near": [
+        "occlusion",
+        "sev5"
+    ],
+    "0020-00-nm-135": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0020-00-nm-180": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0020-00-nm-180-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0020-00-nm-225": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0020-00-nm-270": [
+        "freeze",
+        "sev5"
+    ],
+    "0020-00-nm-270-far": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0020-00-nm-315": [
+        "freeze",
+        "sev5"
+    ],
+    "0022-00-nm-000": [
+        "freeze",
+        "sev3"
+    ],
+    "0022-00-nm-000-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0022-00-nm-045": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0022-00-nm-090": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0022-00-nm-090-near": [
+        "fog",
+        "sev1"
+    ],
+    "0022-00-nm-135": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0022-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0022-00-nm-180-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0022-00-nm-225": [
+        "fog",
+        "sev1"
+    ],
+    "0022-00-nm-270": [
+        "freeze",
+        "sev3"
+    ],
+    "0022-00-nm-270-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0022-00-nm-315": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0023-00-nm-000": [
+        "freeze",
+        "sev3"
+    ],
+    "0023-00-nm-000-far": [
+        "rain",
+        "sev5"
+    ],
+    "0023-00-nm-045": [
+        "occlusion",
+        "sev1"
+    ],
+    "0023-00-nm-090": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0023-00-nm-090-near": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0023-00-nm-135": [
+        "freeze",
+        "sev3"
+    ],
+    "0023-00-nm-180": [
+        "rain",
+        "sev5"
+    ],
+    "0023-00-nm-180-far": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0023-00-nm-225": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0023-00-nm-270": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0023-00-nm-270-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0023-00-nm-315": [
+        "freeze",
+        "sev5"
+    ],
+    "0024-00-nm-000": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0024-00-nm-000-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0024-00-nm-045": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0024-00-nm-090": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0024-00-nm-090-near": [
+        "rain",
+        "sev5"
+    ],
+    "0024-00-nm-135": [
+        "freeze",
+        "sev3"
+    ],
+    "0024-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0024-00-nm-180-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0024-00-nm-225": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0024-00-nm-270": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0024-00-nm-270-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0024-00-nm-315": [
+        "occlusion",
+        "sev1"
+    ],
+    "0025-00-nm-000": [
+        "occlusion",
+        "sev1"
+    ],
+    "0025-00-nm-000-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0025-00-nm-045": [
+        "freeze",
+        "sev1"
+    ],
+    "0025-00-nm-090": [
+        "rain",
+        "sev1"
+    ],
+    "0025-00-nm-090-near": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0025-00-nm-135": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0025-00-nm-180": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0025-00-nm-180-far": [
+        "fog",
+        "sev1"
+    ],
+    "0025-00-nm-225": [
+        "freeze",
+        "sev3"
+    ],
+    "0025-00-nm-270": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0025-00-nm-270-far": [
+        "fog",
+        "sev1"
+    ],
+    "0025-00-nm-315": [
+        "freeze",
+        "sev5"
+    ],
+    "0027-00-nm-000": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0027-00-nm-000-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0027-00-nm-045": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0027-00-nm-090": [
+        "rain",
+        "sev3"
+    ],
+    "0027-00-nm-090-near": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0027-00-nm-135": [
+        "freeze",
+        "sev1"
+    ],
+    "0027-00-nm-180": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0027-00-nm-180-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0027-00-nm-225": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0027-00-nm-270": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0027-00-nm-270-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0027-00-nm-315": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0028-00-nm-000": [
+        "rain",
+        "sev1"
+    ],
+    "0028-00-nm-000-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0028-00-nm-045": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0028-00-nm-090": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0028-00-nm-090-near": [
+        "freeze",
+        "sev5"
+    ],
+    "0028-00-nm-135": [
+        "fog",
+        "sev1"
+    ],
+    "0028-00-nm-180": [
+        "freeze",
+        "sev1"
+    ],
+    "0028-00-nm-180-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0028-00-nm-225": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0028-00-nm-270": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0028-00-nm-270-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0028-00-nm-315": [
+        "occlusion",
+        "sev1"
+    ],
+    "0029-00-nm-000": [
+        "freeze",
+        "sev1"
+    ],
+    "0029-00-nm-000-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0029-00-nm-045": [
+        "freeze",
+        "sev3"
+    ],
+    "0029-00-nm-090": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0029-00-nm-090-near": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0029-00-nm-135": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0029-00-nm-180": [
+        "rain",
+        "sev3"
+    ],
+    "0029-00-nm-180-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0029-00-nm-225": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0029-00-nm-270": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0029-00-nm-270-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0029-00-nm-315": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0030-00-nm-000": [
+        "freeze",
+        "sev1"
+    ],
+    "0030-00-nm-000-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0030-00-nm-045": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0030-00-nm-090": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0030-00-nm-090-near": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0030-00-nm-135": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0030-00-nm-180": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0030-00-nm-180-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0030-00-nm-225": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0030-00-nm-270": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0030-00-nm-270-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0030-00-nm-315": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0031-00-nm-000": [
+        "rain",
+        "sev5"
+    ],
+    "0031-00-nm-000-far": [
+        "rain",
+        "sev5"
+    ],
+    "0031-00-nm-045": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0031-00-nm-090": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0031-00-nm-090-near": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0031-00-nm-135": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0031-00-nm-180": [
+        "occlusion",
+        "sev1"
+    ],
+    "0031-00-nm-180-far": [
+        "fog",
+        "sev1"
+    ],
+    "0031-00-nm-225": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0031-00-nm-270": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0031-00-nm-270-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0031-00-nm-315": [
+        "freeze",
+        "sev5"
+    ],
+    "0032-00-nm-000": [
+        "rain",
+        "sev1"
+    ],
+    "0032-00-nm-000-far": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0032-00-nm-045": [
+        "freeze",
+        "sev1"
+    ],
+    "0032-00-nm-090": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0032-00-nm-090-near": [
+        "freeze",
+        "sev5"
+    ],
+    "0032-00-nm-135": [
+        "rain",
+        "sev1"
+    ],
+    "0032-00-nm-180": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0032-00-nm-180-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0032-00-nm-225": [
+        "rain",
+        "sev3"
+    ],
+    "0032-00-nm-270": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0032-00-nm-270-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0032-00-nm-315": [
+        "occlusion",
+        "sev1"
+    ],
+    "0034-00-nm-000": [
+        "freeze",
+        "sev5"
+    ],
+    "0034-00-nm-000-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0034-00-nm-045": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0034-00-nm-090": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0034-00-nm-090-near": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0034-00-nm-135": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0034-00-nm-180": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0034-00-nm-180-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0034-00-nm-225": [
+        "freeze",
+        "sev3"
+    ],
+    "0034-00-nm-270": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0034-00-nm-270-far": [
+        "rain",
+        "sev5"
+    ],
+    "0034-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0035-00-nm-000": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0035-00-nm-000-far": [
+        "rain",
+        "sev1"
+    ],
+    "0035-00-nm-045": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0035-00-nm-090": [
+        "occlusion",
+        "sev5"
+    ],
+    "0035-00-nm-090-near": [
+        "freeze",
+        "sev3"
+    ],
+    "0035-00-nm-135": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0035-00-nm-180": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0035-00-nm-180-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0035-00-nm-225": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0035-00-nm-270": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0035-00-nm-270-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0035-00-nm-315": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0036-00-nm-000": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0036-00-nm-000-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0036-00-nm-045": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0036-00-nm-090": [
+        "rain",
+        "sev3"
+    ],
+    "0036-00-nm-090-near": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0036-00-nm-135": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0036-00-nm-180": [
+        "freeze",
+        "sev5"
+    ],
+    "0036-00-nm-180-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0036-00-nm-225": [
+        "rain",
+        "sev3"
+    ],
+    "0036-00-nm-270": [
+        "freeze",
+        "sev3"
+    ],
+    "0036-00-nm-270-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0036-00-nm-315": [
+        "freeze",
+        "sev1"
+    ],
+    "0037-00-nm-000": [
+        "freeze",
+        "sev1"
+    ],
+    "0037-00-nm-000-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0037-00-nm-045": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0037-00-nm-090": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0037-00-nm-090-near": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0037-00-nm-135": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0037-00-nm-180": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0037-00-nm-180-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0037-00-nm-225": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0037-00-nm-270": [
+        "freeze",
+        "sev5"
+    ],
+    "0037-00-nm-270-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0037-00-nm-315": [
+        "occlusion",
+        "sev5"
+    ],
+    "0038-00-nm-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0038-00-nm-000-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0038-00-nm-045": [
+        "fog",
+        "sev1"
+    ],
+    "0038-00-nm-090": [
+        "freeze",
+        "sev1"
+    ],
+    "0038-00-nm-090-near": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0038-00-nm-135": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0038-00-nm-180": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0038-00-nm-180-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0038-00-nm-225": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0038-00-nm-270": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0038-00-nm-270-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0038-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0041-00-nm-000": [
+        "occlusion",
+        "sev1"
+    ],
+    "0041-00-nm-000-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0041-00-nm-045": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0041-00-nm-090": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0041-00-nm-090-near": [
+        "fog",
+        "sev1"
+    ],
+    "0041-00-nm-135": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0041-00-nm-180": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0041-00-nm-180-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0041-00-nm-225": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0041-00-nm-270": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0041-00-nm-270-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0041-00-nm-315": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0042-00-nm-000": [
+        "freeze",
+        "sev3"
+    ],
+    "0042-00-nm-000-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0042-00-nm-045": [
+        "freeze",
+        "sev5"
+    ],
+    "0042-00-nm-090": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0042-00-nm-090-near": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0042-00-nm-135": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0042-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0042-00-nm-180-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0042-00-nm-225": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0042-00-nm-270": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0042-00-nm-270-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0042-00-nm-315": [
+        "occlusion",
+        "sev5"
+    ],
+    "0043-00-nm-000": [
+        "freeze",
+        "sev1"
+    ],
+    "0043-00-nm-000-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0043-00-nm-045": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0043-00-nm-090": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0043-00-nm-090-near": [
+        "rain",
+        "sev3"
+    ],
+    "0043-00-nm-135": [
+        "rain",
+        "sev3"
+    ],
+    "0043-00-nm-180": [
+        "freeze",
+        "sev1"
+    ],
+    "0043-00-nm-180-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0043-00-nm-225": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0043-00-nm-270": [
+        "freeze",
+        "sev1"
+    ],
+    "0043-00-nm-270-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0043-00-nm-315": [
+        "rain",
+        "sev3"
+    ],
+    "0045-00-nm-000": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0045-00-nm-000-far": [
+        "rain",
+        "sev1"
+    ],
+    "0045-00-nm-045": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0045-00-nm-090": [
+        "freeze",
+        "sev3"
+    ],
+    "0045-00-nm-090-near": [
+        "rain",
+        "sev5"
+    ],
+    "0045-00-nm-135": [
+        "rain",
+        "sev5"
+    ],
+    "0045-00-nm-180": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0045-00-nm-180-far": [
+        "rain",
+        "sev5"
+    ],
+    "0045-00-nm-225": [
+        "occlusion",
+        "sev5"
+    ],
+    "0045-00-nm-270": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0045-00-nm-270-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0045-00-nm-315": [
+        "rain",
+        "sev5"
+    ],
+    "0048-00-nm-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0048-00-nm-000-far": [
+        "rain",
+        "sev1"
+    ],
+    "0048-00-nm-045": [
+        "freeze",
+        "sev5"
+    ],
+    "0048-00-nm-090": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0048-00-nm-090-near": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0048-00-nm-135": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0048-00-nm-180": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0048-00-nm-180-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0048-00-nm-225": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0048-00-nm-270": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0048-00-nm-270-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0048-00-nm-315": [
+        "rain",
+        "sev3"
+    ],
+    "0049-00-nm-000": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0049-00-nm-000-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0049-00-nm-045": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0049-00-nm-090": [
+        "rain",
+        "sev1"
+    ],
+    "0049-00-nm-090-near": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0049-00-nm-135": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0049-00-nm-180": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0049-00-nm-180-far": [
+        "rain",
+        "sev3"
+    ],
+    "0049-00-nm-225": [
+        "occlusion",
+        "sev1"
+    ],
+    "0049-00-nm-270": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0049-00-nm-270-far": [
+        "rain",
+        "sev3"
+    ],
+    "0049-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0051-00-nm-000": [
+        "freeze",
+        "sev3"
+    ],
+    "0051-00-nm-000-far": [
+        "rain",
+        "sev5"
+    ],
+    "0051-00-nm-045": [
+        "rain",
+        "sev1"
+    ],
+    "0051-00-nm-090": [
+        "rain",
+        "sev1"
+    ],
+    "0051-00-nm-090-near": [
+        "rain",
+        "sev5"
+    ],
+    "0051-00-nm-135": [
+        "rain",
+        "sev1"
+    ],
+    "0051-00-nm-180": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0051-00-nm-180-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0051-00-nm-225": [
+        "rain",
+        "sev3"
+    ],
+    "0051-00-nm-270": [
+        "rain",
+        "sev1"
+    ],
+    "0051-00-nm-270-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0051-00-nm-315": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0053-00-nm-000": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0053-00-nm-000-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0053-00-nm-045": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0053-00-nm-090": [
+        "freeze",
+        "sev3"
+    ],
+    "0053-00-nm-090-near": [
+        "occlusion",
+        "sev1"
+    ],
+    "0053-00-nm-135": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0053-00-nm-180": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0053-00-nm-180-far": [
+        "fog",
+        "sev1"
+    ],
+    "0053-00-nm-225": [
+        "freeze",
+        "sev3"
+    ],
+    "0053-00-nm-270": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0053-00-nm-270-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0053-00-nm-315": [
+        "rain",
+        "sev5"
+    ],
+    "0054-00-nm-000": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0054-00-nm-000-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0054-00-nm-045": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0054-00-nm-090": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0054-00-nm-090-near": [
+        "rain",
+        "sev3"
+    ],
+    "0054-00-nm-135": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0054-00-nm-180": [
+        "freeze",
+        "sev1"
+    ],
+    "0054-00-nm-180-far": [
+        "rain",
+        "sev5"
+    ],
+    "0054-00-nm-225": [
+        "fog",
+        "sev1"
+    ],
+    "0054-00-nm-270": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0054-00-nm-270-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0054-00-nm-315": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0055-00-nm-000": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0055-00-nm-000-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0055-00-nm-045": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0055-00-nm-090": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0055-00-nm-090-near": [
+        "freeze",
+        "sev1"
+    ],
+    "0055-00-nm-135": [
+        "fog",
+        "sev1"
+    ],
+    "0055-00-nm-180": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0055-00-nm-180-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0055-00-nm-225": [
+        "rain",
+        "sev3"
+    ],
+    "0055-00-nm-270": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0055-00-nm-270-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0055-00-nm-315": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0056-00-nm-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0056-00-nm-000-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0056-00-nm-045": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0056-00-nm-090": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0056-00-nm-090-near": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0056-00-nm-135": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0056-00-nm-180": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0056-00-nm-180-far": [
+        "rain",
+        "sev1"
+    ],
+    "0056-00-nm-225": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0056-00-nm-270": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0056-00-nm-270-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0056-00-nm-315": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0057-00-nm-000": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0057-00-nm-000-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0057-00-nm-045": [
+        "occlusion",
+        "sev1"
+    ],
+    "0057-00-nm-090": [
+        "freeze",
+        "sev3"
+    ],
+    "0057-00-nm-090-near": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0057-00-nm-135": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0057-00-nm-180": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0057-00-nm-180-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0057-00-nm-225": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0057-00-nm-270": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0057-00-nm-270-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0057-00-nm-315": [
+        "rain",
+        "sev5"
+    ],
+    "0058-00-nm-000": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0058-00-nm-000-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0058-00-nm-045": [
+        "rain",
+        "sev5"
+    ],
+    "0058-00-nm-090": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0058-00-nm-090-near": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0058-00-nm-135": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0058-00-nm-180": [
+        "freeze",
+        "sev1"
+    ],
+    "0058-00-nm-180-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0058-00-nm-225": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0058-00-nm-270": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0058-00-nm-270-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0058-00-nm-315": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0059-00-nm-000": [
+        "rain",
+        "sev3"
+    ],
+    "0059-00-nm-000-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0059-00-nm-045": [
+        "freeze",
+        "sev5"
+    ],
+    "0059-00-nm-090": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0059-00-nm-090-near": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0059-00-nm-135": [
+        "occlusion",
+        "sev5"
+    ],
+    "0059-00-nm-180": [
+        "freeze",
+        "sev1"
+    ],
+    "0059-00-nm-180-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0059-00-nm-225": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0059-00-nm-270": [
+        "rain",
+        "sev5"
+    ],
+    "0059-00-nm-270-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0059-00-nm-315": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0061-00-nm-000": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0061-00-nm-000-far": [
+        "rain",
+        "sev5"
+    ],
+    "0061-00-nm-045": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0061-00-nm-090": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0061-00-nm-090-near": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0061-00-nm-135": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0061-00-nm-180": [
+        "freeze",
+        "sev3"
+    ],
+    "0061-00-nm-180-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0061-00-nm-225": [
+        "freeze",
+        "sev3"
+    ],
+    "0061-00-nm-270": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0061-00-nm-270-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0061-00-nm-315": [
+        "occlusion",
+        "sev1"
+    ],
+    "0063-00-nm-000": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0063-00-nm-000-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0063-00-nm-045": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0063-00-nm-090": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0063-00-nm-090-near": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0063-00-nm-135": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0063-00-nm-180": [
+        "fog",
+        "sev1"
+    ],
+    "0063-00-nm-180-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0063-00-nm-225": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0063-00-nm-270": [
+        "freeze",
+        "sev3"
+    ],
+    "0063-00-nm-270-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0063-00-nm-315": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0064-00-nm-000": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0064-00-nm-000-far": [
+        "rain",
+        "sev5"
+    ],
+    "0064-00-nm-045": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0064-00-nm-090": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0064-00-nm-090-near": [
+        "occlusion",
+        "sev1"
+    ],
+    "0064-00-nm-135": [
+        "freeze",
+        "sev5"
+    ],
+    "0064-00-nm-180": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0064-00-nm-180-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0064-00-nm-225": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0064-00-nm-270": [
+        "rain",
+        "sev5"
+    ],
+    "0064-00-nm-270-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0064-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0065-00-nm-000": [
+        "rain",
+        "sev1"
+    ],
+    "0065-00-nm-000-far": [
+        "rain",
+        "sev5"
+    ],
+    "0065-00-nm-045": [
+        "freeze",
+        "sev1"
+    ],
+    "0065-00-nm-090": [
+        "rain",
+        "sev3"
+    ],
+    "0065-00-nm-090-near": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0065-00-nm-135": [
+        "freeze",
+        "sev3"
+    ],
+    "0065-00-nm-180": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0065-00-nm-180-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0065-00-nm-225": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0065-00-nm-270": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0065-00-nm-270-far": [
+        "freeze",
+        "sev3"
+    ],
+    "0065-00-nm-315": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0067-00-nm-000": [
+        "occlusion",
+        "sev5"
+    ],
+    "0067-00-nm-000-far": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0067-00-nm-045": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0067-00-nm-090": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0067-00-nm-090-near": [
+        "rain",
+        "sev1"
+    ],
+    "0067-00-nm-135": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0067-00-nm-180": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0067-00-nm-180-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0067-00-nm-225": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0067-00-nm-270": [
+        "rain",
+        "sev1"
+    ],
+    "0067-00-nm-270-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0067-00-nm-315": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0068-00-nm-000": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0068-00-nm-000-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0068-00-nm-045": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0068-00-nm-090": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0068-00-nm-090-near": [
+        "freeze",
+        "sev5"
+    ],
+    "0068-00-nm-135": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0068-00-nm-180": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0068-00-nm-180-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0068-00-nm-225": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0068-00-nm-270": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0068-00-nm-270-far": [
+        "rain",
+        "sev5"
+    ],
+    "0068-00-nm-315": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0069-00-nm-000": [
+        "rain",
+        "sev5"
+    ],
+    "0069-00-nm-000-far": [
+        "rain",
+        "sev3"
+    ],
+    "0069-00-nm-045": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0069-00-nm-090": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0069-00-nm-090-near": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0069-00-nm-135": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0069-00-nm-180": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0069-00-nm-180-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0069-00-nm-225": [
+        "rain",
+        "sev1"
+    ],
+    "0069-00-nm-270": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0069-00-nm-270-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0069-00-nm-315": [
+        "rain",
+        "sev1"
+    ],
+    "0070-00-nm-000": [
+        "rain",
+        "sev3"
+    ],
+    "0070-00-nm-000-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0070-00-nm-045": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0070-00-nm-090": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0070-00-nm-090-near": [
+        "fog",
+        "sev1"
+    ],
+    "0070-00-nm-135": [
+        "rain",
+        "sev1"
+    ],
+    "0070-00-nm-180": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0070-00-nm-180-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0070-00-nm-225": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0070-00-nm-270": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0070-00-nm-270-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0070-00-nm-315": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0071-00-nm-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0071-00-nm-000-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0071-00-nm-045": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0071-00-nm-090": [
+        "occlusion",
+        "sev5"
+    ],
+    "0071-00-nm-090-near": [
+        "fog",
+        "sev1"
+    ],
+    "0071-00-nm-135": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0071-00-nm-180": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0071-00-nm-180-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0071-00-nm-225": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0071-00-nm-270": [
+        "freeze",
+        "sev1"
+    ],
+    "0071-00-nm-270-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0071-00-nm-315": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0072-00-nm-000": [
+        "occlusion",
+        "sev1"
+    ],
+    "0072-00-nm-000-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0072-00-nm-045": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0072-00-nm-090": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0072-00-nm-090-near": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0072-00-nm-135": [
+        "rain",
+        "sev5"
+    ],
+    "0072-00-nm-180": [
+        "freeze",
+        "sev1"
+    ],
+    "0072-00-nm-180-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0072-00-nm-225": [
+        "rain",
+        "sev1"
+    ],
+    "0072-00-nm-270": [
+        "rain",
+        "sev5"
+    ],
+    "0072-00-nm-270-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0072-00-nm-315": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0074-00-nm-000": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0074-00-nm-000-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0074-00-nm-045": [
+        "rain",
+        "sev5"
+    ],
+    "0074-00-nm-090": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0074-00-nm-090-near": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0074-00-nm-135": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0074-00-nm-180": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0074-00-nm-180-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0074-00-nm-225": [
+        "rain",
+        "sev1"
+    ],
+    "0074-00-nm-270": [
+        "freeze",
+        "sev5"
+    ],
+    "0074-00-nm-270-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0074-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0076-00-nm-000": [
+        "freeze",
+        "sev5"
+    ],
+    "0076-00-nm-000-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0076-00-nm-045": [
+        "freeze",
+        "sev1"
+    ],
+    "0076-00-nm-090": [
+        "fog",
+        "sev1"
+    ],
+    "0076-00-nm-090-near": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0076-00-nm-135": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0076-00-nm-180": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0076-00-nm-180-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0076-00-nm-225": [
+        "rain",
+        "sev3"
+    ],
+    "0076-00-nm-270": [
+        "fog",
+        "sev1"
+    ],
+    "0076-00-nm-270-far": [
+        "rain",
+        "sev5"
+    ],
+    "0076-00-nm-315": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0077-00-nm-000": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0077-00-nm-000-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0077-00-nm-045": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0077-00-nm-090": [
+        "rain",
+        "sev5"
+    ],
+    "0077-00-nm-090-near": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0077-00-nm-135": [
+        "rain",
+        "sev1"
+    ],
+    "0077-00-nm-180": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0077-00-nm-180-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0077-00-nm-225": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0077-00-nm-270": [
+        "freeze",
+        "sev3"
+    ],
+    "0077-00-nm-270-far": [
+        "rain",
+        "sev1"
+    ],
+    "0077-00-nm-315": [
+        "freeze",
+        "sev3"
+    ],
+    "0079-00-nm-000": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0079-00-nm-000-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0079-00-nm-045": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0079-00-nm-090": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0079-00-nm-090-near": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0079-00-nm-135": [
+        "fog",
+        "sev1"
+    ],
+    "0079-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0079-00-nm-180-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0079-00-nm-225": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0079-00-nm-270": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0079-00-nm-270-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0079-00-nm-315": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0081-00-nm-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0081-00-nm-000-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0081-00-nm-045": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0081-00-nm-090": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0081-00-nm-090-near": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0081-00-nm-135": [
+        "fog",
+        "sev1"
+    ],
+    "0081-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0081-00-nm-180-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0081-00-nm-225": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0081-00-nm-270": [
+        "freeze",
+        "sev3"
+    ],
+    "0081-00-nm-270-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0081-00-nm-315": [
+        "rain",
+        "sev1"
+    ],
+    "0082-00-nm-000": [
+        "occlusion",
+        "sev5"
+    ],
+    "0082-00-nm-000-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0082-00-nm-045": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0082-00-nm-090": [
+        "occlusion",
+        "sev1"
+    ],
+    "0082-00-nm-090-near": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0082-00-nm-135": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0082-00-nm-180": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0082-00-nm-180-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0082-00-nm-225": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0082-00-nm-270": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0082-00-nm-270-far": [
+        "freeze",
+        "sev3"
+    ],
+    "0082-00-nm-315": [
+        "freeze",
+        "sev3"
+    ],
+    "0083-00-nm-000": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0083-00-nm-000-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0083-00-nm-045": [
+        "freeze",
+        "sev3"
+    ],
+    "0083-00-nm-090": [
+        "freeze",
+        "sev3"
+    ],
+    "0083-00-nm-090-near": [
+        "freeze",
+        "sev1"
+    ],
+    "0083-00-nm-135": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0083-00-nm-180": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0083-00-nm-180-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0083-00-nm-225": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0083-00-nm-270": [
+        "fog",
+        "sev1"
+    ],
+    "0083-00-nm-270-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0083-00-nm-315": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0084-00-nm-000": [
+        "fog",
+        "sev1"
+    ],
+    "0084-00-nm-000-far": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0084-00-nm-045": [
+        "occlusion",
+        "sev1"
+    ],
+    "0084-00-nm-090": [
+        "occlusion",
+        "sev1"
+    ],
+    "0084-00-nm-090-near": [
+        "rain",
+        "sev5"
+    ],
+    "0084-00-nm-135": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0084-00-nm-180": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0084-00-nm-180-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0084-00-nm-225": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0084-00-nm-270": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0084-00-nm-270-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0084-00-nm-315": [
+        "freeze",
+        "sev3"
+    ],
+    "0085-00-nm-000": [
+        "freeze",
+        "sev1"
+    ],
+    "0085-00-nm-000-far": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0085-00-nm-045": [
+        "freeze",
+        "sev1"
+    ],
+    "0085-00-nm-090": [
+        "freeze",
+        "sev1"
+    ],
+    "0085-00-nm-090-near": [
+        "rain",
+        "sev3"
+    ],
+    "0085-00-nm-135": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0085-00-nm-180": [
+        "freeze",
+        "sev5"
+    ],
+    "0085-00-nm-180-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0085-00-nm-225": [
+        "occlusion",
+        "sev5"
+    ],
+    "0085-00-nm-270": [
+        "freeze",
+        "sev1"
+    ],
+    "0085-00-nm-270-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0085-00-nm-315": [
+        "fog",
+        "sev1"
+    ],
+    "0086-00-nm-000": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0086-00-nm-000-far": [
+        "rain",
+        "sev1"
+    ],
+    "0086-00-nm-045": [
+        "rain",
+        "sev1"
+    ],
+    "0086-00-nm-090": [
+        "rain",
+        "sev1"
+    ],
+    "0086-00-nm-090-near": [
+        "freeze",
+        "sev1"
+    ],
+    "0086-00-nm-135": [
+        "rain",
+        "sev1"
+    ],
+    "0086-00-nm-180": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0086-00-nm-180-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0086-00-nm-225": [
+        "rain",
+        "sev3"
+    ],
+    "0086-00-nm-270": [
+        "occlusion",
+        "sev5"
+    ],
+    "0086-00-nm-270-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0086-00-nm-315": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0087-00-nm-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0087-00-nm-000-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0087-00-nm-045": [
+        "freeze",
+        "sev3"
+    ],
+    "0087-00-nm-090": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0087-00-nm-090-near": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0087-00-nm-135": [
+        "fog",
+        "sev1"
+    ],
+    "0087-00-nm-180": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0087-00-nm-180-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0087-00-nm-225": [
+        "freeze",
+        "sev5"
+    ],
+    "0087-00-nm-270": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0087-00-nm-270-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0087-00-nm-315": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0088-00-nm-000": [
+        "occlusion",
+        "sev1"
+    ],
+    "0088-00-nm-000-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0088-00-nm-045": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0088-00-nm-090": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0088-00-nm-090-near": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0088-00-nm-135": [
+        "freeze",
+        "sev5"
+    ],
+    "0088-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0088-00-nm-180-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0088-00-nm-225": [
+        "freeze",
+        "sev5"
+    ],
+    "0088-00-nm-270": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0088-00-nm-270-far": [
+        "fog",
+        "sev1"
+    ],
+    "0088-00-nm-315": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0089-00-nm-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0089-00-nm-000-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0089-00-nm-045": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0089-00-nm-090": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0089-00-nm-090-near": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0089-00-nm-135": [
+        "occlusion",
+        "sev1"
+    ],
+    "0089-00-nm-180": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0089-00-nm-180-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0089-00-nm-225": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0089-00-nm-270": [
+        "rain",
+        "sev3"
+    ],
+    "0089-00-nm-270-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0089-00-nm-315": [
+        "rain",
+        "sev3"
+    ],
+    "0090-00-nm-000": [
+        "occlusion",
+        "sev1"
+    ],
+    "0090-00-nm-000-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0090-00-nm-045": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0090-00-nm-090": [
+        "freeze",
+        "sev5"
+    ],
+    "0090-00-nm-090-near": [
+        "rain",
+        "sev1"
+    ],
+    "0090-00-nm-135": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0090-00-nm-180": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0090-00-nm-180-far": [
+        "fog",
+        "sev1"
+    ],
+    "0090-00-nm-225": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0090-00-nm-270": [
+        "rain",
+        "sev3"
+    ],
+    "0090-00-nm-270-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0090-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0091-00-nm-000": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0091-00-nm-000-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0091-00-nm-045": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0091-00-nm-090": [
+        "occlusion",
+        "sev5"
+    ],
+    "0091-00-nm-090-near": [
+        "rain",
+        "sev1"
+    ],
+    "0091-00-nm-135": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0091-00-nm-180": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0091-00-nm-180-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0091-00-nm-225": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0091-00-nm-270": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0091-00-nm-270-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0091-00-nm-315": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0094-00-nm-000": [
+        "freeze",
+        "sev1"
+    ],
+    "0094-00-nm-000-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0094-00-nm-045": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0094-00-nm-090": [
+        "rain",
+        "sev3"
+    ],
+    "0094-00-nm-090-near": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0094-00-nm-135": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0094-00-nm-180": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0094-00-nm-180-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0094-00-nm-225": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0094-00-nm-270": [
+        "freeze",
+        "sev3"
+    ],
+    "0094-00-nm-270-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0094-00-nm-315": [
+        "rain",
+        "sev3"
+    ],
+    "0095-00-nm-000": [
+        "rain",
+        "sev1"
+    ],
+    "0095-00-nm-000-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0095-00-nm-045": [
+        "freeze",
+        "sev5"
+    ],
+    "0095-00-nm-090": [
+        "rain",
+        "sev1"
+    ],
+    "0095-00-nm-090-near": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0095-00-nm-135": [
+        "occlusion",
+        "sev1"
+    ],
+    "0095-00-nm-180": [
+        "freeze",
+        "sev3"
+    ],
+    "0095-00-nm-180-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0095-00-nm-225": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0095-00-nm-270": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0095-00-nm-270-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0095-00-nm-315": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0098-00-nm-000": [
+        "occlusion",
+        "sev5"
+    ],
+    "0098-00-nm-000-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0098-00-nm-045": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0098-00-nm-090": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0098-00-nm-090-near": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0098-00-nm-135": [
+        "freeze",
+        "sev3"
+    ],
+    "0098-00-nm-180": [
+        "freeze",
+        "sev5"
+    ],
+    "0098-00-nm-180-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0098-00-nm-225": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0098-00-nm-270": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0098-00-nm-270-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0098-00-nm-315": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0099-00-nm-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0099-00-nm-000-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0099-00-nm-045": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0099-00-nm-090": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0099-00-nm-090-near": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0099-00-nm-135": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0099-00-nm-180": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0099-00-nm-180-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0099-00-nm-225": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0099-00-nm-270": [
+        "occlusion",
+        "sev5"
+    ],
+    "0099-00-nm-270-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0099-00-nm-315": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0100-00-nm-000": [
+        "occlusion",
+        "sev1"
+    ],
+    "0100-00-nm-000-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0100-00-nm-045": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0100-00-nm-090": [
+        "freeze",
+        "sev3"
+    ],
+    "0100-00-nm-090-near": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0100-00-nm-135": [
+        "rain",
+        "sev5"
+    ],
+    "0100-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0100-00-nm-180-far": [
+        "rain",
+        "sev1"
+    ],
+    "0100-00-nm-225": [
+        "freeze",
+        "sev1"
+    ],
+    "0100-00-nm-270": [
+        "freeze",
+        "sev3"
+    ],
+    "0100-00-nm-270-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0100-00-nm-315": [
+        "rain",
+        "sev1"
+    ],
+    "0101-00-nm-000": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0101-00-nm-000-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0101-00-nm-045": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0101-00-nm-090": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0101-00-nm-090-near": [
+        "rain",
+        "sev5"
+    ],
+    "0101-00-nm-135": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0101-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0101-00-nm-180-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0101-00-nm-225": [
+        "occlusion",
+        "sev1"
+    ],
+    "0101-00-nm-270": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0101-00-nm-270-far": [
+        "freeze",
+        "sev3"
+    ],
+    "0101-00-nm-315": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0104-00-nm-000": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0104-00-nm-000-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0104-00-nm-045": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0104-00-nm-090": [
+        "occlusion",
+        "sev1"
+    ],
+    "0104-00-nm-090-near": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0104-00-nm-135": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0104-00-nm-180": [
+        "freeze",
+        "sev5"
+    ],
+    "0104-00-nm-180-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0104-00-nm-225": [
+        "rain",
+        "sev1"
+    ],
+    "0104-00-nm-270": [
+        "occlusion",
+        "sev1"
+    ],
+    "0104-00-nm-270-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0104-00-nm-315": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0105-00-nm-000": [
+        "rain",
+        "sev5"
+    ],
+    "0105-00-nm-000-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0105-00-nm-045": [
+        "rain",
+        "sev5"
+    ],
+    "0105-00-nm-090": [
+        "freeze",
+        "sev1"
+    ],
+    "0105-00-nm-090-near": [
+        "rain",
+        "sev3"
+    ],
+    "0105-00-nm-135": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0105-00-nm-180": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0105-00-nm-180-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0105-00-nm-225": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0105-00-nm-270": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0105-00-nm-270-far": [
+        "freeze",
+        "sev3"
+    ],
+    "0105-00-nm-315": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0106-00-nm-000": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0106-00-nm-000-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0106-00-nm-045": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0106-00-nm-090": [
+        "occlusion",
+        "sev5"
+    ],
+    "0106-00-nm-090-near": [
+        "rain",
+        "sev3"
+    ],
+    "0106-00-nm-135": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0106-00-nm-180": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0106-00-nm-180-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0106-00-nm-225": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0106-00-nm-270": [
+        "rain",
+        "sev5"
+    ],
+    "0106-00-nm-270-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0106-00-nm-315": [
+        "occlusion",
+        "sev1"
+    ],
+    "0107-00-nm-000": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0107-00-nm-000-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0107-00-nm-045": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0107-00-nm-090": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0107-00-nm-090-near": [
+        "freeze",
+        "sev5"
+    ],
+    "0107-00-nm-135": [
+        "freeze",
+        "sev3"
+    ],
+    "0107-00-nm-180": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0107-00-nm-180-far": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0107-00-nm-225": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0107-00-nm-270": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0107-00-nm-270-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0107-00-nm-315": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0108-00-nm-000": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0108-00-nm-000-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0108-00-nm-045": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0108-00-nm-090": [
+        "freeze",
+        "sev1"
+    ],
+    "0108-00-nm-090-near": [
+        "occlusion",
+        "sev5"
+    ],
+    "0108-00-nm-135": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0108-00-nm-180": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0108-00-nm-180-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0108-00-nm-225": [
+        "freeze",
+        "sev1"
+    ],
+    "0108-00-nm-270": [
+        "rain",
+        "sev3"
+    ],
+    "0108-00-nm-270-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0108-00-nm-315": [
+        "rain",
+        "sev3"
+    ],
+    "0109-00-nm-000": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0109-00-nm-000-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0109-00-nm-045": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0109-00-nm-090": [
+        "occlusion",
+        "sev5"
+    ],
+    "0109-00-nm-090-near": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0109-00-nm-135": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0109-00-nm-180": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0109-00-nm-180-far": [
+        "rain",
+        "sev3"
+    ],
+    "0109-00-nm-225": [
+        "rain",
+        "sev5"
+    ],
+    "0109-00-nm-270": [
+        "freeze",
+        "sev3"
+    ],
+    "0109-00-nm-270-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0109-00-nm-315": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0110-00-nm-000": [
+        "freeze",
+        "sev3"
+    ],
+    "0110-00-nm-000-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0110-00-nm-045": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0110-00-nm-090": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0110-00-nm-090-near": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0110-00-nm-135": [
+        "freeze",
+        "sev1"
+    ],
+    "0110-00-nm-180": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0110-00-nm-180-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0110-00-nm-225": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0110-00-nm-270": [
+        "freeze",
+        "sev1"
+    ],
+    "0110-00-nm-270-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0110-00-nm-315": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0111-00-nm-000": [
+        "freeze",
+        "sev3"
+    ],
+    "0111-00-nm-000-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0111-00-nm-045": [
+        "occlusion",
+        "sev5"
+    ],
+    "0111-00-nm-090": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0111-00-nm-090-near": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0111-00-nm-135": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0111-00-nm-180": [
+        "rain",
+        "sev1"
+    ],
+    "0111-00-nm-180-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0111-00-nm-225": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0111-00-nm-270": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0111-00-nm-270-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0111-00-nm-315": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0112-00-nm-000": [
+        "rain",
+        "sev3"
+    ],
+    "0112-00-nm-000-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0112-00-nm-045": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0112-00-nm-090": [
+        "rain",
+        "sev3"
+    ],
+    "0112-00-nm-090-near": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0112-00-nm-135": [
+        "freeze",
+        "sev3"
+    ],
+    "0112-00-nm-180": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0112-00-nm-180-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0112-00-nm-225": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0112-00-nm-270": [
+        "rain",
+        "sev1"
+    ],
+    "0112-00-nm-270-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0112-00-nm-315": [
+        "rain",
+        "sev3"
+    ],
+    "0113-00-nm-000": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0113-00-nm-000-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0113-00-nm-045": [
+        "rain",
+        "sev3"
+    ],
+    "0113-00-nm-090": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0113-00-nm-090-near": [
+        "occlusion",
+        "sev5"
+    ],
+    "0113-00-nm-135": [
+        "rain",
+        "sev5"
+    ],
+    "0113-00-nm-180": [
+        "rain",
+        "sev5"
+    ],
+    "0113-00-nm-180-far": [
+        "rain",
+        "sev1"
+    ],
+    "0113-00-nm-225": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0113-00-nm-270": [
+        "freeze",
+        "sev3"
+    ],
+    "0113-00-nm-270-far": [
+        "rain",
+        "sev3"
+    ],
+    "0113-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0114-00-nm-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0114-00-nm-000-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0114-00-nm-045": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0114-00-nm-090": [
+        "occlusion",
+        "sev5"
+    ],
+    "0114-00-nm-090-near": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0114-00-nm-135": [
+        "occlusion",
+        "sev5"
+    ],
+    "0114-00-nm-180": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0114-00-nm-180-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0114-00-nm-225": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0114-00-nm-270": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0114-00-nm-270-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0114-00-nm-315": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0115-00-nm-000": [
+        "rain",
+        "sev1"
+    ],
+    "0115-00-nm-000-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0115-00-nm-045": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0115-00-nm-090": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0115-00-nm-090-near": [
+        "rain",
+        "sev3"
+    ],
+    "0115-00-nm-135": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0115-00-nm-180": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0115-00-nm-180-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0115-00-nm-225": [
+        "freeze",
+        "sev5"
+    ],
+    "0115-00-nm-270": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0115-00-nm-270-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0115-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0117-00-nm-000": [
+        "freeze",
+        "sev1"
+    ],
+    "0117-00-nm-000-far": [
+        "rain",
+        "sev5"
+    ],
+    "0117-00-nm-045": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0117-00-nm-090": [
+        "rain",
+        "sev5"
+    ],
+    "0117-00-nm-090-near": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0117-00-nm-135": [
+        "freeze",
+        "sev5"
+    ],
+    "0117-00-nm-180": [
+        "freeze",
+        "sev3"
+    ],
+    "0117-00-nm-180-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0117-00-nm-225": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0117-00-nm-270": [
+        "occlusion",
+        "sev1"
+    ],
+    "0117-00-nm-270-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0117-00-nm-315": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0119-00-nm-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0119-00-nm-000-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0119-00-nm-045": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0119-00-nm-090": [
+        "occlusion",
+        "sev5"
+    ],
+    "0119-00-nm-090-near": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0119-00-nm-135": [
+        "freeze",
+        "sev3"
+    ],
+    "0119-00-nm-180": [
+        "occlusion",
+        "sev1"
+    ],
+    "0119-00-nm-180-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0119-00-nm-225": [
+        "freeze",
+        "sev5"
+    ],
+    "0119-00-nm-270": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0119-00-nm-270-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0119-00-nm-315": [
+        "occlusion",
+        "sev5"
+    ],
+    "0120-00-nm-000": [
+        "occlusion",
+        "sev5"
+    ],
+    "0120-00-nm-000-far": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0120-00-nm-045": [
+        "freeze",
+        "sev5"
+    ],
+    "0120-00-nm-090": [
+        "occlusion",
+        "sev1"
+    ],
+    "0120-00-nm-090-near": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0120-00-nm-135": [
+        "rain",
+        "sev3"
+    ],
+    "0120-00-nm-180": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0120-00-nm-180-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0120-00-nm-225": [
+        "freeze",
+        "sev1"
+    ],
+    "0120-00-nm-270": [
+        "freeze",
+        "sev3"
+    ],
+    "0120-00-nm-270-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0120-00-nm-315": [
+        "rain",
+        "sev3"
+    ],
+    "0121-00-nm-000": [
+        "freeze",
+        "sev1"
+    ],
+    "0121-00-nm-000-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0121-00-nm-045": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0121-00-nm-090": [
+        "rain",
+        "sev3"
+    ],
+    "0121-00-nm-090-near": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0121-00-nm-135": [
+        "rain",
+        "sev3"
+    ],
+    "0121-00-nm-180": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0121-00-nm-180-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0121-00-nm-225": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0121-00-nm-270": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0121-00-nm-270-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0121-00-nm-315": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0122-00-nm-000": [
+        "occlusion",
+        "sev1"
+    ],
+    "0122-00-nm-000-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0122-00-nm-045": [
+        "freeze",
+        "sev1"
+    ],
+    "0122-00-nm-090": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0122-00-nm-090-near": [
+        "freeze",
+        "sev5"
+    ],
+    "0122-00-nm-135": [
+        "freeze",
+        "sev1"
+    ],
+    "0122-00-nm-180": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0122-00-nm-180-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0122-00-nm-225": [
+        "rain",
+        "sev5"
+    ],
+    "0122-00-nm-270": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0122-00-nm-270-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0122-00-nm-315": [
+        "rain",
+        "sev3"
+    ],
+    "0123-00-nm-000": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0123-00-nm-000-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0123-00-nm-045": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0123-00-nm-090": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0123-00-nm-090-near": [
+        "freeze",
+        "sev5"
+    ],
+    "0123-00-nm-135": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0123-00-nm-180": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0123-00-nm-180-far": [
+        "rain",
+        "sev1"
+    ],
+    "0123-00-nm-225": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0123-00-nm-270": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0123-00-nm-270-far": [
+        "rain",
+        "sev5"
+    ],
+    "0123-00-nm-315": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0124-00-nm-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0124-00-nm-000-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0124-00-nm-045": [
+        "freeze",
+        "sev3"
+    ],
+    "0124-00-nm-090": [
+        "freeze",
+        "sev5"
+    ],
+    "0124-00-nm-090-near": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0124-00-nm-135": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0124-00-nm-180": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0124-00-nm-180-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0124-00-nm-225": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0124-00-nm-270": [
+        "freeze",
+        "sev5"
+    ],
+    "0124-00-nm-270-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0124-00-nm-315": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0125-00-nm-000": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0125-00-nm-000-far": [
+        "freeze",
+        "sev3"
+    ],
+    "0125-00-nm-045": [
+        "rain",
+        "sev3"
+    ],
+    "0125-00-nm-090": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0125-00-nm-090-near": [
+        "occlusion",
+        "sev5"
+    ],
+    "0125-00-nm-135": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0125-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0125-00-nm-180-far": [
+        "rain",
+        "sev1"
+    ],
+    "0125-00-nm-225": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0125-00-nm-270": [
+        "rain",
+        "sev1"
+    ],
+    "0125-00-nm-270-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0125-00-nm-315": [
+        "rain",
+        "sev5"
+    ],
+    "0127-00-nm-000": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0127-00-nm-000-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0127-00-nm-045": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0127-00-nm-090": [
+        "rain",
+        "sev3"
+    ],
+    "0127-00-nm-090-near": [
+        "occlusion",
+        "sev1"
+    ],
+    "0127-00-nm-135": [
+        "occlusion",
+        "sev5"
+    ],
+    "0127-00-nm-180": [
+        "rain",
+        "sev3"
+    ],
+    "0127-00-nm-180-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0127-00-nm-225": [
+        "rain",
+        "sev5"
+    ],
+    "0127-00-nm-270": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0127-00-nm-270-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0127-00-nm-315": [
+        "rain",
+        "sev1"
+    ],
+    "0129-00-nm-000": [
+        "rain",
+        "sev5"
+    ],
+    "0129-00-nm-000-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0129-00-nm-045": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0129-00-nm-090": [
+        "freeze",
+        "sev3"
+    ],
+    "0129-00-nm-090-near": [
+        "freeze",
+        "sev3"
+    ],
+    "0129-00-nm-135": [
+        "occlusion",
+        "sev5"
+    ],
+    "0129-00-nm-180": [
+        "freeze",
+        "sev5"
+    ],
+    "0129-00-nm-180-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0129-00-nm-225": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0129-00-nm-270": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0129-00-nm-270-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0129-00-nm-315": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0130-00-nm-000": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0130-00-nm-000-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0130-00-nm-045": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0130-00-nm-090": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0130-00-nm-090-near": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0130-00-nm-135": [
+        "freeze",
+        "sev3"
+    ],
+    "0130-00-nm-180": [
+        "rain",
+        "sev1"
+    ],
+    "0130-00-nm-180-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0130-00-nm-225": [
+        "occlusion",
+        "sev1"
+    ],
+    "0130-00-nm-270": [
+        "freeze",
+        "sev3"
+    ],
+    "0130-00-nm-270-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0130-00-nm-315": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0131-00-nm-000": [
+        "freeze",
+        "sev3"
+    ],
+    "0131-00-nm-000-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0131-00-nm-045": [
+        "rain",
+        "sev5"
+    ],
+    "0131-00-nm-090": [
+        "rain",
+        "sev3"
+    ],
+    "0131-00-nm-090-near": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0131-00-nm-135": [
+        "freeze",
+        "sev3"
+    ],
+    "0131-00-nm-180": [
+        "freeze",
+        "sev3"
+    ],
+    "0131-00-nm-180-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0131-00-nm-225": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0131-00-nm-270": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0131-00-nm-270-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0131-00-nm-315": [
+        "freeze",
+        "sev3"
+    ],
+    "0132-00-nm-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0132-00-nm-000-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0132-00-nm-045": [
+        "freeze",
+        "sev5"
+    ],
+    "0132-00-nm-090": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0132-00-nm-090-near": [
+        "freeze",
+        "sev3"
+    ],
+    "0132-00-nm-135": [
+        "occlusion",
+        "sev1"
+    ],
+    "0132-00-nm-180": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0132-00-nm-180-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0132-00-nm-225": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0132-00-nm-270": [
+        "occlusion",
+        "sev1"
+    ],
+    "0132-00-nm-270-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0132-00-nm-315": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0133-00-nm-000": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0133-00-nm-000-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0133-00-nm-045": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0133-00-nm-090": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0133-00-nm-090-near": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0133-00-nm-135": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0133-00-nm-180": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0133-00-nm-180-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0133-00-nm-225": [
+        "freeze",
+        "sev3"
+    ],
+    "0133-00-nm-270": [
+        "freeze",
+        "sev1"
+    ],
+    "0133-00-nm-270-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0133-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0134-00-nm-000": [
+        "occlusion",
+        "sev5"
+    ],
+    "0134-00-nm-000-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0134-00-nm-045": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0134-00-nm-090": [
+        "rain",
+        "sev1"
+    ],
+    "0134-00-nm-090-near": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0134-00-nm-135": [
+        "occlusion",
+        "sev5"
+    ],
+    "0134-00-nm-180": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0134-00-nm-180-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0134-00-nm-225": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0134-00-nm-270": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0134-00-nm-270-far": [
+        "rain",
+        "sev1"
+    ],
+    "0134-00-nm-315": [
+        "rain",
+        "sev1"
+    ],
+    "0135-00-nm-000": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0135-00-nm-000-far": [
+        "occlusion",
+        "sev3"
+    ],
+    "0135-00-nm-045": [
+        "occlusion",
+        "sev5"
+    ],
+    "0135-00-nm-090": [
+        "rain",
+        "sev5"
+    ],
+    "0135-00-nm-090-near": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0135-00-nm-135": [
+        "freeze",
+        "sev1"
+    ],
+    "0135-00-nm-180": [
+        "freeze",
+        "sev3"
+    ],
+    "0135-00-nm-180-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0135-00-nm-225": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0135-00-nm-270": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0135-00-nm-270-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0135-00-nm-315": [
+        "rain",
+        "sev1"
+    ],
+    "0136-00-nm-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0136-00-nm-000-far": [
+        "rain",
+        "sev5"
+    ],
+    "0136-00-nm-045": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0136-00-nm-090": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0136-00-nm-090-near": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0136-00-nm-135": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0136-00-nm-180": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0136-00-nm-180-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0136-00-nm-225": [
+        "rain",
+        "sev3"
+    ],
+    "0136-00-nm-270": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0136-00-nm-270-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0136-00-nm-315": [
+        "occlusion",
+        "sev3"
+    ],
+    "0137-00-nm-000": [
+        "freeze",
+        "sev5"
+    ],
+    "0137-00-nm-000-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0137-00-nm-045": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0137-00-nm-090": [
+        "rain",
+        "sev3"
+    ],
+    "0137-00-nm-090-near": [
+        "freeze",
+        "sev1"
+    ],
+    "0137-00-nm-135": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0137-00-nm-180": [
+        "rain",
+        "sev3"
+    ],
+    "0137-00-nm-180-far": [
+        "freeze",
+        "sev3"
+    ],
+    "0137-00-nm-225": [
+        "rain",
+        "sev1"
+    ],
+    "0137-00-nm-270": [
+        "freeze",
+        "sev5"
+    ],
+    "0137-00-nm-270-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0137-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0138-00-nm-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0138-00-nm-000-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0138-00-nm-045": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0138-00-nm-090": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0138-00-nm-090-near": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0138-00-nm-135": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0138-00-nm-180": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0138-00-nm-180-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0138-00-nm-225": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0138-00-nm-270": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0138-00-nm-270-far": [
+        "rain",
+        "sev1"
+    ],
+    "0138-00-nm-315": [
+        "rain",
+        "sev1"
+    ],
+    "0139-00-nm-000": [
+        "occlusion",
+        "sev5"
+    ],
+    "0139-00-nm-000-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0139-00-nm-045": [
+        "freeze",
+        "sev1"
+    ],
+    "0139-00-nm-090": [
+        "freeze",
+        "sev1"
+    ],
+    "0139-00-nm-090-near": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0139-00-nm-135": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0139-00-nm-180": [
+        "rain",
+        "sev5"
+    ],
+    "0139-00-nm-180-far": [
+        "rain",
+        "sev5"
+    ],
+    "0139-00-nm-225": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0139-00-nm-270": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0139-00-nm-270-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0139-00-nm-315": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0140-00-nm-000": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0140-00-nm-000-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0140-00-nm-045": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0140-00-nm-090": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0140-00-nm-090-near": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0140-00-nm-135": [
+        "rain",
+        "sev1"
+    ],
+    "0140-00-nm-180": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0140-00-nm-180-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0140-00-nm-225": [
+        "occlusion",
+        "sev3"
+    ],
+    "0140-00-nm-270": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0140-00-nm-270-far": [
+        "rain",
+        "sev3"
+    ],
+    "0140-00-nm-315": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0141-00-nm-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0141-00-nm-000-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0141-00-nm-045": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0141-00-nm-090": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0141-00-nm-090-near": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0141-00-nm-135": [
+        "rain",
+        "sev1"
+    ],
+    "0141-00-nm-180": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0141-00-nm-180-far": [
+        "rain",
+        "sev5"
+    ],
+    "0141-00-nm-225": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0141-00-nm-270": [
+        "occlusion",
+        "sev1"
+    ],
+    "0141-00-nm-270-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0141-00-nm-315": [
+        "rain",
+        "sev3"
+    ],
+    "0142-00-nm-000": [
+        "freeze",
+        "sev5"
+    ],
+    "0142-00-nm-000-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0142-00-nm-045": [
+        "rain",
+        "sev1"
+    ],
+    "0142-00-nm-090": [
+        "rain",
+        "sev5"
+    ],
+    "0142-00-nm-090-near": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0142-00-nm-135": [
+        "rain",
+        "sev3"
+    ],
+    "0142-00-nm-180": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0142-00-nm-180-far": [
+        "rain",
+        "sev3"
+    ],
+    "0142-00-nm-225": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0142-00-nm-270": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0142-00-nm-270-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0142-00-nm-315": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0143-00-nm-000": [
+        "occlusion",
+        "sev3"
+    ],
+    "0143-00-nm-000-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0143-00-nm-045": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0143-00-nm-090": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0143-00-nm-090-near": [
+        "occlusion",
+        "sev1"
+    ],
+    "0143-00-nm-135": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0143-00-nm-180": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0143-00-nm-180-far": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0143-00-nm-225": [
+        "occlusion",
+        "sev3"
+    ],
+    "0143-00-nm-270": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0143-00-nm-270-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0143-00-nm-315": [
+        "rain",
+        "sev5"
+    ],
+    "0145-00-nm-000": [
+        "occlusion",
+        "sev3"
+    ],
+    "0145-00-nm-000-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0145-00-nm-045": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0145-00-nm-090": [
+        "freeze",
+        "sev5"
+    ],
+    "0145-00-nm-090-near": [
+        "freeze",
+        "sev1"
+    ],
+    "0145-00-nm-135": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0145-00-nm-180": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0145-00-nm-180-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0145-00-nm-225": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0145-00-nm-270": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0145-00-nm-270-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0145-00-nm-315": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0146-00-nm-000": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0146-00-nm-000-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0146-00-nm-045": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0146-00-nm-090": [
+        "occlusion",
+        "sev3"
+    ],
+    "0146-00-nm-090-near": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0146-00-nm-135": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0146-00-nm-180": [
+        "freeze",
+        "sev5"
+    ],
+    "0146-00-nm-180-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0146-00-nm-225": [
+        "rain",
+        "sev1"
+    ],
+    "0146-00-nm-270": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0146-00-nm-270-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0146-00-nm-315": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0147-00-nm-000": [
+        "freeze",
+        "sev5"
+    ],
+    "0147-00-nm-000-far": [
+        "freeze",
+        "sev3"
+    ],
+    "0147-00-nm-045": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0147-00-nm-090": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0147-00-nm-090-near": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0147-00-nm-135": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0147-00-nm-180": [
+        "occlusion",
+        "sev1"
+    ],
+    "0147-00-nm-180-far": [
+        "freeze",
+        "sev3"
+    ],
+    "0147-00-nm-225": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0147-00-nm-270": [
+        "freeze",
+        "sev1"
+    ],
+    "0147-00-nm-270-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0147-00-nm-315": [
+        "rain",
+        "sev5"
+    ],
+    "0148-00-nm-000": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0148-00-nm-000-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0148-00-nm-045": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0148-00-nm-090": [
+        "freeze",
+        "sev1"
+    ],
+    "0148-00-nm-090-near": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0148-00-nm-135": [
+        "freeze",
+        "sev3"
+    ],
+    "0148-00-nm-180": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0148-00-nm-180-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0148-00-nm-225": [
+        "freeze",
+        "sev3"
+    ],
+    "0148-00-nm-270": [
+        "occlusion",
+        "sev1"
+    ],
+    "0148-00-nm-270-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0148-00-nm-315": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0150-00-nm-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0150-00-nm-000-far": [
+        "rain",
+        "sev5"
+    ],
+    "0150-00-nm-045": [
+        "rain",
+        "sev5"
+    ],
+    "0150-00-nm-090": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0150-00-nm-090-near": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0150-00-nm-135": [
+        "occlusion",
+        "sev3"
+    ],
+    "0150-00-nm-180": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0150-00-nm-180-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0150-00-nm-225": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0150-00-nm-270": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0150-00-nm-270-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0150-00-nm-315": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0152-00-nm-000": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0152-00-nm-000-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0152-00-nm-045": [
+        "occlusion",
+        "sev5"
+    ],
+    "0152-00-nm-090": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0152-00-nm-090-near": [
+        "rain",
+        "sev5"
+    ],
+    "0152-00-nm-135": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0152-00-nm-180": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0152-00-nm-180-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0152-00-nm-225": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0152-00-nm-270": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0152-00-nm-270-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0152-00-nm-315": [
+        "freeze",
+        "sev5"
+    ],
+    "0155-00-nm-000": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0155-00-nm-000-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0155-00-nm-045": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0155-00-nm-090": [
+        "freeze",
+        "sev1"
+    ],
+    "0155-00-nm-090-near": [
+        "freeze",
+        "sev3"
+    ],
+    "0155-00-nm-135": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0155-00-nm-180": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0155-00-nm-180-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0155-00-nm-225": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0155-00-nm-270": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0155-00-nm-270-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0155-00-nm-315": [
+        "rain",
+        "sev1"
+    ],
+    "0159-00-nm-000": [
+        "occlusion",
+        "sev3"
+    ],
+    "0159-00-nm-000-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0159-00-nm-045": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0159-00-nm-090": [
+        "rain",
+        "sev1"
+    ],
+    "0159-00-nm-090-near": [
+        "rain",
+        "sev1"
+    ],
+    "0159-00-nm-135": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0159-00-nm-180": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0159-00-nm-180-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0159-00-nm-225": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0159-00-nm-270": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0159-00-nm-270-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0159-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0160-00-nm-000": [
+        "occlusion",
+        "sev3"
+    ],
+    "0160-00-nm-000-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0160-00-nm-045": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0160-00-nm-090": [
+        "freeze",
+        "sev1"
+    ],
+    "0160-00-nm-090-near": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0160-00-nm-135": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0160-00-nm-180": [
+        "freeze",
+        "sev3"
+    ],
+    "0160-00-nm-180-far": [
+        "freeze",
+        "sev3"
+    ],
+    "0160-00-nm-225": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0160-00-nm-270": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0160-00-nm-270-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0160-00-nm-315": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0161-00-nm-000": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0161-00-nm-000-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0161-00-nm-045": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0161-00-nm-090": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0161-00-nm-090-near": [
+        "rain",
+        "sev3"
+    ],
+    "0161-00-nm-135": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0161-00-nm-180": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0161-00-nm-180-far": [
+        "rain",
+        "sev5"
+    ],
+    "0161-00-nm-225": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0161-00-nm-270": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0161-00-nm-270-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0161-00-nm-315": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0162-00-nm-000": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0162-00-nm-000-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0162-00-nm-045": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0162-00-nm-090": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0162-00-nm-090-near": [
+        "rain",
+        "sev3"
+    ],
+    "0162-00-nm-135": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0162-00-nm-180": [
+        "rain",
+        "sev5"
+    ],
+    "0162-00-nm-180-far": [
+        "freeze",
+        "sev3"
+    ],
+    "0162-00-nm-225": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0162-00-nm-270": [
+        "freeze",
+        "sev5"
+    ],
+    "0162-00-nm-270-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0162-00-nm-315": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0163-00-nm-000": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0163-00-nm-000-far": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0163-00-nm-045": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0163-00-nm-090": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0163-00-nm-090-near": [
+        "freeze",
+        "sev5"
+    ],
+    "0163-00-nm-135": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0163-00-nm-180": [
+        "occlusion",
+        "sev3"
+    ],
+    "0163-00-nm-180-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0163-00-nm-225": [
+        "freeze",
+        "sev1"
+    ],
+    "0163-00-nm-270": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0163-00-nm-270-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0163-00-nm-315": [
+        "freeze",
+        "sev5"
+    ],
+    "0166-00-nm-000": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0166-00-nm-000-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0166-00-nm-045": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0166-00-nm-090": [
+        "freeze",
+        "sev3"
+    ],
+    "0166-00-nm-090-near": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0166-00-nm-135": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0166-00-nm-180": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0166-00-nm-180-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0166-00-nm-225": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0166-00-nm-270": [
+        "freeze",
+        "sev5"
+    ],
+    "0166-00-nm-270-far": [
+        "occlusion",
+        "sev3"
+    ],
+    "0166-00-nm-315": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0167-00-nm-000": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0167-00-nm-000-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0167-00-nm-045": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0167-00-nm-090": [
+        "rain",
+        "sev5"
+    ],
+    "0167-00-nm-090-near": [
+        "rain",
+        "sev3"
+    ],
+    "0167-00-nm-135": [
+        "occlusion",
+        "sev5"
+    ],
+    "0167-00-nm-180": [
+        "rain",
+        "sev3"
+    ],
+    "0167-00-nm-180-far": [
+        "freeze",
+        "sev5"
+    ],
+    "0167-00-nm-225": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0167-00-nm-270": [
+        "occlusion",
+        "sev1"
+    ],
+    "0167-00-nm-270-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0167-00-nm-315": [
+        "rain",
+        "sev3"
+    ],
+    "0170-00-nm-000": [
+        "rain",
+        "sev1"
+    ],
+    "0170-00-nm-000-far": [
+        "rain",
+        "sev3"
+    ],
+    "0170-00-nm-045": [
+        "freeze",
+        "sev5"
+    ],
+    "0170-00-nm-090": [
+        "freeze",
+        "sev1"
+    ],
+    "0170-00-nm-090-near": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0170-00-nm-135": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0170-00-nm-180": [
+        "occlusion",
+        "sev3"
+    ],
+    "0170-00-nm-180-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0170-00-nm-225": [
+        "occlusion",
+        "sev5"
+    ],
+    "0170-00-nm-270": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0170-00-nm-270-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0170-00-nm-315": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0171-00-nm-000": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0171-00-nm-000-far": [
+        "occlusion",
+        "sev1"
+    ],
+    "0171-00-nm-045": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0171-00-nm-090": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0171-00-nm-090-near": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0171-00-nm-135": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0171-00-nm-180": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0171-00-nm-180-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0171-00-nm-225": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0171-00-nm-270": [
+        "occlusion",
+        "sev5"
+    ],
+    "0171-00-nm-270-far": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0171-00-nm-315": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0172-00-nm-000": [
+        "freeze",
+        "sev5"
+    ],
+    "0172-00-nm-000-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0172-00-nm-045": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0172-00-nm-090": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0172-00-nm-090-near": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0172-00-nm-135": [
+        "occlusion",
+        "sev1"
+    ],
+    "0172-00-nm-180": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0172-00-nm-180-far": [
+        "occlusion",
+        "sev3"
+    ],
+    "0172-00-nm-225": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0172-00-nm-270": [
+        "freeze",
+        "sev1"
+    ],
+    "0172-00-nm-270-far": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0172-00-nm-315": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0173-00-nm-000": [
+        "rain",
+        "sev1"
+    ],
+    "0173-00-nm-000-far": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0173-00-nm-045": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0173-00-nm-090": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0173-00-nm-090-near": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0173-00-nm-135": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0173-00-nm-180": [
+        "freeze",
+        "sev5"
+    ],
+    "0173-00-nm-180-far": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0173-00-nm-225": [
+        "occlusion",
+        "sev1"
+    ],
+    "0173-00-nm-270": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0173-00-nm-270-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0173-00-nm-315": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0175-00-nm-000": [
+        "occlusion",
+        "sev3"
+    ],
+    "0175-00-nm-000-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0175-00-nm-045": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0175-00-nm-090": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0175-00-nm-090-near": [
+        "freeze",
+        "sev5"
+    ],
+    "0175-00-nm-135": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0175-00-nm-180": [
+        "freeze",
+        "sev3"
+    ],
+    "0175-00-nm-180-far": [
+        "occlusion",
+        "sev3"
+    ],
+    "0175-00-nm-225": [
+        "freeze",
+        "sev3"
+    ],
+    "0175-00-nm-270": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0175-00-nm-270-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0175-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0176-00-nm-000": [
+        "occlusion",
+        "sev3"
+    ],
+    "0176-00-nm-000-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0176-00-nm-045": [
+        "freeze",
+        "sev1"
+    ],
+    "0176-00-nm-090": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0176-00-nm-090-near": [
+        "occlusion",
+        "sev5"
+    ],
+    "0176-00-nm-135": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0176-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0176-00-nm-180-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0176-00-nm-225": [
+        "occlusion",
+        "sev3"
+    ],
+    "0176-00-nm-270": [
+        "occlusion",
+        "sev5"
+    ],
+    "0176-00-nm-270-far": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0176-00-nm-315": [
+        "occlusion",
+        "sev3"
+    ],
+    "0177-00-nm-000": [
+        "freeze",
+        "sev1"
+    ],
+    "0177-00-nm-000-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0177-00-nm-045": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0177-00-nm-090": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0177-00-nm-090-near": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0177-00-nm-135": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0177-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0177-00-nm-180-far": [
+        "impulse_noise2",
+        "sev3"
+    ],
+    "0177-00-nm-225": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0177-00-nm-270": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0177-00-nm-270-far": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0177-00-nm-315": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0178-00-nm-000": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0178-00-nm-000-far": [
+        "occlusion",
+        "sev5"
+    ],
+    "0178-00-nm-045": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0178-00-nm-090": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0178-00-nm-090-near": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0178-00-nm-135": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0178-00-nm-180": [
+        "freeze",
+        "sev1"
+    ],
+    "0178-00-nm-180-far": [
+        "rain",
+        "sev1"
+    ],
+    "0178-00-nm-225": [
+        "rain",
+        "sev1"
+    ],
+    "0178-00-nm-270": [
+        "freeze",
+        "sev3"
+    ],
+    "0178-00-nm-270-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0178-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0179-00-nm-000": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0179-00-nm-000-far": [
+        "occlusion",
+        "sev3"
+    ],
+    "0179-00-nm-045": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0179-00-nm-090": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0179-00-nm-090-near": [
+        "freeze",
+        "sev3"
+    ],
+    "0179-00-nm-135": [
+        "rain",
+        "sev5"
+    ],
+    "0179-00-nm-180": [
+        "occlusion",
+        "sev5"
+    ],
+    "0179-00-nm-180-far": [
+        "gaussian_noise",
+        "sev1"
+    ],
+    "0179-00-nm-225": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0179-00-nm-270": [
+        "rain",
+        "sev3"
+    ],
+    "0179-00-nm-270-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0179-00-nm-315": [
+        "occlusion",
+        "sev5"
+    ],
+    "0181-00-nm-000": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0181-00-nm-000-far": [
+        "freeze",
+        "sev3"
+    ],
+    "0181-00-nm-045": [
+        "defocus_blur",
+        "sev3"
+    ],
+    "0181-00-nm-090": [
+        "freeze",
+        "sev1"
+    ],
+    "0181-00-nm-090-near": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0181-00-nm-135": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0181-00-nm-180": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0181-00-nm-180-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0181-00-nm-225": [
+        "rain",
+        "sev1"
+    ],
+    "0181-00-nm-270": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0181-00-nm-270-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0181-00-nm-315": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0182-00-nm-000": [
+        "rain",
+        "sev3"
+    ],
+    "0182-00-nm-000-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0182-00-nm-045": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0182-00-nm-090": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0182-00-nm-090-near": [
+        "occlusion",
+        "sev5"
+    ],
+    "0182-00-nm-135": [
+        "rain",
+        "sev3"
+    ],
+    "0182-00-nm-180": [
+        "rain",
+        "sev3"
+    ],
+    "0182-00-nm-180-far": [
+        "impulse_noise",
+        "sev1"
+    ],
+    "0182-00-nm-225": [
+        "freeze",
+        "sev3"
+    ],
+    "0182-00-nm-270": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0182-00-nm-270-far": [
+        "rain",
+        "sev3"
+    ],
+    "0182-00-nm-315": [
+        "gaussian_noise",
+        "sev3"
+    ],
+    "0184-00-nm-000": [
+        "freeze",
+        "sev3"
+    ],
+    "0184-00-nm-000-far": [
+        "freeze",
+        "sev1"
+    ],
+    "0184-00-nm-045": [
+        "rain",
+        "sev3"
+    ],
+    "0184-00-nm-090": [
+        "rain",
+        "sev1"
+    ],
+    "0184-00-nm-090-near": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0184-00-nm-135": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0184-00-nm-180": [
+        "rain",
+        "sev1"
+    ],
+    "0184-00-nm-180-far": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0184-00-nm-225": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0184-00-nm-270": [
+        "rain",
+        "sev1"
+    ],
+    "0184-00-nm-270-far": [
+        "impulse_noise2",
+        "sev1"
+    ],
+    "0184-00-nm-315": [
+        "motion_blur",
+        "sev3"
+    ],
+    "0185-00-nm-000": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0185-00-nm-000-far": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0185-00-nm-045": [
+        "motion_blur",
+        "sev1"
+    ],
+    "0185-00-nm-090": [
+        "impulse_noise2",
+        "sev5"
+    ],
+    "0185-00-nm-090-near": [
+        "freeze",
+        "sev5"
+    ],
+    "0185-00-nm-135": [
+        "gaussian_noise",
+        "sev5"
+    ],
+    "0185-00-nm-180": [
+        "occlusion",
+        "sev1"
+    ],
+    "0185-00-nm-180-far": [
+        "motion_blur",
+        "sev5"
+    ],
+    "0185-00-nm-225": [
+        "freeze",
+        "sev5"
+    ],
+    "0185-00-nm-270": [
+        "impulse_noise",
+        "sev3"
+    ],
+    "0185-00-nm-270-far": [
+        "impulse_noise",
+        "sev5"
+    ],
+    "0185-00-nm-315": [
+        "impulse_noise",
+        "sev5"
+    ]
+}

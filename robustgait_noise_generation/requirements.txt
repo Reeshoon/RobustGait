@@ -1,0 +1,14 @@
+numpy
+opencv-python
+torch
+torchvision
+scikit-image
+pillow
+scipy
+albumentations
+pycocotools
+wand
+tqdm
+argparse
+ninja
+
