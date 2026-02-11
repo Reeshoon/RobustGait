@@ -1,6 +1,6 @@
 # Robust Gait Noise Generation
 
-This repository provides a clean and minimal pipeline for generating **noisy or perturbed silhouettes** for gait-recognition experiments.  
+This repository provides the pipeline for generating **noisy or perturbed silhouettes** for gait-recognition experiments.  
 The main script (`run.py`) handles dataset loading, noise application, transformation, and saving outputs in a format compatible with OpenGait models.
 
 ---

@@ -152,19 +152,6 @@ def get_palette(num_cls, black_and_white=False):
     return palette
 
 
-# -----------------------------------------------------------------------------#
-# Saving Functions 
-# -----------------------------------------------------------------------------#
-def save_frames_sustech(frames, output_folder, frame_names):
-    """Save SusTech1K silhouettes as pickle."""
-    data = [cv2.resize(f.astype(np.uint8), (64, 64), interpolation=cv2.INTER_CUBIC)
-            for f in frames]
-    data = np.asarray(data)
-
-    pkl_path = os.path.join(output_folder, "raw_sils.pkl")
-    pickle.dump(data, open(pkl_path, 'wb'))
-
-
 T_W = 64
 T_H = 64
 
@@ -201,28 +188,6 @@ def cut_img(img):
 def convertTo1D(frame):
     """Convert parsing to a 1-channel silhouette."""
     return ((np.max(frame, axis=-1) > 0).astype(np.uint8)) * 255
-
-
-def save_frames_ccpg(frames, output_folder, frame_names):
-    """Cut & save CCPG silhouettes."""
-    data = [cut_img(convertTo1D(f).astype(np.uint8)) for f in frames]
-    data = [d for d in data if d is not None]
-
-    pkl_path = os.path.join(output_folder, "raw_sils.pkl")
-    pickle.dump(np.asarray(data), open(pkl_path, 'wb'))
-
-
-def save_frames_as_video(frames, output_video_path, fps=30):
-    """Optional utility to save output as an mp4 video."""
-    height, width, _ = frames[0].shape
-    writer = cv2.VideoWriter(
-        output_video_path,
-        cv2.VideoWriter_fourcc(*'mp4v'),
-        fps, (width, height)
-    )
-    for f in frames:
-        writer.write(f)
-    writer.release()
 
 def imgs2pickle_from_memory(img_groups: Tuple, output_path: Path, img_size: int = 64, verbose: bool = False, dataset='CASIAB') -> None:
     sinfo = img_groups[0]
@@ -272,10 +237,8 @@ def imgs2pickle_from_memory(img_groups: Tuple, output_path: Path, img_size: int 
 
         to_pickle.append(img[:, left: right].astype('uint8'))
 
-    #print(f"Len of noisy video {len(to_pickle)}")
     if to_pickle:
         to_pickle = np.asarray(to_pickle)
-        #dst_path = os.path.join(output_path, *sinfo)
         os.makedirs(output_path, exist_ok=True)
         pkl_path = os.path.join(output_path, f'{sinfo[2]}.pkl')
         pickle.dump(to_pickle, open(pkl_path, 'wb'))
@@ -283,6 +246,40 @@ def imgs2pickle_from_memory(img_groups: Tuple, output_path: Path, img_size: int 
 
     if len(to_pickle) < 5:
         print(f'{sinfo} has less than 5 valid frames.')
+
+# -----------------------------------------------------------------------------#
+# Saving Functions 
+# -----------------------------------------------------------------------------#
+def save_frames_sustech(frames, output_folder, frame_names):
+    """Save SusTech1K silhouettes as pickle."""
+    data = [cv2.resize(f.astype(np.uint8), (64, 64), interpolation=cv2.INTER_CUBIC)
+            for f in frames]
+    data = np.asarray(data)
+
+    pkl_path = os.path.join(output_folder, "raw_sils.pkl")
+    pickle.dump(data, open(pkl_path, 'wb'))
+
+def save_frames_ccpg(frames, output_folder, frame_names):
+    """Cut & save CCPG silhouettes."""
+    data = [cut_img(convertTo1D(f).astype(np.uint8)) for f in frames]
+    data = [d for d in data if d is not None]
+
+    pkl_path = os.path.join(output_folder, "raw_sils.pkl")
+    pickle.dump(np.asarray(data), open(pkl_path, 'wb'))
+
+
+def save_frames_as_video(frames, output_video_path, fps=30):
+    """Optional utility to save output as an mp4 video."""
+    height, width, _ = frames[0].shape
+    writer = cv2.VideoWriter(
+        output_video_path,
+        cv2.VideoWriter_fourcc(*'mp4v'),
+        fps, (width, height)
+    )
+    for f in frames:
+        writer.write(f)
+    writer.release()
+
 
 # -----------------------------------------------------------------------------#
 # Main Pipeline
@@ -295,30 +292,57 @@ def main():
         os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu
         assert len(args.gpu.split(',')) == 1
 
-    # ------------------------- Dataset Config -------------------------- #
+
+    # ------------------------------------------------------------------ #
+    # 1. Human Parsing Dataset Configuration (LIP / ATR / Pascal)
+    # ------------------------------------------------------------------ #
+    # These settings define the semantic segmentation setup of the
+    # pretrained human parsing model.
     settings = dataset_settings[args.dataset]
     num_classes = settings['num_classes']
     input_size = settings['input_size']
     label = settings['label']
 
-    print(f"Evaluating total class number {num_classes} with labels: {label}")
 
-    # ---------------------------- Model -------------------------------- #
+    # ------------------------------------------------------------------ #
+    # 2. Load Pretrained Human Parsing Model (ResNet-101 backbone)
+    # ------------------------------------------------------------------ #
+    # Initialize a segmentation network used for human part parsing.
+    # The model predicts per-pixel class logits over 'num_classes'.
+
     model = networks.init_model('resnet101', num_classes=num_classes, pretrained=None)
     state_dict = torch.load(args.model_restore)['state_dict']
 
-    # Remove "module." prefix
     model.load_state_dict({k[7:]: v for k, v in state_dict.items()})
     model.cuda().eval()
 
-    # -------------------------- Transform ------------------------------ #
+    # -------------------------- Input Preprocessing for the Parsing Model ------------------------------ #
     transform = transforms.Compose([
         transforms.ToTensor(),
         transforms.Normalize(mean=[0.406, 0.456, 0.485],
                              std=[0.225, 0.224, 0.229])
     ])
 
-    # -------------------------- Dataset Init --------------------------- #
+    # Palettes
+    rgb_palette = get_palette(num_classes, black_and_white=False)
+    bw_palette = get_palette(num_classes, black_and_white=True)
+
+    # Upsampling for logits
+    upsample = torch.nn.Upsample(size=input_size, mode='bilinear', align_corners=True)
+
+
+    # ------------------------------------------------------------------ #
+    # 3. Video Dataset Loader (CASIA-B / CCPG / SusTech1K)
+    # ------------------------------------------------------------------ #
+    # These Dataset classes are responsible for:
+    #   - reading gait video files frame-by-frame
+    #   - optionally applying robustness corruptions (noise, blur, snow, etc.)
+    #   - resizing/warping frames into the parser's expected input_size
+    #   - returning both the processed frame tensors AND metadata
+    #
+    # Output of each Dataset item:
+    #   frames: list of tensors [T, 3, H, W]
+    #   metas : list of dictionaries (center, scale, original size, name)
     dataset_class_map = {
         'casiab': CASIAB,
         'ccpg': CCPG,
@@ -342,14 +366,10 @@ def main():
 
     os.makedirs(args.output_dir, exist_ok=True)
 
-    # Palettes
-    rgb_palette = get_palette(num_classes, black_and_white=False)
-    bw_palette = get_palette(num_classes, black_and_white=True)
+    
 
-    # Upsampling for logits
-    upsample = torch.nn.Upsample(size=input_size, mode='bilinear', align_corners=True)
-
-    # --------------------------- Inference ----------------------------- #
+    # --------------------------- Inference Loop: ------------------------------------------------------ #
+    # --------------------------- Apply Human Parsing Model on Each Video Sequence ----------------------------- #
     with torch.no_grad():
         for idx, (images, metas) in enumerate(tqdm(dataloader), 1):
             output_imgs = []
