@@ -296,8 +296,7 @@ def main():
     # ------------------------------------------------------------------ #
     # 1. Human Parsing Dataset Configuration (LIP / ATR / Pascal)
     # ------------------------------------------------------------------ #
-    # These settings define the semantic segmentation setup of the
-    # pretrained human parsing model.
+    # These settings define the semantic segmentation setup of the pretrained human parsing model.
     settings = dataset_settings[args.dataset]
     num_classes = settings['num_classes']
     input_size = settings['input_size']
@@ -336,13 +335,8 @@ def main():
     # ------------------------------------------------------------------ #
     # These Dataset classes are responsible for:
     #   - reading gait video files frame-by-frame
-    #   - optionally applying robustness corruptions (noise, blur, snow, etc.)
-    #   - resizing/warping frames into the parser's expected input_size
-    #   - returning both the processed frame tensors AND metadata
-    #
-    # Output of each Dataset item:
-    #   frames: list of tensors [T, 3, H, W]
-    #   metas : list of dictionaries (center, scale, original size, name)
+    #   - applying robustness corruptions (noise, blur, snow, etc.)
+ 
     dataset_class_map = {
         'casiab': CASIAB,
         'ccpg': CCPG,
