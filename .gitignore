@@ -1,0 +1,8 @@
+# Ignore large annotation JSON file
+robustgait_noise_generation/instances_train2017.json
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore all model checkpoints
+robustgait_noise_generation/checkpoints/
