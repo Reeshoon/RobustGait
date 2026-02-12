@@ -20,7 +20,10 @@ from torch.nn import functional as F
 # By default, the InplaceABNSync module contains a BatchNorm Layer and a LeakyReLu layer
 from modules import InPlaceABNSync
 
-BatchNorm2d = functools.partial(InPlaceABNSync, activation='none')
+InPlaceABNSync = nn.BatchNorm2d
+BatchNorm2d = nn.BatchNorm2d
+
+#BatchNorm2d = functools.partial(InPlaceABNSync, activation='none')
 
 affine_par = True
 
