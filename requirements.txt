@@ -1,0 +1,16 @@
+numpy
+scipy
+pandas
+torch
+torchvision
+timm
+einops
+opencv-python
+decord
+kornia
+Pillow
+tqdm
+tensorboard
+matplotlib
+pyyaml
+scikit-learn

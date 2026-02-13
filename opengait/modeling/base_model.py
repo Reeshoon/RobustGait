@@ -26,9 +26,7 @@ from . import backbones
 from .loss_aggregator import LossAggregator
 from data.transform import get_transform
 from data.collate_fn import CollateFn, MultiCollateFn
-
-# ---- NEW: dataset factory import ----
-from data.dataset_factory import build_dataset
+from data.dataset import DataSet
 
 import data.sampler as Samplers
 from utils import Odict, mkdir, ddp_all_gather
@@ -218,7 +216,7 @@ class BaseModel(MetaModel, nn.Module):
         sampler_cfg = self.cfgs['trainer_cfg']['sampler'] if train else self.cfgs['evaluator_cfg']['sampler']
 
         # ---- REPLACED: DataSet → build_dataset ----
-        dataset = build_dataset(data_cfg, train)
+        dataset = DataSet(data_cfg, train)
 
         Sampler = get_attr_from([Samplers], sampler_cfg['type'])
         vaild_args = get_valid_args(Sampler, sampler_cfg, free_keys=[
