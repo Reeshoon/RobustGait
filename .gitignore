@@ -1,16 +1,17 @@
 # Ignore large annotation JSON file
-robustgait_noise_generation/instances_train2017.json
+robustgait_data_generation/instances_train2017.json
 
 # Ignore macOS system files
 .DS_Store
+**/.DS_Store
 
 # Ignore all model checkpoints
-robustgait_noise_generation/checkpoints/
+robustgait_data_generation/checkpoints
 
 myenv
 opengait/data/compare.py
 
+# Python cache
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+

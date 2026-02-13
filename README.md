@@ -23,7 +23,7 @@ RobustGait provides a pipeline to:
 
 ## Data Generation: Noise Pipeline and Silhouette Extraction
 
-See [data.md](robustgait_noise_generation/data.md) for pipeline usage and dataset preparation.
+See [prepare_data.md](robustgait_data_generation/prepare_data.md) for pipeline usage and dataset preparation.
 
 
 ---
