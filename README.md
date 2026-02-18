@@ -22,7 +22,7 @@ RobustGait provides a pipeline to:
 - Extract silhouettes after corruption using **any segmentation/parsing model**  (SCHP is provided as an example)
 
 <p align="center">
-  <img src="assets/noise_overview.png" width="900">
+  <img src="assets/noise_overview.png" width="700">
 </p>
 
 See [prepare_data.md](robustgait_data_generation/prepare_data.md) for pipeline usage and dataset preparation.
